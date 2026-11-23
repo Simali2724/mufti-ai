@@ -2,26 +2,27 @@
 
 <!-- AUTO-SNAPSHOT:START -->
 ## Auto-snapshot (machine-written — do not edit by hand)
-_Refreshed 2026-11-23 11:46 by `tools/handover_snapshot.py`. Facts only; the narrative is in the sections below._
+_Refreshed 2026-11-24 00:15 by `tools/handover_snapshot.py`. Facts only; the narrative is in the sections below._
 
 | Item | State |
 |---|---|
-| App server `http://localhost:786` | listening |
-| Ollama `:11434` (needed for search embeddings) | listening |
+| App server `http://localhost:786` | not running |
+| Ollama `:11434` (needed for search embeddings) | not running |
 | Books indexed | 2: Muqaddima-Seerat-ur-Rasool-1_1.pdf (689 p, 662 chunks); creation-man_1.pdf (102 p, 98 chunks) |
 | Active segment build | 20261116-121031 (3784 segments, bge-m3) |
 | Saved answering mode | gemini · openai=gpt-4.1-mini, anthropic=claude-sonnet-4-6, ollama=qwen3:1.7b, gemini=gemini-3.5-flash |
 | Cloud keys configured (names only) | GOOGLE_API_KEY |
 | Offline test functions | 228 in tests/test_*.py |
+| Offline suite result (this snapshot) | 290 passed, 1 warning in 67.42s (0:01:07) |
 | Open TASKS.md items | 51 |
 
-**Recently changed source/docs (48 h):** `Handsover.md` (11-23 11:46)
+**Recently changed source/docs (48 h):** `frontend/app.js` (11-24 00:08), `frontend/index.html` (11-24 00:07), `app/api/routes_chat.py` (11-24 00:07), `app/retrieval/vector_store.py` (11-24 00:07), `app/llm/providers.py` (11-24 00:06), `app/llm/router.py` (11-24 00:06), `app/llm/preferences.py` (11-24 00:06), `app/core/config.py` (11-24 00:03), `tools/prepare_cloud_deploy.py` (11-24 00:02), `tools/cloud_reindex.py` (11-24 00:02), `app/ingestion/indexer.py` (11-24 00:02), `app/ingestion/segment_index.py` (11-24 00:01), `app/core/setup_check.py` (11-24 00:00), `app/core/warmup.py` (11-24 00:00), `app/main.py` (11-24 00:00)
 
 **Newest eval results:** `eval/residual-audit-before-3flash.json` (11-18 01:31), `eval/residual-audit-after.json` (11-18 01:29), `eval/residual-audit-before.json` (11-18 00:17)
 
-**Newest request trace:** `data/diagnostics/20261118-013336-hijrat-ke-baad-madina-mein-nabi-ne-kya-k.json`
+**Newest request trace:** `data/diagnostics/20261123-120124-islamic-spain-se-arabic-science-europe-m.json`
 
-**Newest backup:** `backups/loop9-strong-fallback-20261118`
+**Newest backup:** `backups/cloud-deploy-20261123`
 
 **Last open items in TASKS.md:**
 - [ ] Review page-hit misses (`state-en-2`, `comp-en-1`, `seerah-*` expectations).
@@ -62,7 +63,32 @@ real-browser or live check → docs (this file, TASKS, FEATURES, VERIFICATION) �
 | 9 | Accuracy follow-up: residual judge made robust; real lite-audit misses found (2 of 7 flags real); second strong judge gemini-3-flash-preview | 290 tests; strong path blocked by free-tier 429 until reset | `backups/loop9-strong-fallback-20261118/` |
 **Next candidates:** compare two books · conversation export (whole chat) · quota/model status panel.
 
-# CURRENT STATE — 2026-11-17 (2): voice input fix, English UI, welcome popup + arrow tour (complete, verified)
+# CURRENT STATE — 2026-11-24: Free Cloud Hosting (Render) & User API Key Support (complete, verified)
+
+## What the user asked (Hinglish, summarised)
+User wants to host Mufti AI for free to share a demo link with people. Raised two challenges:
+1. How will public users access/use the AI API? (Solution: server key as default demo quota + optional user-provided Gemini API key in browser).
+2. Prepare the code, repo, and deployment setup for their GitHub (https://github.com/Simali2724).
+
+## What changed (backups: `backups/cloud-deploy-20261123/`)
+| Area | Change | Files |
+|---|---|---|
+| Cloud Embeddings | Added Gemini Embedding API (`text-embedding-004`) support to replace local Ollama `bge-m3` in cloud mode | `app/retrieval/vector_store.py`, `app/core/config.py` |
+| Cloud Execution | Dynamic `$PORT`, relaxed CORS for cloud origin, skipped origin-guard in cloud mode, optional Whisper/voice | `app/main.py`, `Dockerfile`, `start_cloud.sh`, `render.yaml` |
+| User API Key | ContextVar `request_api_keys` populated from `X-Gemini-Key` header; UI input in Model dialog saved to `localStorage` | `app/llm/preferences.py`, `app/llm/router.py`, `app/llm/providers.py`, `app/api/routes_chat.py`, `frontend/index.html`, `frontend/app.js` |
+| Re-indexing & Setup | Scripts for cloud re-indexing and setup checks with Ollama skipped in cloud mode | `tools/cloud_reindex.py`, `tools/prepare_cloud_deploy.py`, `app/core/setup_check.py`, `app/core/warmup.py` |
+| Git repository | Safe `.gitignore` and `.dockerignore` ignoring secrets, local DBs, and logs; initial git commit on branch `main` | `.gitignore`, `.dockerignore`, `.env.example`, `render.yaml` |
+
+## What was verified
+- `node --check frontend/app.js; node tests/ui_markdown.test.js`: OK (exit code 0)
+- `python -m pytest -q`: 290 passed in 58.8s (exit code 0)
+- `tools/handover_snapshot.py --tests`: refreshed snapshot successfully
+- Git commit created on branch `main` with 0 sensitive files tracked (no `.env`, no `sessions.sqlite`, no logs).
+
+## What remains for user
+1. Create a repository on GitHub (https://github.com/new) named `mufti-ai`.
+2. Push local commits to GitHub using `git remote add origin ... && git push -u origin main`.
+3. Create a free account on Render.com, select "New Web Service" → Connect GitHub repository → Enter `GOOGLE_API_KEY` → Deploy!
 ### Manual testing launch — 2026-11-23
 User requested startup for manual testing. Started Mufti AI and Ollama in hidden processes; no application source, index or model settings changed. Verified HTTP 200 for /, /health (status ok, storage ok, two books), /settings/models (Gemini / gemini-3.5-flash selected, local_online=true), and Ollama /api/tags (bge-m3 and local answer models installed). Startup logs: logs/mufti-manual-20261123-114429.*.log and logs/ollama-manual-20261123-114429.*.log. No question was submitted and cloud answering/quota was not tested. Next step: open http://localhost:786 and test manually. Identify current listeners before restarting; do not rely on saved PIDs.
 
