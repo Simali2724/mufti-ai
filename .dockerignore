@@ -2,8 +2,10 @@
 .env
 *.env
 model-settings.json
-data/index
-data/books/*.pdf
+data/index/ocr-cache
+data/index/embedding-cache
+data/index/segments/20261111-*
+data/index/segments/20261112-*
 data/feedback
 data/saved
 data/whisper
@@ -19,4 +21,3 @@ backups
 .vscode
 .idea
 .claude
-data/cloud-index/embedding-cache

@@ -97,11 +97,7 @@ class Settings(BaseSettings):
     warmup_on_start: bool = True
 settings = Settings()
 config = yaml.safe_load((ROOT/'config.yaml').read_text())
-# In cloud mode, use the pre-built cloud-index directory; locally use data/index
-if settings.deploy_mode == 'cloud' and (ROOT/'data/cloud-index').exists():
-    INDEX = ROOT/'data/cloud-index'
-else:
-    INDEX = ROOT/'data/index'
+INDEX = ROOT/'data/index'
 BOOKS = ROOT/'data/books'
 INDEX.mkdir(parents=True, exist_ok=True)
 BOOKS.mkdir(parents=True, exist_ok=True)
