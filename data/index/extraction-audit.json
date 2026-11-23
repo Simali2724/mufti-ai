@@ -1,0 +1,9802 @@
+[
+ {
+  "book_id": "46a52585612a906c",
+  "page": 1,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 2,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.35,
+  "flags": [
+   "very_short",
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.25,
+  "letters": 106
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 3,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.887,
+  "stray_token_ratio": 0.049,
+  "letters": 529
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 4,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.35,
+  "flags": [
+   "very_short",
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.725,
+  "stray_token_ratio": 0.303,
+  "letters": 102
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 5,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.039,
+  "letters": 282
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 6,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.042,
+  "letters": 189
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 7,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 71
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 8,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.008,
+  "letters": 491
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 9,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.937,
+  "stray_token_ratio": 0.064,
+  "letters": 399
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 10,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.961,
+  "stray_token_ratio": 0.0,
+  "letters": 590
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 11,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.951,
+  "stray_token_ratio": 0.016,
+  "letters": 445
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 12,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.019,
+  "letters": 380
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 13,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.011,
+  "letters": 324
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 14,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 421
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 15,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.026,
+  "letters": 513
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 16,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.94,
+  "stray_token_ratio": 0.022,
+  "letters": 497
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 17,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.929,
+  "stray_token_ratio": 0.041,
+  "letters": 510
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 18,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.029,
+  "letters": 257
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 19,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.009,
+  "letters": 410
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 20,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.04,
+  "letters": 290
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 21,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 330
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 22,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 208
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 23,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.025,
+  "letters": 119
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 24,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.045,
+  "letters": 274
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 25,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 26,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.981,
+  "stray_token_ratio": 0.008,
+  "letters": 1335
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 27,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.979,
+  "stray_token_ratio": 0.029,
+  "letters": 1567
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 28,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.884,
+  "stray_token_ratio": 0.012,
+  "letters": 1306
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 29,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.003,
+  "letters": 1100
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 30,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 31,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 32,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.012,
+  "letters": 1234
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 33,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.017,
+  "letters": 1093
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 34,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 872
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 35,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.422,
+  "stray_token_ratio": 0.01,
+  "letters": 1388
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 36,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.329,
+  "stray_token_ratio": 0.009,
+  "letters": 1468
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 37,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.617,
+  "stray_token_ratio": 0.011,
+  "letters": 1453
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 38,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.479,
+  "stray_token_ratio": 0.009,
+  "letters": 1467
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 39,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.6,
+  "flags": [
+   "fragmented_tokens",
+   "control_characters"
+  ],
+  "arabic_ratio": 0.876,
+  "stray_token_ratio": 0.202,
+  "letters": 670
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 40,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.6,
+  "flags": [
+   "fragmented_tokens",
+   "control_characters"
+  ],
+  "arabic_ratio": 0.841,
+  "stray_token_ratio": 0.213,
+  "letters": 609
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 41,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.6,
+  "flags": [
+   "fragmented_tokens",
+   "control_characters"
+  ],
+  "arabic_ratio": 0.864,
+  "stray_token_ratio": 0.203,
+  "letters": 656
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 42,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.917,
+  "stray_token_ratio": 0.117,
+  "letters": 943
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 43,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.974,
+  "stray_token_ratio": 0.038,
+  "letters": 1326
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 44,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.976,
+  "stray_token_ratio": 0.021,
+  "letters": 1433
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 45,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.958,
+  "stray_token_ratio": 0.04,
+  "letters": 914
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 46,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.9,
+  "flags": [
+   "control_characters"
+  ],
+  "arabic_ratio": 0.933,
+  "stray_token_ratio": 0.09,
+  "letters": 975
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 47,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.979,
+  "stray_token_ratio": 0.019,
+  "letters": 1476
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 48,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.01,
+  "letters": 1065
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 49,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.005,
+  "letters": 1439
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 50,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.58,
+  "stray_token_ratio": 0.016,
+  "letters": 1348
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 51,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.648,
+  "stray_token_ratio": 0.018,
+  "letters": 1151
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 52,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.675,
+  "stray_token_ratio": 0.033,
+  "letters": 1395
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 53,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.623,
+  "stray_token_ratio": 0.033,
+  "letters": 1381
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 54,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.673,
+  "stray_token_ratio": 0.031,
+  "letters": 1198
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 55,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.433,
+  "stray_token_ratio": 0.03,
+  "letters": 1248
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 56,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.557,
+  "stray_token_ratio": 0.031,
+  "letters": 1137
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 57,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.39,
+  "stray_token_ratio": 0.023,
+  "letters": 1300
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 58,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.221,
+  "letters": 1121
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 59,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.517,
+  "stray_token_ratio": 0.017,
+  "letters": 1463
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 60,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.564,
+  "stray_token_ratio": 0.015,
+  "letters": 1307
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 61,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.473,
+  "stray_token_ratio": 0.021,
+  "letters": 1360
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 62,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.437,
+  "stray_token_ratio": 0.016,
+  "letters": 1494
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 63,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.458,
+  "stray_token_ratio": 0.028,
+  "letters": 1394
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 64,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.579,
+  "stray_token_ratio": 0.009,
+  "letters": 1266
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 65,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.664,
+  "stray_token_ratio": 0.013,
+  "letters": 1185
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 66,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.004,
+  "letters": 910
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 67,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.009,
+  "letters": 1238
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 68,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.954,
+  "stray_token_ratio": 0.025,
+  "letters": 1293
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 69,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.945,
+  "stray_token_ratio": 0.005,
+  "letters": 1337
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 70,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.941,
+  "stray_token_ratio": 0.099,
+  "letters": 1328
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 71,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.012,
+  "letters": 669
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 72,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 404
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 73,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 74,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 75,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 76,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.919,
+  "stray_token_ratio": 0.134,
+  "letters": 842
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 77,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.887,
+  "stray_token_ratio": 0.183,
+  "letters": 782
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 78,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.91,
+  "stray_token_ratio": 0.179,
+  "letters": 897
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 79,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.92,
+  "stray_token_ratio": 0.175,
+  "letters": 963
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 80,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.92,
+  "stray_token_ratio": 0.101,
+  "letters": 746
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 81,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.922,
+  "stray_token_ratio": 0.118,
+  "letters": 781
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 82,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.01,
+  "letters": 1753
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 83,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.976,
+  "stray_token_ratio": 0.035,
+  "letters": 1266
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 84,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.946,
+  "stray_token_ratio": 0.08,
+  "letters": 909
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 85,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.94,
+  "stray_token_ratio": 0.077,
+  "letters": 920
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 86,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.896,
+  "stray_token_ratio": 0.151,
+  "letters": 864
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 87,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.951,
+  "stray_token_ratio": 0.1,
+  "letters": 1081
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 88,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.92,
+  "stray_token_ratio": 0.103,
+  "letters": 849
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 89,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.921,
+  "stray_token_ratio": 0.123,
+  "letters": 1039
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 90,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.177,
+  "letters": 1257
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 91,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.915,
+  "stray_token_ratio": 0.129,
+  "letters": 983
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 92,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.929,
+  "stray_token_ratio": 0.097,
+  "letters": 841
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 93,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.015,
+  "letters": 1401
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 94,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.925,
+  "stray_token_ratio": 0.091,
+  "letters": 881
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 95,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.925,
+  "stray_token_ratio": 0.095,
+  "letters": 791
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 96,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.877,
+  "stray_token_ratio": 0.128,
+  "letters": 689
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 97,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.862,
+  "stray_token_ratio": 0.199,
+  "letters": 680
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 98,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.971,
+  "stray_token_ratio": 0.036,
+  "letters": 1069
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 99,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.776,
+  "stray_token_ratio": 0.379,
+  "letters": 789
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 100,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.896,
+  "stray_token_ratio": 0.178,
+  "letters": 945
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 101,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.853,
+  "stray_token_ratio": 0.222,
+  "letters": 740
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 102,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.938,
+  "stray_token_ratio": 0.111,
+  "letters": 1124
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 103,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.964,
+  "stray_token_ratio": 0.03,
+  "letters": 1429
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 104,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.965,
+  "stray_token_ratio": 0.039,
+  "letters": 978
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 105,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.972,
+  "stray_token_ratio": 0.043,
+  "letters": 1352
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 106,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.005,
+  "letters": 1372
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 107,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.913,
+  "stray_token_ratio": 0.038,
+  "letters": 355
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 108,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 109,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 110,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.972,
+  "stray_token_ratio": 0.051,
+  "letters": 1243
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 111,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.966,
+  "stray_token_ratio": 0.042,
+  "letters": 986
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 112,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.781,
+  "stray_token_ratio": 0.377,
+  "letters": 934
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 113,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.887,
+  "stray_token_ratio": 0.195,
+  "letters": 944
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 114,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.91,
+  "stray_token_ratio": 0.104,
+  "letters": 701
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 115,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.87,
+  "stray_token_ratio": 0.199,
+  "letters": 922
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 116,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.6,
+  "flags": [
+   "fragmented_tokens",
+   "control_characters"
+  ],
+  "arabic_ratio": 0.859,
+  "stray_token_ratio": 0.223,
+  "letters": 690
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 117,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.913,
+  "stray_token_ratio": 0.17,
+  "letters": 1043
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 118,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.876,
+  "stray_token_ratio": 0.211,
+  "letters": 911
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 119,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.949,
+  "stray_token_ratio": 0.088,
+  "letters": 1160
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 120,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.926,
+  "stray_token_ratio": 0.132,
+  "letters": 1052
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 121,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.949,
+  "stray_token_ratio": 0.072,
+  "letters": 1020
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 122,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.975,
+  "stray_token_ratio": 0.015,
+  "letters": 1073
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 123,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.943,
+  "stray_token_ratio": 0.027,
+  "letters": 476
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 124,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.884,
+  "stray_token_ratio": 0.179,
+  "letters": 920
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 125,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.851,
+  "stray_token_ratio": 0.254,
+  "letters": 1010
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 126,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.874,
+  "stray_token_ratio": 0.222,
+  "letters": 1040
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 127,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.691,
+  "stray_token_ratio": 0.456,
+  "letters": 696
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 128,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.88,
+  "stray_token_ratio": 0.226,
+  "letters": 960
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 129,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.913,
+  "stray_token_ratio": 0.163,
+  "letters": 1144
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 130,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.005,
+  "letters": 1272
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 131,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.932,
+  "stray_token_ratio": 0.105,
+  "letters": 820
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 132,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.963,
+  "stray_token_ratio": 0.025,
+  "letters": 681
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 133,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.928,
+  "stray_token_ratio": 0.113,
+  "letters": 1034
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 134,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.954,
+  "stray_token_ratio": 0.066,
+  "letters": 1183
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 135,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.915,
+  "stray_token_ratio": 0.154,
+  "letters": 1075
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 136,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.81,
+  "stray_token_ratio": 0.307,
+  "letters": 788
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 137,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.005,
+  "letters": 1537
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 138,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.949,
+  "stray_token_ratio": 0.07,
+  "letters": 1253
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 139,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.915,
+  "stray_token_ratio": 0.146,
+  "letters": 927
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 140,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.863,
+  "stray_token_ratio": 0.241,
+  "letters": 897
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 141,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.902,
+  "stray_token_ratio": 0.183,
+  "letters": 1006
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 142,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.934,
+  "stray_token_ratio": 0.11,
+  "letters": 1266
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 143,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.878,
+  "stray_token_ratio": 0.21,
+  "letters": 813
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 144,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.895,
+  "stray_token_ratio": 0.187,
+  "letters": 1128
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 145,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.979,
+  "stray_token_ratio": 0.022,
+  "letters": 1323
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 146,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.855,
+  "stray_token_ratio": 0.233,
+  "letters": 974
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 147,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.95,
+  "stray_token_ratio": 0.073,
+  "letters": 1017
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 148,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.893,
+  "stray_token_ratio": 0.176,
+  "letters": 899
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 149,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.91,
+  "stray_token_ratio": 0.122,
+  "letters": 726
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 150,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.938,
+  "stray_token_ratio": 0.111,
+  "letters": 1248
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 151,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.945,
+  "stray_token_ratio": 0.09,
+  "letters": 1296
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 152,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.002,
+  "letters": 1533
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 153,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.849,
+  "stray_token_ratio": 0.243,
+  "letters": 664
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 154,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.974,
+  "stray_token_ratio": 0.028,
+  "letters": 1363
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 155,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.915,
+  "stray_token_ratio": 0.152,
+  "letters": 1194
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 156,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.832,
+  "stray_token_ratio": 0.297,
+  "letters": 926
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 157,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.919,
+  "stray_token_ratio": 0.144,
+  "letters": 1033
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 158,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.87,
+  "stray_token_ratio": 0.211,
+  "letters": 907
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 159,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.867,
+  "stray_token_ratio": 0.23,
+  "letters": 898
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 160,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.939,
+  "stray_token_ratio": 0.107,
+  "letters": 1160
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 161,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.871,
+  "stray_token_ratio": 0.217,
+  "letters": 1019
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 162,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.83,
+  "stray_token_ratio": 0.251,
+  "letters": 745
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 163,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.902,
+  "stray_token_ratio": 0.163,
+  "letters": 1010
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 164,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.899,
+  "stray_token_ratio": 0.19,
+  "letters": 592
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 165,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.89,
+  "stray_token_ratio": 0.177,
+  "letters": 547
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 166,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.84,
+  "stray_token_ratio": 0.23,
+  "letters": 582
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 167,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.931,
+  "stray_token_ratio": 0.093,
+  "letters": 1143
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 168,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.965,
+  "stray_token_ratio": 0.055,
+  "letters": 1153
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 169,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.787,
+  "stray_token_ratio": 0.364,
+  "letters": 633
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 170,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.849,
+  "stray_token_ratio": 0.258,
+  "letters": 1008
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 171,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.911,
+  "stray_token_ratio": 0.145,
+  "letters": 776
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 172,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.902,
+  "stray_token_ratio": 0.207,
+  "letters": 1075
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 173,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.757,
+  "stray_token_ratio": 0.394,
+  "letters": 589
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 174,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.878,
+  "stray_token_ratio": 0.15,
+  "letters": 613
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 175,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.815,
+  "stray_token_ratio": 0.275,
+  "letters": 680
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 176,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.912,
+  "stray_token_ratio": 0.129,
+  "letters": 678
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 177,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.849,
+  "stray_token_ratio": 0.223,
+  "letters": 636
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 178,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.92,
+  "stray_token_ratio": 0.1,
+  "letters": 817
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 179,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.877,
+  "stray_token_ratio": 0.18,
+  "letters": 642
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 180,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.938,
+  "stray_token_ratio": 0.071,
+  "letters": 870
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 181,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.086,
+  "letters": 1454
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 182,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 183,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 184,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.954,
+  "stray_token_ratio": 0.041,
+  "letters": 691
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 185,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.916,
+  "stray_token_ratio": 0.096,
+  "letters": 993
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 186,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.961,
+  "stray_token_ratio": 0.038,
+  "letters": 1007
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 187,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.962,
+  "stray_token_ratio": 0.022,
+  "letters": 947
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 188,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.95,
+  "stray_token_ratio": 0.078,
+  "letters": 1162
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 189,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.944,
+  "stray_token_ratio": 0.055,
+  "letters": 800
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 190,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.6,
+  "flags": [
+   "fragmented_tokens",
+   "control_characters"
+  ],
+  "arabic_ratio": 0.788,
+  "stray_token_ratio": 0.34,
+  "letters": 777
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 191,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.848,
+  "stray_token_ratio": 0.268,
+  "letters": 900
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 192,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.9,
+  "stray_token_ratio": 0.049,
+  "letters": 888
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 193,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.937,
+  "stray_token_ratio": 0.083,
+  "letters": 972
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 194,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.92,
+  "stray_token_ratio": 0.079,
+  "letters": 747
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 195,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.887,
+  "stray_token_ratio": 0.15,
+  "letters": 673
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 196,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.909,
+  "stray_token_ratio": 0.114,
+  "letters": 778
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 197,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.933,
+  "stray_token_ratio": 0.076,
+  "letters": 884
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 198,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.97,
+  "stray_token_ratio": 0.027,
+  "letters": 1292
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 199,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.972,
+  "stray_token_ratio": 0.007,
+  "letters": 1042
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 200,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.967,
+  "stray_token_ratio": 0.039,
+  "letters": 1221
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 201,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.943,
+  "stray_token_ratio": 0.066,
+  "letters": 873
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 202,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.952,
+  "stray_token_ratio": 0.056,
+  "letters": 980
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 203,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.94,
+  "stray_token_ratio": 0.074,
+  "letters": 870
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 204,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.906,
+  "stray_token_ratio": 0.109,
+  "letters": 732
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 205,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.911,
+  "stray_token_ratio": 0.131,
+  "letters": 834
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 206,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.045,
+  "letters": 1006
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 207,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.931,
+  "stray_token_ratio": 0.037,
+  "letters": 1215
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 208,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.798,
+  "stray_token_ratio": 0.18,
+  "letters": 793
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 209,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.916,
+  "stray_token_ratio": 0.111,
+  "letters": 785
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 210,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.6,
+  "flags": [
+   "fragmented_tokens",
+   "control_characters"
+  ],
+  "arabic_ratio": 0.734,
+  "stray_token_ratio": 0.37,
+  "letters": 583
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 211,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.785,
+  "stray_token_ratio": 0.365,
+  "letters": 787
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 212,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.925,
+  "stray_token_ratio": 0.117,
+  "letters": 924
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 213,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.952,
+  "stray_token_ratio": 0.076,
+  "letters": 1117
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 214,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.962,
+  "stray_token_ratio": 0.042,
+  "letters": 1105
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 215,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.018,
+  "letters": 1498
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 216,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.059,
+  "letters": 927
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 217,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.973,
+  "stray_token_ratio": 0.037,
+  "letters": 1505
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 218,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.9,
+  "flags": [
+   "control_characters"
+  ],
+  "arabic_ratio": 0.965,
+  "stray_token_ratio": 0.043,
+  "letters": 1253
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 219,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.859,
+  "stray_token_ratio": 0.251,
+  "letters": 811
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 220,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.947,
+  "stray_token_ratio": 0.069,
+  "letters": 899
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 221,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.942,
+  "stray_token_ratio": 0.077,
+  "letters": 977
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 222,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.857,
+  "stray_token_ratio": 0.233,
+  "letters": 918
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 223,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.926,
+  "stray_token_ratio": 0.128,
+  "letters": 921
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 224,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.963,
+  "stray_token_ratio": 0.032,
+  "letters": 899
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 225,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.961,
+  "stray_token_ratio": 0.047,
+  "letters": 1090
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 226,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.919,
+  "stray_token_ratio": 0.074,
+  "letters": 892
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 227,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.966,
+  "stray_token_ratio": 0.024,
+  "letters": 1005
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 228,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.964,
+  "stray_token_ratio": 0.0,
+  "letters": 1398
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 229,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.938,
+  "stray_token_ratio": 0.012,
+  "letters": 838
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 230,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.969,
+  "stray_token_ratio": 0.008,
+  "letters": 1343
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 231,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 1482
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 232,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.969,
+  "stray_token_ratio": 0.01,
+  "letters": 1426
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 233,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.047,
+  "letters": 1030
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 234,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.97,
+  "stray_token_ratio": 0.034,
+  "letters": 1227
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 235,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.062,
+  "letters": 1152
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 236,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.945,
+  "stray_token_ratio": 0.083,
+  "letters": 1048
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 237,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.967,
+  "stray_token_ratio": 0.052,
+  "letters": 1353
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 238,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.974,
+  "stray_token_ratio": 0.02,
+  "letters": 1382
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 239,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.95,
+  "stray_token_ratio": 0.053,
+  "letters": 1029
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 240,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.941,
+  "stray_token_ratio": 0.076,
+  "letters": 765
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 241,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.956,
+  "stray_token_ratio": 0.043,
+  "letters": 962
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 242,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.946,
+  "stray_token_ratio": 0.066,
+  "letters": 1051
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 243,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.9,
+  "flags": [
+   "control_characters"
+  ],
+  "arabic_ratio": 0.87,
+  "stray_token_ratio": 0.162,
+  "letters": 655
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 244,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.895,
+  "stray_token_ratio": 0.15,
+  "letters": 791
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 245,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 246,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 247,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 248,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.936,
+  "stray_token_ratio": 0.06,
+  "letters": 1190
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 249,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.937,
+  "stray_token_ratio": 0.093,
+  "letters": 967
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 250,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.933,
+  "stray_token_ratio": 0.092,
+  "letters": 945
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 251,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.91,
+  "stray_token_ratio": 0.057,
+  "letters": 909
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 252,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.918,
+  "stray_token_ratio": 0.116,
+  "letters": 975
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 253,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.911,
+  "stray_token_ratio": 0.152,
+  "letters": 1020
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 254,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.955,
+  "stray_token_ratio": 0.076,
+  "letters": 1223
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 255,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.949,
+  "stray_token_ratio": 0.074,
+  "letters": 1080
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 256,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.647,
+  "stray_token_ratio": 0.03,
+  "letters": 878
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 257,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.495,
+  "stray_token_ratio": 0.024,
+  "letters": 933
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 258,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.968,
+  "stray_token_ratio": 0.005,
+  "letters": 1537
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 259,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.593,
+  "stray_token_ratio": 0.049,
+  "letters": 798
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 260,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.519,
+  "stray_token_ratio": 0.103,
+  "letters": 822
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 261,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.109,
+  "letters": 1381
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 262,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.819,
+  "stray_token_ratio": 0.031,
+  "letters": 753
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 263,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.719,
+  "stray_token_ratio": 0.074,
+  "letters": 795
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 264,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.933,
+  "stray_token_ratio": 0.111,
+  "letters": 1102
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 265,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.64,
+  "stray_token_ratio": 0.041,
+  "letters": 1069
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 266,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.939,
+  "stray_token_ratio": 0.072,
+  "letters": 999
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 267,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.906,
+  "stray_token_ratio": 0.067,
+  "letters": 819
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 268,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.018,
+  "letters": 1298
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 269,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.838,
+  "stray_token_ratio": 0.192,
+  "letters": 716
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 270,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.942,
+  "stray_token_ratio": 0.068,
+  "letters": 1053
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 271,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.061,
+  "letters": 1295
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 272,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.897,
+  "stray_token_ratio": 0.07,
+  "letters": 887
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 273,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.443,
+  "stray_token_ratio": 0.044,
+  "letters": 1069
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 274,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.932,
+  "stray_token_ratio": 0.067,
+  "letters": 823
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 275,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.899,
+  "stray_token_ratio": 0.094,
+  "letters": 871
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 276,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.705,
+  "stray_token_ratio": 0.095,
+  "letters": 596
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 277,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.905,
+  "stray_token_ratio": 0.03,
+  "letters": 970
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 278,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.914,
+  "stray_token_ratio": 0.108,
+  "letters": 674
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 279,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.882,
+  "stray_token_ratio": 0.093,
+  "letters": 687
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 280,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.854,
+  "stray_token_ratio": 0.099,
+  "letters": 671
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 281,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.925,
+  "stray_token_ratio": 0.095,
+  "letters": 756
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 282,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.876,
+  "stray_token_ratio": 0.096,
+  "letters": 825
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 283,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.062,
+  "letters": 1004
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 284,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.894,
+  "stray_token_ratio": 0.089,
+  "letters": 828
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 285,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.776,
+  "stray_token_ratio": 0.052,
+  "letters": 615
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 286,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.86,
+  "stray_token_ratio": 0.048,
+  "letters": 820
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 287,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.927,
+  "stray_token_ratio": 0.054,
+  "letters": 1254
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 288,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.903,
+  "stray_token_ratio": 0.129,
+  "letters": 954
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 289,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.967,
+  "stray_token_ratio": 0.048,
+  "letters": 857
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 290,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.971,
+  "stray_token_ratio": 0.02,
+  "letters": 1333
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 291,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.891,
+  "stray_token_ratio": 0.17,
+  "letters": 1266
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 292,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.945,
+  "stray_token_ratio": 0.075,
+  "letters": 1280
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 293,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.936,
+  "stray_token_ratio": 0.053,
+  "letters": 1329
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 294,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.852,
+  "stray_token_ratio": 0.041,
+  "letters": 877
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 295,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.872,
+  "stray_token_ratio": 0.086,
+  "letters": 774
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 296,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.866,
+  "stray_token_ratio": 0.038,
+  "letters": 887
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 297,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.915,
+  "stray_token_ratio": 0.169,
+  "letters": 728
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 298,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.935,
+  "stray_token_ratio": 0.125,
+  "letters": 1195
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 299,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.102,
+  "letters": 996
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 300,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.13,
+  "letters": 1000
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 301,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.98,
+  "stray_token_ratio": 0.003,
+  "letters": 1243
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 302,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.917,
+  "stray_token_ratio": 0.182,
+  "letters": 1045
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 303,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.92,
+  "stray_token_ratio": 0.192,
+  "letters": 945
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 304,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.039,
+  "letters": 1111
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 305,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.008,
+  "letters": 1299
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 306,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.013,
+  "letters": 1246
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 307,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.114,
+  "letters": 1108
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 308,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.938,
+  "stray_token_ratio": 0.112,
+  "letters": 1207
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 309,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.93,
+  "stray_token_ratio": 0.119,
+  "letters": 744
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 310,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.969,
+  "stray_token_ratio": 0.03,
+  "letters": 1240
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 311,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.922,
+  "stray_token_ratio": 0.166,
+  "letters": 1058
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 312,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.002,
+  "letters": 1464
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 313,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.958,
+  "stray_token_ratio": 0.076,
+  "letters": 996
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 314,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.146,
+  "letters": 934
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 315,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.931,
+  "stray_token_ratio": 0.108,
+  "letters": 874
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 316,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.97,
+  "stray_token_ratio": 0.027,
+  "letters": 1072
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 317,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.01,
+  "letters": 1057
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 318,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.975,
+  "stray_token_ratio": 0.005,
+  "letters": 1331
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 319,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.009,
+  "letters": 1241
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 320,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.682,
+  "stray_token_ratio": 0.085,
+  "letters": 642
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 321,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.792,
+  "stray_token_ratio": 0.092,
+  "letters": 745
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 322,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.838,
+  "stray_token_ratio": 0.09,
+  "letters": 743
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 323,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.85,
+  "stray_token_ratio": 0.092,
+  "letters": 620
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 324,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.748,
+  "stray_token_ratio": 0.138,
+  "letters": 1301
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 325,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.327,
+  "stray_token_ratio": 0.046,
+  "letters": 967
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 326,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.779,
+  "stray_token_ratio": 0.019,
+  "letters": 1526
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 327,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.911,
+  "stray_token_ratio": 0.125,
+  "letters": 1075
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 328,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.061,
+  "letters": 1100
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 329,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.928,
+  "stray_token_ratio": 0.11,
+  "letters": 971
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 330,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.79,
+  "stray_token_ratio": 0.105,
+  "letters": 708
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 331,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.816,
+  "stray_token_ratio": 0.071,
+  "letters": 749
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 332,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.928,
+  "stray_token_ratio": 0.128,
+  "letters": 753
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 333,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.932,
+  "stray_token_ratio": 0.084,
+  "letters": 738
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 334,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.014,
+  "letters": 750
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 335,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.934,
+  "stray_token_ratio": 0.118,
+  "letters": 972
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 336,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.91,
+  "stray_token_ratio": 0.158,
+  "letters": 934
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 337,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.935,
+  "stray_token_ratio": 0.132,
+  "letters": 1079
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 338,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.138,
+  "letters": 945
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 339,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.947,
+  "stray_token_ratio": 0.014,
+  "letters": 1311
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 340,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.876,
+  "stray_token_ratio": 0.138,
+  "letters": 1003
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 341,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.841,
+  "stray_token_ratio": 0.228,
+  "letters": 710
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 342,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.89,
+  "stray_token_ratio": 0.167,
+  "letters": 834
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 343,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.896,
+  "stray_token_ratio": 0.179,
+  "letters": 879
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 344,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.881,
+  "stray_token_ratio": 0.176,
+  "letters": 919
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 345,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.927,
+  "stray_token_ratio": 0.071,
+  "letters": 902
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 346,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.88,
+  "stray_token_ratio": 0.181,
+  "letters": 972
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 347,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.888,
+  "stray_token_ratio": 0.193,
+  "letters": 840
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 348,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.906,
+  "stray_token_ratio": 0.146,
+  "letters": 949
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 349,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.937,
+  "stray_token_ratio": 0.109,
+  "letters": 965
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 350,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.757,
+  "stray_token_ratio": 0.077,
+  "letters": 742
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 351,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.922,
+  "stray_token_ratio": 0.088,
+  "letters": 745
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 352,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.896,
+  "stray_token_ratio": 0.092,
+  "letters": 750
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 353,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.851,
+  "stray_token_ratio": 0.065,
+  "letters": 902
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 354,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.931,
+  "stray_token_ratio": 0.128,
+  "letters": 1080
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 355,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.969,
+  "stray_token_ratio": 0.043,
+  "letters": 1238
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 356,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.947,
+  "stray_token_ratio": 0.129,
+  "letters": 1109
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 357,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.961,
+  "stray_token_ratio": 0.053,
+  "letters": 1074
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 358,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.977,
+  "stray_token_ratio": 0.009,
+  "letters": 1282
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 359,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.977,
+  "stray_token_ratio": 0.014,
+  "letters": 1371
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 360,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.118,
+  "letters": 781
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 361,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.949,
+  "stray_token_ratio": 0.068,
+  "letters": 829
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 362,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.004,
+  "letters": 864
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 363,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.926,
+  "stray_token_ratio": 0.072,
+  "letters": 1238
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 364,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.809,
+  "stray_token_ratio": 0.146,
+  "letters": 963
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 365,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.798,
+  "stray_token_ratio": 0.116,
+  "letters": 988
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 366,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.429,
+  "stray_token_ratio": 0.035,
+  "letters": 1213
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 367,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.522,
+  "stray_token_ratio": 0.026,
+  "letters": 1091
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 368,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.51,
+  "stray_token_ratio": 0.041,
+  "letters": 1188
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 369,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.492,
+  "stray_token_ratio": 0.049,
+  "letters": 1108
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 370,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.547,
+  "stray_token_ratio": 0.077,
+  "letters": 1363
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 371,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.421,
+  "stray_token_ratio": 0.015,
+  "letters": 1490
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 372,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.389,
+  "stray_token_ratio": 0.003,
+  "letters": 1546
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 373,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.667,
+  "stray_token_ratio": 0.018,
+  "letters": 1372
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 374,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.339,
+  "stray_token_ratio": 0.057,
+  "letters": 1119
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 375,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.684,
+  "stray_token_ratio": 0.162,
+  "letters": 1152
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 376,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.526,
+  "stray_token_ratio": 0.063,
+  "letters": 1149
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 377,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.626,
+  "stray_token_ratio": 0.051,
+  "letters": 1409
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 378,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.694,
+  "stray_token_ratio": 0.013,
+  "letters": 1516
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 379,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.407,
+  "stray_token_ratio": 0.038,
+  "letters": 1043
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 380,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.751,
+  "stray_token_ratio": 0.028,
+  "letters": 1401
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 381,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.364,
+  "stray_token_ratio": 0.016,
+  "letters": 1576
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 382,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 383,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.648,
+  "stray_token_ratio": 0.012,
+  "letters": 1262
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 384,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.641,
+  "stray_token_ratio": 0.02,
+  "letters": 1381
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 385,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 246
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 386,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 387,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 388,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.72,
+  "stray_token_ratio": 0.012,
+  "letters": 1370
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 389,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.487,
+  "stray_token_ratio": 0.014,
+  "letters": 1478
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 390,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.78,
+  "stray_token_ratio": 0.015,
+  "letters": 1466
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 391,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.606,
+  "stray_token_ratio": 0.038,
+  "letters": 1313
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 392,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.724,
+  "stray_token_ratio": 0.096,
+  "letters": 1337
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 393,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.667,
+  "stray_token_ratio": 0.023,
+  "letters": 1300
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 394,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.904,
+  "stray_token_ratio": 0.156,
+  "letters": 1152
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 395,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.017,
+  "letters": 818
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 396,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.836,
+  "stray_token_ratio": 0.284,
+  "letters": 605
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 397,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.932,
+  "stray_token_ratio": 0.082,
+  "letters": 853
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 398,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.885,
+  "stray_token_ratio": 0.207,
+  "letters": 911
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 399,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.93,
+  "stray_token_ratio": 0.116,
+  "letters": 1179
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 400,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.048,
+  "letters": 1100
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 401,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.972,
+  "stray_token_ratio": 0.045,
+  "letters": 1290
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 402,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.964,
+  "stray_token_ratio": 0.043,
+  "letters": 988
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 403,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.874,
+  "stray_token_ratio": 0.194,
+  "letters": 619
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 404,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.955,
+  "stray_token_ratio": 0.066,
+  "letters": 1034
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 405,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.959,
+  "stray_token_ratio": 0.062,
+  "letters": 1501
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 406,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.983,
+  "stray_token_ratio": 0.013,
+  "letters": 1639
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 407,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.975,
+  "stray_token_ratio": 0.021,
+  "letters": 1188
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 408,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.974,
+  "stray_token_ratio": 0.02,
+  "letters": 1287
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 409,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.576,
+  "stray_token_ratio": 0.017,
+  "letters": 1466
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 410,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.751,
+  "stray_token_ratio": 0.012,
+  "letters": 1467
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 411,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.986,
+  "stray_token_ratio": 0.02,
+  "letters": 1609
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 412,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.982,
+  "stray_token_ratio": 0.019,
+  "letters": 1716
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 413,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.049,
+  "letters": 1153
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 414,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.979,
+  "stray_token_ratio": 0.011,
+  "letters": 1267
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 415,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.957,
+  "stray_token_ratio": 0.025,
+  "letters": 1023
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 416,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.615,
+  "stray_token_ratio": 0.068,
+  "letters": 1225
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 417,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.011,
+  "letters": 1047
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 418,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.849,
+  "stray_token_ratio": 0.169,
+  "letters": 829
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 419,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.973,
+  "stray_token_ratio": 0.033,
+  "letters": 1445
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 420,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.929,
+  "stray_token_ratio": 0.09,
+  "letters": 987
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 421,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.635,
+  "stray_token_ratio": 0.01,
+  "letters": 1236
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 422,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.467,
+  "stray_token_ratio": 0.035,
+  "letters": 1437
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 423,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.885,
+  "stray_token_ratio": 0.16,
+  "letters": 1244
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 424,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.789,
+  "stray_token_ratio": 0.319,
+  "letters": 902
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 425,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.587,
+  "stray_token_ratio": 0.016,
+  "letters": 1507
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 426,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.831,
+  "stray_token_ratio": 0.082,
+  "letters": 804
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 427,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.921,
+  "stray_token_ratio": 0.129,
+  "letters": 916
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 428,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.972,
+  "stray_token_ratio": 0.005,
+  "letters": 1479
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 429,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.839,
+  "stray_token_ratio": 0.032,
+  "letters": 1072
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 430,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.89,
+  "stray_token_ratio": 0.023,
+  "letters": 1176
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 431,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.855,
+  "stray_token_ratio": 0.013,
+  "letters": 1417
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 432,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.74,
+  "stray_token_ratio": 0.01,
+  "letters": 1509
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 433,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.716,
+  "stray_token_ratio": 0.01,
+  "letters": 1508
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 434,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.83,
+  "stray_token_ratio": 0.015,
+  "letters": 1491
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 435,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.623,
+  "stray_token_ratio": 0.022,
+  "letters": 1426
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 436,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.774,
+  "stray_token_ratio": 0.014,
+  "letters": 1636
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 437,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.599,
+  "stray_token_ratio": 0.008,
+  "letters": 1525
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 438,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.387,
+  "stray_token_ratio": 0.022,
+  "letters": 1493
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 439,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.868,
+  "stray_token_ratio": 0.005,
+  "letters": 1367
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 440,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.385,
+  "stray_token_ratio": 0.013,
+  "letters": 1568
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 441,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.009,
+  "letters": 1223
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 442,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.899,
+  "stray_token_ratio": 0.139,
+  "letters": 1100
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 443,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.646,
+  "stray_token_ratio": 0.114,
+  "letters": 1454
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 444,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.833,
+  "stray_token_ratio": 0.145,
+  "letters": 1356
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 445,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.764,
+  "stray_token_ratio": 0.095,
+  "letters": 1194
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 446,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.56,
+  "stray_token_ratio": 0.022,
+  "letters": 1379
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 447,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.508,
+  "stray_token_ratio": 0.023,
+  "letters": 1439
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 448,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.373,
+  "stray_token_ratio": 0.027,
+  "letters": 1479
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 449,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.917,
+  "stray_token_ratio": 0.065,
+  "letters": 1361
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 450,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.359,
+  "stray_token_ratio": 0.012,
+  "letters": 1408
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 451,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.747,
+  "stray_token_ratio": 0.01,
+  "letters": 1148
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 452,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.872,
+  "stray_token_ratio": 0.052,
+  "letters": 844
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 453,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.977,
+  "stray_token_ratio": 0.005,
+  "letters": 1593
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 454,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.619,
+  "stray_token_ratio": 0.02,
+  "letters": 1077
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 455,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.974,
+  "stray_token_ratio": 0.012,
+  "letters": 1528
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 456,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.97,
+  "stray_token_ratio": 0.014,
+  "letters": 1521
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 457,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.944,
+  "stray_token_ratio": 0.006,
+  "letters": 1151
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 458,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.954,
+  "stray_token_ratio": 0.01,
+  "letters": 1421
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 459,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.927,
+  "stray_token_ratio": 0.075,
+  "letters": 1278
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 460,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.917,
+  "stray_token_ratio": 0.068,
+  "letters": 1474
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 461,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.938,
+  "stray_token_ratio": 0.011,
+  "letters": 1299
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 462,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.941,
+  "stray_token_ratio": 0.038,
+  "letters": 1359
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 463,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.019,
+  "letters": 1477
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 464,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.454,
+  "stray_token_ratio": 0.052,
+  "letters": 1389
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 465,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.721,
+  "stray_token_ratio": 0.024,
+  "letters": 1346
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 466,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.966,
+  "stray_token_ratio": 0.0,
+  "letters": 1372
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 467,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.9,
+  "flags": [
+   "control_characters"
+  ],
+  "arabic_ratio": 0.902,
+  "stray_token_ratio": 0.049,
+  "letters": 1369
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 468,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.572,
+  "stray_token_ratio": 0.093,
+  "letters": 1188
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 469,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.026,
+  "letters": 1642
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 470,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.84,
+  "stray_token_ratio": 0.011,
+  "letters": 1382
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 471,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.797,
+  "stray_token_ratio": 0.039,
+  "letters": 1450
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 472,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 473,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 474,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.569,
+  "stray_token_ratio": 0.022,
+  "letters": 1303
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 475,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.974,
+  "stray_token_ratio": 0.029,
+  "letters": 1430
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 476,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.53,
+  "stray_token_ratio": 0.015,
+  "letters": 1084
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 477,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.586,
+  "stray_token_ratio": 0.023,
+  "letters": 1168
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 478,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.887,
+  "stray_token_ratio": 0.136,
+  "letters": 1335
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 479,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.972,
+  "stray_token_ratio": 0.031,
+  "letters": 1522
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 480,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.902,
+  "stray_token_ratio": 0.132,
+  "letters": 1274
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 481,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.942,
+  "stray_token_ratio": 0.029,
+  "letters": 1355
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 482,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.871,
+  "stray_token_ratio": 0.089,
+  "letters": 852
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 483,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.943,
+  "stray_token_ratio": 0.053,
+  "letters": 1447
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 484,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.869,
+  "stray_token_ratio": 0.171,
+  "letters": 1138
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 485,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.94,
+  "stray_token_ratio": 0.049,
+  "letters": 1130
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 486,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.052,
+  "letters": 1210
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 487,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.846,
+  "stray_token_ratio": 0.152,
+  "letters": 1275
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 488,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.035,
+  "letters": 1548
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 489,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.97,
+  "stray_token_ratio": 0.003,
+  "letters": 1482
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 490,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.84,
+  "stray_token_ratio": 0.079,
+  "letters": 1371
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 491,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.933,
+  "stray_token_ratio": 0.037,
+  "letters": 1427
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 492,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.905,
+  "stray_token_ratio": 0.114,
+  "letters": 1409
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 493,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.887,
+  "stray_token_ratio": 0.107,
+  "letters": 1279
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 494,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.847,
+  "stray_token_ratio": 0.241,
+  "letters": 1225
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 495,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.861,
+  "stray_token_ratio": 0.202,
+  "letters": 1106
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 496,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.839,
+  "stray_token_ratio": 0.3,
+  "letters": 1016
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 497,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.831,
+  "stray_token_ratio": 0.246,
+  "letters": 985
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 498,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.906,
+  "stray_token_ratio": 0.113,
+  "letters": 1128
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 499,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.859,
+  "stray_token_ratio": 0.225,
+  "letters": 1189
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 500,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.878,
+  "stray_token_ratio": 0.222,
+  "letters": 1093
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 501,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.774,
+  "stray_token_ratio": 0.37,
+  "letters": 917
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 502,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.956,
+  "stray_token_ratio": 0.016,
+  "letters": 1434
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 503,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.876,
+  "stray_token_ratio": 0.221,
+  "letters": 1030
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 504,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.824,
+  "stray_token_ratio": 0.291,
+  "letters": 916
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 505,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.924,
+  "stray_token_ratio": 0.085,
+  "letters": 1321
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 506,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.945,
+  "stray_token_ratio": 0.017,
+  "letters": 1320
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 507,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.969,
+  "stray_token_ratio": 0.0,
+  "letters": 1299
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 508,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.906,
+  "stray_token_ratio": 0.117,
+  "letters": 1197
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 509,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.934,
+  "stray_token_ratio": 0.036,
+  "letters": 1399
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 510,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.942,
+  "stray_token_ratio": 0.04,
+  "letters": 1249
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 511,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.921,
+  "stray_token_ratio": 0.117,
+  "letters": 1342
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 512,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.888,
+  "stray_token_ratio": 0.176,
+  "letters": 1257
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 513,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.928,
+  "stray_token_ratio": 0.139,
+  "letters": 1383
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 514,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.897,
+  "stray_token_ratio": 0.142,
+  "letters": 1155
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 515,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.93,
+  "stray_token_ratio": 0.059,
+  "letters": 958
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 516,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.927,
+  "stray_token_ratio": 0.074,
+  "letters": 961
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 517,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.958,
+  "stray_token_ratio": 0.038,
+  "letters": 1507
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 518,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.899,
+  "stray_token_ratio": 0.196,
+  "letters": 1254
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 519,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.95,
+  "stray_token_ratio": 0.069,
+  "letters": 1331
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 520,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.947,
+  "stray_token_ratio": 0.091,
+  "letters": 1185
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 521,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.836,
+  "stray_token_ratio": 0.046,
+  "letters": 1119
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 522,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.8,
+  "stray_token_ratio": 0.014,
+  "letters": 1575
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 523,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.916,
+  "stray_token_ratio": 0.01,
+  "letters": 1547
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 524,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.775,
+  "stray_token_ratio": 0.027,
+  "letters": 1398
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 525,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.954,
+  "stray_token_ratio": 0.016,
+  "letters": 1650
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 526,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.664,
+  "stray_token_ratio": 0.028,
+  "letters": 1063
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 527,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.66,
+  "stray_token_ratio": 0.01,
+  "letters": 1549
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 528,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.45,
+  "stray_token_ratio": 0.031,
+  "letters": 1505
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 529,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.549,
+  "stray_token_ratio": 0.012,
+  "letters": 1075
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 530,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.502,
+  "stray_token_ratio": 0.019,
+  "letters": 1324
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 531,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.737,
+  "stray_token_ratio": 0.02,
+  "letters": 1396
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 532,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.858,
+  "stray_token_ratio": 0.026,
+  "letters": 1442
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 533,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.87,
+  "stray_token_ratio": 0.039,
+  "letters": 1545
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 534,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.686,
+  "stray_token_ratio": 0.027,
+  "letters": 1384
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 535,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.802,
+  "stray_token_ratio": 0.003,
+  "letters": 1316
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 536,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.672,
+  "stray_token_ratio": 0.021,
+  "letters": 1356
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 537,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.904,
+  "stray_token_ratio": 0.012,
+  "letters": 1591
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 538,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.608,
+  "stray_token_ratio": 0.017,
+  "letters": 1407
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 539,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.56,
+  "stray_token_ratio": 0.008,
+  "letters": 1461
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 540,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.718,
+  "stray_token_ratio": 0.04,
+  "letters": 1434
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 541,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.85,
+  "stray_token_ratio": 0.027,
+  "letters": 1482
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 542,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.82,
+  "stray_token_ratio": 0.016,
+  "letters": 1414
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 543,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 544,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 545,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 546,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.894,
+  "stray_token_ratio": 0.032,
+  "letters": 1155
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 547,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.974,
+  "stray_token_ratio": 0.036,
+  "letters": 1513
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 548,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.917,
+  "stray_token_ratio": 0.035,
+  "letters": 1211
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 549,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.926,
+  "stray_token_ratio": 0.091,
+  "letters": 761
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 550,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.755,
+  "stray_token_ratio": 0.373,
+  "letters": 628
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 551,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.793,
+  "stray_token_ratio": 0.339,
+  "letters": 734
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 552,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.928,
+  "stray_token_ratio": 0.088,
+  "letters": 794
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 553,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.721,
+  "stray_token_ratio": 0.44,
+  "letters": 609
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 554,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.864,
+  "stray_token_ratio": 0.208,
+  "letters": 794
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 555,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.764,
+  "stray_token_ratio": 0.378,
+  "letters": 726
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 556,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.834,
+  "stray_token_ratio": 0.26,
+  "letters": 813
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 557,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.922,
+  "stray_token_ratio": 0.076,
+  "letters": 670
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 558,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.768,
+  "stray_token_ratio": 0.332,
+  "letters": 708
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 559,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.931,
+  "stray_token_ratio": 0.115,
+  "letters": 1138
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 560,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.874,
+  "stray_token_ratio": 0.106,
+  "letters": 708
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 561,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.612,
+  "stray_token_ratio": 0.182,
+  "letters": 577
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 562,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.326,
+  "stray_token_ratio": 0.28,
+  "letters": 374
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 563,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 564,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.319,
+  "stray_token_ratio": 0.321,
+  "letters": 323
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 565,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.802,
+  "stray_token_ratio": 0.131,
+  "letters": 721
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 566,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.975,
+  "stray_token_ratio": 0.018,
+  "letters": 957
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 567,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.894,
+  "stray_token_ratio": 0.173,
+  "letters": 1000
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 568,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.929,
+  "stray_token_ratio": 0.13,
+  "letters": 1130
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 569,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.977,
+  "stray_token_ratio": 0.027,
+  "letters": 1380
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 570,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.949,
+  "stray_token_ratio": 0.068,
+  "letters": 1018
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 571,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.858,
+  "stray_token_ratio": 0.246,
+  "letters": 1052
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 572,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.918,
+  "stray_token_ratio": 0.063,
+  "letters": 1041
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 573,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.891,
+  "stray_token_ratio": 0.103,
+  "letters": 907
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 574,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.845,
+  "stray_token_ratio": 0.076,
+  "letters": 1342
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 575,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.509,
+  "stray_token_ratio": 0.022,
+  "letters": 1514
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 576,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.495,
+  "stray_token_ratio": 0.011,
+  "letters": 1480
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 577,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.518,
+  "stray_token_ratio": 0.026,
+  "letters": 1418
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 578,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.381,
+  "stray_token_ratio": 0.027,
+  "letters": 1201
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 579,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.537,
+  "stray_token_ratio": 0.024,
+  "letters": 1416
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 580,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.439,
+  "stray_token_ratio": 0.029,
+  "letters": 1143
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 581,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.626,
+  "stray_token_ratio": 0.015,
+  "letters": 1344
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 582,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.931,
+  "stray_token_ratio": 0.015,
+  "letters": 1513
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 583,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.834,
+  "stray_token_ratio": 0.042,
+  "letters": 1489
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 584,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.661,
+  "stray_token_ratio": 0.046,
+  "letters": 1441
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 585,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.44,
+  "stray_token_ratio": 0.03,
+  "letters": 1187
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 586,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.8,
+  "stray_token_ratio": 0.011,
+  "letters": 1414
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 587,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.571,
+  "stray_token_ratio": 0.03,
+  "letters": 1449
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 588,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.634,
+  "stray_token_ratio": 0.015,
+  "letters": 1394
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 589,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.593,
+  "stray_token_ratio": 0.046,
+  "letters": 1583
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 590,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.494,
+  "stray_token_ratio": 0.142,
+  "letters": 1353
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 591,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.113,
+  "letters": 1264
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 592,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.439,
+  "stray_token_ratio": 0.048,
+  "letters": 1423
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 593,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.442,
+  "stray_token_ratio": 0.057,
+  "letters": 1275
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 594,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.625,
+  "stray_token_ratio": 0.057,
+  "letters": 1359
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 595,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 596,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.074,
+  "letters": 97
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 597,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.491,
+  "stray_token_ratio": 0.05,
+  "letters": 1236
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 598,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.743,
+  "stray_token_ratio": 0.045,
+  "letters": 1370
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 599,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.691,
+  "stray_token_ratio": 0.075,
+  "letters": 1146
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 600,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.6,
+  "stray_token_ratio": 0.061,
+  "letters": 1384
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 601,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.487,
+  "stray_token_ratio": 0.022,
+  "letters": 1522
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 602,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.331,
+  "stray_token_ratio": 0.006,
+  "letters": 1431
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 603,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.683,
+  "stray_token_ratio": 0.006,
+  "letters": 1226
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 604,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.429,
+  "stray_token_ratio": 0.032,
+  "letters": 1442
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 605,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.521,
+  "stray_token_ratio": 0.034,
+  "letters": 1421
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 606,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.548,
+  "stray_token_ratio": 0.006,
+  "letters": 1367
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 607,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.667,
+  "stray_token_ratio": 0.065,
+  "letters": 1320
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 608,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.467,
+  "stray_token_ratio": 0.049,
+  "letters": 1437
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 609,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.788,
+  "stray_token_ratio": 0.069,
+  "letters": 1296
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 610,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.681,
+  "stray_token_ratio": 0.031,
+  "letters": 1353
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 611,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.6,
+  "stray_token_ratio": 0.097,
+  "letters": 1084
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 612,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.824,
+  "stray_token_ratio": 0.037,
+  "letters": 1208
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 613,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.654,
+  "stray_token_ratio": 0.049,
+  "letters": 1308
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 614,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.209,
+  "letters": 1294
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 615,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.887,
+  "stray_token_ratio": 0.01,
+  "letters": 1490
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 616,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.575,
+  "stray_token_ratio": 0.064,
+  "letters": 1445
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 617,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.914,
+  "stray_token_ratio": 0.038,
+  "letters": 975
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 618,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 619,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 620,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.894,
+  "stray_token_ratio": 0.203,
+  "letters": 499
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 621,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.891,
+  "stray_token_ratio": 0.202,
+  "letters": 467
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 622,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.937,
+  "stray_token_ratio": 0.119,
+  "letters": 646
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 623,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.912,
+  "stray_token_ratio": 0.216,
+  "letters": 534
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 624,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.957,
+  "stray_token_ratio": 0.079,
+  "letters": 726
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 625,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.884,
+  "stray_token_ratio": 0.213,
+  "letters": 501
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 626,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.901,
+  "stray_token_ratio": 0.182,
+  "letters": 583
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 627,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.918,
+  "stray_token_ratio": 0.207,
+  "letters": 695
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 628,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.889,
+  "stray_token_ratio": 0.261,
+  "letters": 604
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 629,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.892,
+  "stray_token_ratio": 0.237,
+  "letters": 511
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 630,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.931,
+  "stray_token_ratio": 0.135,
+  "letters": 852
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 631,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.851,
+  "stray_token_ratio": 0.263,
+  "letters": 651
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 632,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.908,
+  "stray_token_ratio": 0.183,
+  "letters": 803
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 633,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.901,
+  "stray_token_ratio": 0.178,
+  "letters": 886
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 634,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.885,
+  "stray_token_ratio": 0.18,
+  "letters": 859
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 635,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.897,
+  "stray_token_ratio": 0.155,
+  "letters": 834
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 636,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.908,
+  "stray_token_ratio": 0.138,
+  "letters": 601
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 637,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.916,
+  "stray_token_ratio": 0.068,
+  "letters": 406
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 638,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.951,
+  "stray_token_ratio": 0.068,
+  "letters": 912
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 639,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 0.7,
+  "flags": [
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.909,
+  "stray_token_ratio": 0.196,
+  "letters": 790
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 640,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.856,
+  "stray_token_ratio": 0.179,
+  "letters": 369
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 641,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 642,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.009,
+  "letters": 284
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 643,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 440
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 644,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.009,
+  "letters": 334
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 645,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 318
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 646,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 293
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 647,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 341
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 648,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 338
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 649,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.008,
+  "letters": 308
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 650,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.015,
+  "letters": 314
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 651,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 309
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 652,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.006,
+  "letters": 525
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 653,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.007,
+  "letters": 407
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 654,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.007,
+  "letters": 336
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 655,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.033,
+  "letters": 338
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 656,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [
+   "no_english_layer"
+  ],
+  "arabic_ratio": 1.0,
+  "stray_token_ratio": 0.0,
+  "letters": 367
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 657,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.717,
+  "stray_token_ratio": 0.0,
+  "letters": 315
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 658,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.057,
+  "letters": 284
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 659,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 660,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.972,
+  "stray_token_ratio": 0.005,
+  "letters": 826
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 661,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.955,
+  "stray_token_ratio": 0.051,
+  "letters": 910
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 662,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.971,
+  "stray_token_ratio": 0.029,
+  "letters": 851
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 663,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.962,
+  "stray_token_ratio": 0.032,
+  "letters": 807
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 664,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.046,
+  "letters": 829
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 665,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.953,
+  "stray_token_ratio": 0.088,
+  "letters": 1019
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 666,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.97,
+  "stray_token_ratio": 0.036,
+  "letters": 1003
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 667,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.037,
+  "letters": 901
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 668,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.962,
+  "stray_token_ratio": 0.026,
+  "letters": 835
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 669,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.96,
+  "stray_token_ratio": 0.067,
+  "letters": 866
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 670,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.958,
+  "stray_token_ratio": 0.079,
+  "letters": 910
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 671,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.947,
+  "stray_token_ratio": 0.115,
+  "letters": 978
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 672,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.95,
+  "stray_token_ratio": 0.083,
+  "letters": 920
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 673,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.961,
+  "stray_token_ratio": 0.061,
+  "letters": 831
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 674,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.096,
+  "letters": 1138
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 675,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.039,
+  "letters": 1123
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 676,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.031,
+  "letters": 1223
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 677,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.021,
+  "letters": 1170
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 678,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.037,
+  "letters": 1155
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 679,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.048,
+  "letters": 1178
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 680,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.043,
+  "letters": 1088
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 681,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.02,
+  "letters": 1097
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 682,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.046,
+  "letters": 1108
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 683,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.021,
+  "letters": 1070
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 684,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.049,
+  "letters": 1133
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 685,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.041,
+  "letters": 1190
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 686,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.02,
+  "letters": 1114
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 687,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.035,
+  "letters": 1003
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 688,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.052,
+  "letters": 1094
+ },
+ {
+  "book_id": "46a52585612a906c",
+  "page": 689,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.024,
+  "letters": 1102
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 1,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.042,
+  "letters": 130
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 2,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.021,
+  "letters": 779
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 3,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.017,
+  "letters": 539
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 4,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 637
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 5,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.016,
+  "letters": 325
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 6,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.04,
+  "letters": 1183
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 7,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.004,
+  "letters": 1367
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 8,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.026,
+  "letters": 1377
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 9,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 227
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 10,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 56
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 11,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 12,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.029,
+  "letters": 1298
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 13,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.019,
+  "letters": 1360
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 14,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.056,
+  "letters": 1420
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 15,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.011,
+  "letters": 1367
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 16,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.043,
+  "letters": 1239
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 17,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 548
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 18,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 60
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 19,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 20,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.031,
+  "letters": 1132
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 21,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.014,
+  "letters": 1011
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 22,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.049,
+  "letters": 1347
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 23,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.025,
+  "letters": 1434
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 24,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.039,
+  "letters": 1429
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 25,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.028,
+  "letters": 1406
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 26,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.037,
+  "letters": 1400
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 27,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.026,
+  "letters": 1418
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 28,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.036,
+  "letters": 1251
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 29,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.009,
+  "letters": 1156
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 30,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.043,
+  "letters": 863
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 31,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.014,
+  "letters": 643
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 32,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.033,
+  "letters": 1069
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 33,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.012,
+  "letters": 719
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 34,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.052,
+  "letters": 694
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 35,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.022,
+  "letters": 837
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 36,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.033,
+  "letters": 1091
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 37,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 411
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 38,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 41
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 39,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 40,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.005,
+  "letters": 1071
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 41,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.017,
+  "letters": 762
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 42,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.016,
+  "letters": 853
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 43,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.005,
+  "letters": 780
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 44,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 756
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 45,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.02,
+  "letters": 864
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 46,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.02,
+  "letters": 907
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 47,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.01,
+  "letters": 886
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 48,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.035,
+  "letters": 1092
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 49,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.011,
+  "letters": 759
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 50,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.028,
+  "letters": 1043
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 51,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.02,
+  "letters": 1198
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 52,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.026,
+  "letters": 889
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 53,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.005,
+  "letters": 1026
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 54,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.021,
+  "letters": 911
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 55,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 42
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 56,
+  "ocr": true,
+  "warning": "Very little readable text; inspect original page",
+  "corrected": false,
+  "score": 0.0,
+  "flags": [
+   "empty"
+  ]
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 57,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.013,
+  "letters": 1154
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 58,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.03,
+  "letters": 1067
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 59,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.008,
+  "letters": 1332
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 60,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.017,
+  "letters": 1179
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 61,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.055,
+  "letters": 791
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 62,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.018,
+  "letters": 1068
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 63,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.029,
+  "letters": 978
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 64,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.03,
+  "letters": 900
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 65,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.033,
+  "letters": 798
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 66,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.036,
+  "letters": 1193
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 67,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.051,
+  "letters": 691
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 68,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.058,
+  "letters": 849
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 69,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.033,
+  "letters": 872
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 70,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.03,
+  "letters": 834
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 71,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.039,
+  "letters": 897
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 72,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.025,
+  "letters": 681
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 73,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.016,
+  "letters": 833
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 74,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.01,
+  "letters": 934
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 75,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.018,
+  "letters": 747
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 76,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.005,
+  "letters": 801
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 77,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.008,
+  "letters": 575
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 78,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.028,
+  "letters": 1015
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 79,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.029,
+  "letters": 1067
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 80,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.031,
+  "letters": 824
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 81,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.019,
+  "letters": 1057
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 82,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.035,
+  "letters": 962
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 83,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.016,
+  "letters": 1271
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 84,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.031,
+  "letters": 1466
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 85,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.074,
+  "letters": 145
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 86,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.049,
+  "letters": 325
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 87,
+  "ocr": true,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.319,
+  "stray_token_ratio": 0.055,
+  "letters": 326
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 88,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.061,
+  "letters": 353
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 89,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 144
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 90,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 50
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 91,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.35,
+  "flags": [
+   "very_short",
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.233,
+  "letters": 78
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 92,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.167,
+  "letters": 87
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 93,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.165,
+  "letters": 92
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 94,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.161,
+  "letters": 87
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 95,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.121,
+  "letters": 77
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 96,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.65,
+  "flags": [
+   "very_short"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.17,
+  "letters": 74
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 97,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 0.35,
+  "flags": [
+   "very_short",
+   "fragmented_tokens"
+  ],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.196,
+  "letters": 77
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 98,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 313
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 99,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 466
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 100,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 492
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 101,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.0,
+  "letters": 373
+ },
+ {
+  "book_id": "c2fd1e0906c9c087",
+  "page": 102,
+  "ocr": false,
+  "warning": "",
+  "corrected": false,
+  "score": 1.0,
+  "flags": [],
+  "arabic_ratio": 0.0,
+  "stray_token_ratio": 0.02,
+  "letters": 148
+ }
+]

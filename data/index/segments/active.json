@@ -1,0 +1,9 @@
+{
+ "build_id": "20261116-121031",
+ "embedding_model": "bge-m3",
+ "segments": 3784,
+ "pages": 759,
+ "created": "2026-11-16T12:20:20",
+ "seconds": 585.7,
+ "previous_build_id": "20261112-094445"
+}

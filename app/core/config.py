@@ -14,7 +14,7 @@ class Settings(BaseSettings):
     whisper_model_size: str = 'base'
     # Cloud deployment: 'gemini' uses Gemini Embedding API, 'ollama' uses local bge-m3
     embedding_provider: str = 'ollama'
-    gemini_embedding_model: str = 'text-embedding-004'
+    gemini_embedding_model: str = 'gemini-embedding-001'
     # Set to 'cloud' to disable Ollama-dependent features (voice, local fallback)
     deploy_mode: str = 'local'
     enable_knowledge_graph: bool = True

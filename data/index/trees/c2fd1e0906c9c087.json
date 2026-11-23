@@ -1,0 +1,479 @@
+{
+ "book_id": "c2fd1e0906c9c087",
+ "page_count": 102,
+ "source": "reviewed_outline",
+ "outline_entries": 57,
+ "source_hash": "8a12023a653c00a6ff06f3844dcc66c29c700809efa2ea64694635f402cb906d",
+ "chapters": [
+  {
+   "id": "c2fd1e0906c9c087-c1",
+   "kind": "chapter",
+   "title": "Preface",
+   "page_start": 6,
+   "sections": [],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 9
+  },
+  {
+   "id": "c2fd1e0906c9c087-c2",
+   "kind": "chapter",
+   "title": "Chapter One: The Rationale behind the Scientific Study of the Qur'an",
+   "page_start": 10,
+   "sections": [
+    {
+     "id": "c2fd1e0906c9c087-s1",
+     "kind": "section",
+     "title": "Conflict between Religion and Science",
+     "page_start": 12,
+     "parent_id": "c2fd1e0906c9c087-c2",
+     "page_end": 12
+    },
+    {
+     "id": "c2fd1e0906c9c087-s2",
+     "kind": "section",
+     "title": "Qur'an and Invitation to Scientific Study",
+     "page_start": 13,
+     "parent_id": "c2fd1e0906c9c087-c2",
+     "page_end": 15
+    },
+    {
+     "id": "c2fd1e0906c9c087-s3",
+     "kind": "section",
+     "title": "The Qur'an – a Supreme source of Knowledge",
+     "page_start": 16,
+     "parent_id": "c2fd1e0906c9c087-c2",
+     "page_end": 16
+    },
+    {
+     "id": "c2fd1e0906c9c087-s4",
+     "kind": "section",
+     "title": "Biological and Physical facts of the Universe and the Qur'an",
+     "page_start": 16,
+     "parent_id": "c2fd1e0906c9c087-c2",
+     "page_end": 17
+    }
+   ],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 17
+  },
+  {
+   "id": "c2fd1e0906c9c087-c3",
+   "kind": "chapter",
+   "title": "Chapter Two: The Unscientific Myth of Darwinian Evolution and the Qur'an",
+   "page_start": 18,
+   "sections": [
+    {
+     "id": "c2fd1e0906c9c087-s5",
+     "kind": "section",
+     "title": "The Unscientific Myth of Darwinian Evolution",
+     "page_start": 18,
+     "parent_id": "c2fd1e0906c9c087-c3",
+     "page_end": 21
+    },
+    {
+     "id": "c2fd1e0906c9c087-s6",
+     "kind": "section",
+     "title": "The Most Progressive Evolutionists",
+     "page_start": 22,
+     "parent_id": "c2fd1e0906c9c087-c3",
+     "page_end": 28
+    },
+    {
+     "id": "c2fd1e0906c9c087-s7",
+     "kind": "section",
+     "title": "Qur'an on Evolution",
+     "page_start": 29,
+     "parent_id": "c2fd1e0906c9c087-c3",
+     "page_end": 31
+    },
+    {
+     "id": "c2fd1e0906c9c087-s8",
+     "kind": "section",
+     "title": "Emergence of Mankind from One Man",
+     "page_start": 32,
+     "parent_id": "c2fd1e0906c9c087-c3",
+     "page_end": 32
+    },
+    {
+     "id": "c2fd1e0906c9c087-s9",
+     "kind": "section",
+     "title": "Special Creation of Adam",
+     "page_start": 33,
+     "parent_id": "c2fd1e0906c9c087-c3",
+     "page_end": 35
+    },
+    {
+     "id": "c2fd1e0906c9c087-s10",
+     "kind": "section",
+     "title": "Summing up",
+     "page_start": 36,
+     "parent_id": "c2fd1e0906c9c087-c3",
+     "page_end": 37
+    }
+   ],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 37
+  },
+  {
+   "id": "c2fd1e0906c9c087-c4",
+   "kind": "chapter",
+   "title": "Chapter Three: Chemical Stages of Human Creation",
+   "page_start": 38,
+   "sections": [
+    {
+     "id": "c2fd1e0906c9c087-s11",
+     "kind": "section",
+     "title": "Sustenance system and chemical stages of human creation",
+     "page_start": 40,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 40
+    },
+    {
+     "id": "c2fd1e0906c9c087-s12",
+     "kind": "section",
+     "title": "Inorganic matter",
+     "page_start": 41,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 41
+    },
+    {
+     "id": "c2fd1e0906c9c087-s13",
+     "kind": "section",
+     "title": "Water",
+     "page_start": 42,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 42
+    },
+    {
+     "id": "c2fd1e0906c9c087-s14",
+     "kind": "section",
+     "title": "Clay",
+     "page_start": 43,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 43
+    },
+    {
+     "id": "c2fd1e0906c9c087-s15",
+     "kind": "section",
+     "title": "Adsorbable clay",
+     "page_start": 44,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 45
+    },
+    {
+     "id": "c2fd1e0906c9c087-s16",
+     "kind": "section",
+     "title": "Physically and chemically altered old mud (Masnûn)",
+     "page_start": 46,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 46
+    },
+    {
+     "id": "c2fd1e0906c9c087-s17",
+     "kind": "section",
+     "title": "Dried or high sounding purified clay",
+     "page_start": 47,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 48
+    },
+    {
+     "id": "c2fd1e0906c9c087-s18",
+     "kind": "section",
+     "title": "Extract of purified clay",
+     "page_start": 49,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 49
+    },
+    {
+     "id": "c2fd1e0906c9c087-s19",
+     "kind": "section",
+     "title": "Scientific interpretation of the above mentioned chemical stages",
+     "page_start": 50,
+     "parent_id": "c2fd1e0906c9c087-c4",
+     "page_end": 54
+    }
+   ],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 54
+  },
+  {
+   "id": "c2fd1e0906c9c087-c5",
+   "kind": "chapter",
+   "title": "Chapter Four: Biological Stages of Human Creation",
+   "page_start": 55,
+   "sections": [
+    {
+     "id": "c2fd1e0906c9c087-s20",
+     "kind": "section",
+     "title": "Biochemistry",
+     "page_start": 57,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 57
+    },
+    {
+     "id": "c2fd1e0906c9c087-s21",
+     "kind": "section",
+     "title": "Nucleic Acids",
+     "page_start": 58,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 58
+    },
+    {
+     "id": "c2fd1e0906c9c087-s22",
+     "kind": "section",
+     "title": "Proteins",
+     "page_start": 58,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 58
+    },
+    {
+     "id": "c2fd1e0906c9c087-s23",
+     "kind": "section",
+     "title": "Carbohydrates",
+     "page_start": 58,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 58
+    },
+    {
+     "id": "c2fd1e0906c9c087-s24",
+     "kind": "section",
+     "title": "Liquids",
+     "page_start": 59,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 59
+    },
+    {
+     "id": "c2fd1e0906c9c087-s25",
+     "kind": "section",
+     "title": "The Beginning of Embryonic Development",
+     "page_start": 59,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 59
+    },
+    {
+     "id": "c2fd1e0906c9c087-s26",
+     "kind": "section",
+     "title": "Seminal Fluid",
+     "page_start": 60,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 61
+    },
+    {
+     "id": "c2fd1e0906c9c087-s27",
+     "kind": "section",
+     "title": "Motility",
+     "page_start": 62,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 62
+    },
+    {
+     "id": "c2fd1e0906c9c087-s28",
+     "kind": "section",
+     "title": "Necessity of Gametes",
+     "page_start": 63,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 63
+    },
+    {
+     "id": "c2fd1e0906c9c087-s29",
+     "kind": "section",
+     "title": "Fertilization",
+     "page_start": 64,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 66
+    },
+    {
+     "id": "c2fd1e0906c9c087-s30",
+     "kind": "section",
+     "title": "Process of Cellular Division (Cleavage or Segmentation)",
+     "page_start": 67,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 68
+    },
+    {
+     "id": "c2fd1e0906c9c087-s31",
+     "kind": "section",
+     "title": "Formation of the Embryo",
+     "page_start": 69,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 69
+    },
+    {
+     "id": "c2fd1e0906c9c087-s32",
+     "kind": "section",
+     "title": "Structure of the Uterus",
+     "page_start": 69,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 69
+    },
+    {
+     "id": "c2fd1e0906c9c087-s33",
+     "kind": "section",
+     "title": "Implantation of the Egg in the Uterus",
+     "page_start": 70,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 70
+    },
+    {
+     "id": "c2fd1e0906c9c087-s34",
+     "kind": "section",
+     "title": "Formation of Germ Layers",
+     "page_start": 71,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 71
+    },
+    {
+     "id": "c2fd1e0906c9c087-s35",
+     "kind": "section",
+     "title": "Development of Somites",
+     "page_start": 72,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 72
+    },
+    {
+     "id": "c2fd1e0906c9c087-s36",
+     "kind": "section",
+     "title": "Development of Human Bones",
+     "page_start": 73,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 73
+    },
+    {
+     "id": "c2fd1e0906c9c087-s37",
+     "kind": "section",
+     "title": "Tissues and Body Form",
+     "page_start": 73,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 73
+    },
+    {
+     "id": "c2fd1e0906c9c087-s38",
+     "kind": "section",
+     "title": "Formation of Bones and Muscles",
+     "page_start": 73,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 73
+    },
+    {
+     "id": "c2fd1e0906c9c087-s39",
+     "kind": "section",
+     "title": "Embryonic development: Weeks 4-6",
+     "page_start": 74,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 74
+    },
+    {
+     "id": "c2fd1e0906c9c087-s40",
+     "kind": "section",
+     "title": "Embryonic development: Weeks 6-8",
+     "page_start": 75,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 76
+    },
+    {
+     "id": "c2fd1e0906c9c087-s41",
+     "kind": "section",
+     "title": "Development of the Fetus and Birth",
+     "page_start": 77,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 77
+    },
+    {
+     "id": "c2fd1e0906c9c087-s42",
+     "kind": "section",
+     "title": "Viability of the Fetus",
+     "page_start": 77,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 77
+    },
+    {
+     "id": "c2fd1e0906c9c087-s43",
+     "kind": "section",
+     "title": "Parturition - Childbirth",
+     "page_start": 78,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 78
+    },
+    {
+     "id": "c2fd1e0906c9c087-s44",
+     "kind": "section",
+     "title": "Miscellaneous aspects of Human Creation",
+     "page_start": 79,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 79
+    },
+    {
+     "id": "c2fd1e0906c9c087-s45",
+     "kind": "section",
+     "title": "Divine Providence & Beautiful Order in Human Creation (Man's Formation)",
+     "page_start": 79,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 79
+    },
+    {
+     "id": "c2fd1e0906c9c087-s46",
+     "kind": "section",
+     "title": "Takhlîq (creation) and Tasviah (arrangement)",
+     "page_start": 80,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 80
+    },
+    {
+     "id": "c2fd1e0906c9c087-s47",
+     "kind": "section",
+     "title": "Taqdîr (determining measures)",
+     "page_start": 81,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 81
+    },
+    {
+     "id": "c2fd1e0906c9c087-s48",
+     "kind": "section",
+     "title": "Manifestation of Providence during Pregnancy",
+     "page_start": 82,
+     "parent_id": "c2fd1e0906c9c087-c5",
+     "page_end": 82
+    }
+   ],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 82
+  },
+  {
+   "id": "c2fd1e0906c9c087-c6",
+   "kind": "chapter",
+   "title": "Conclusion",
+   "page_start": 83,
+   "sections": [],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 85
+  },
+  {
+   "id": "c2fd1e0906c9c087-c7",
+   "kind": "chapter",
+   "title": "Glossary",
+   "page_start": 86,
+   "sections": [],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 86
+  },
+  {
+   "id": "c2fd1e0906c9c087-c8",
+   "kind": "chapter",
+   "title": "Bibliography",
+   "page_start": 87,
+   "sections": [],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 88
+  },
+  {
+   "id": "c2fd1e0906c9c087-c9",
+   "kind": "chapter",
+   "title": "Indices",
+   "page_start": 89,
+   "sections": [],
+   "parent_id": "c2fd1e0906c9c087",
+   "page_end": 102
+  }
+ ],
+ "problems": []
+}

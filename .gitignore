@@ -4,16 +4,20 @@
 *.env
 model-settings.json
 
-# Local data & caches
-data/index/
-data/books/*.pdf
-data/feedback/
-data/saved/
+# Large caches and runtimes
+data/index/ocr-cache/
+data/index/embedding-cache/
 data/whisper/
 data/diagnostics/
 data/tessdata/
+data/feedback/
+data/saved/
 
-# Databases
+# Old historical builds (keep only active build)
+data/index/segments/20261111-*
+data/index/segments/20261112-*
+
+# Databases & sessions
 *.sqlite
 *.sqlite3
 *.db
@@ -32,7 +36,3 @@ Gender
 .claude/
 .DS_Store
 Thumbs.db
-
-# Cloud deploy: pre-built cloud index IS included
-!data/cloud-index/
-data/cloud-index/embedding-cache/

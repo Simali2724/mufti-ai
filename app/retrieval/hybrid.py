@@ -89,7 +89,11 @@ async def search_local(queries, limit=None, scope=None):
     keep = in_scope(scope)
     per_query = max(12, limit)
     texts = [q['text'] for q in queries]
-    vectors = await embed(texts)
+    try:
+        vectors = await embed(texts)
+    except Exception as exc:
+        logger.warning('dense embedding failed: %s; falling back to lexical search', exc)
+        vectors = [None] * len(texts)
     rankings, report = [], []
     use_segments = mode == 'segments'
     store = None if use_segments else await asyncio.to_thread(ChromaStore)
@@ -101,10 +105,16 @@ async def search_local(queries, limit=None, scope=None):
     for query, vector in zip(queries, vectors):
         relation = query.get('relation', 'same_concept')
         lexical = await asyncio.to_thread(bm25, chunks, query['text'], per_query, keep)
-        dense = (await asyncio.to_thread(segment_index.search_segments, vector, dense_k) if use_segments
-                 else await asyncio.to_thread(store.search, vector, dense_k))
-        if keep:
-            dense = [c for c in dense if keep(c)][:per_query]
+        dense = []
+        if vector is not None:
+            try:
+                dense = (await asyncio.to_thread(segment_index.search_segments, vector, dense_k) if use_segments
+                         else await asyncio.to_thread(store.search, vector, dense_k))
+                if keep:
+                    dense = [c for c in dense if keep(c)][:per_query]
+            except Exception as exc:
+                logger.warning('dense search failed: %s', exc)
+                dense = []
         rankings.append((query['text'], 'bm25', relation, lexical))
         rankings.append((query['text'], 'dense', relation, dense))
         # Third route: the PDF outline's clean section titles. Bounded, and it contributes

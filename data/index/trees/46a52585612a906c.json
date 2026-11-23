@@ -1,0 +1,2508 @@
+{
+ "book_id": "46a52585612a906c",
+ "page_count": 689,
+ "source": "pdf_outline",
+ "outline_entries": 310,
+ "source_hash": "6c0efa1196ea5de26a082f0f6c9cce5bc502786ecccdd062d0e2ea1d65f08ffd",
+ "chapters": [
+  {
+   "id": "46a52585612a906c-c1",
+   "kind": "chapter",
+   "title": "فہرست",
+   "page_start": 8,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s1",
+     "kind": "section",
+     "title": "پیش لفظ",
+     "page_start": 26,
+     "parent_id": "46a52585612a906c-c1",
+     "page_end": 29
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 29
+  },
+  {
+   "id": "46a52585612a906c-c2",
+   "kind": "chapter",
+   "title": "اِبتدائیہ: مطالعۂ سیرت کا منہاج",
+   "page_start": 30,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s2",
+     "kind": "section",
+     "title": "عالمِ اِسلام میں سیرۃُ الرسول ﷺ کا ادھورا فہم",
+     "page_start": 34,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 34
+    },
+    {
+     "id": "46a52585612a906c-s3",
+     "kind": "section",
+     "title": "سیرت کے روحانی و حبی پہلو سے صرفِ نظر",
+     "page_start": 34,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 42
+    },
+    {
+     "id": "46a52585612a906c-s4",
+     "kind": "section",
+     "title": "سیرت کے فیضان اور تاثیر سے زندگی کے اَعمال و اَقدار کی محرومی",
+     "page_start": 43,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 48
+    },
+    {
+     "id": "46a52585612a906c-s5",
+     "kind": "section",
+     "title": "سیرت کے فکری و تعلیماتی پہلو سے اِجتماعی زندگی کی لاتعلقی",
+     "page_start": 49,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 49
+    },
+    {
+     "id": "46a52585612a906c-s6",
+     "kind": "section",
+     "title": "غیر اِسلامی دُنیا میں سیرت کے فہم اور اِبلاغ میں درپیش چیلنجز",
+     "page_start": 49,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 49
+    },
+    {
+     "id": "46a52585612a906c-s7",
+     "kind": "section",
+     "title": "اِسلام اور مغرب کی معاشرتی اَقدار کا فرق",
+     "page_start": 50,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 50
+    },
+    {
+     "id": "46a52585612a906c-s8",
+     "kind": "section",
+     "title": "مغربی مفکرین کا اِسلام کے خلاف متعصبانہ پراپیگنڈہ",
+     "page_start": 51,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 65
+    },
+    {
+     "id": "46a52585612a906c-s9",
+     "kind": "section",
+     "title": "مطالعۂ سیرت الرسول ﷺ کے بنیادی اُصول",
+     "page_start": 66,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 66
+    },
+    {
+     "id": "46a52585612a906c-s10",
+     "kind": "section",
+     "title": "سیرت کی بطور وحدت فہم و تفہیم",
+     "page_start": 67,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 67
+    },
+    {
+     "id": "46a52585612a906c-s11",
+     "kind": "section",
+     "title": "فکر و عمل کے بحران میں سیرت سے رہنمائی",
+     "page_start": 68,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 68
+    },
+    {
+     "id": "46a52585612a906c-s12",
+     "kind": "section",
+     "title": "سیرت الرسول ﷺ کی روشنی میں قرآنی تعلیمات کی توضیح",
+     "page_start": 68,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 68
+    },
+    {
+     "id": "46a52585612a906c-s13",
+     "kind": "section",
+     "title": "عصری مسائل کے حل کے لئے سیرت کا اطلاقی مطالعہ",
+     "page_start": 69,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 69
+    },
+    {
+     "id": "46a52585612a906c-s14",
+     "kind": "section",
+     "title": "سیرت الرسول ﷺ کی روشنی میں توازن اجتماعی کا حصول",
+     "page_start": 69,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 69
+    },
+    {
+     "id": "46a52585612a906c-s15",
+     "kind": "section",
+     "title": "سیرت الرسول ﷺ کا بطور رسولِ اِنسانیت مطالعہ",
+     "page_start": 70,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 70
+    },
+    {
+     "id": "46a52585612a906c-s16",
+     "kind": "section",
+     "title": "فہم کمال ِسیرت میں عقل اِنسانی کی نارسائی کا اعتراف",
+     "page_start": 70,
+     "parent_id": "46a52585612a906c-c2",
+     "page_end": 73
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 73
+  },
+  {
+   "id": "46a52585612a906c-c3",
+   "kind": "chapter",
+   "title": "باب 1: قرآن کا جمالیاتی اُسلوب اور بیان سیرت",
+   "page_start": 74,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s17",
+     "kind": "section",
+     "title": "قرآن میں بیانِ سیرت کا اَخلاقیاتی و تعلیماتی اَنداز",
+     "page_start": 84,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 86
+    },
+    {
+     "id": "46a52585612a906c-s18",
+     "kind": "section",
+     "title": "قرآن میں بیانِ سیرت کا حبی وتعظیمی اَنداز",
+     "page_start": 87,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 90
+    },
+    {
+     "id": "46a52585612a906c-s19",
+     "kind": "section",
+     "title": "قرآن مجید میں شہرِ دِلبر کا ذِکر (خوش ترآں شہرے کہ آنجا دِلبر اَست)",
+     "page_start": 91,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 91
+    },
+    {
+     "id": "46a52585612a906c-s20",
+     "kind": "section",
+     "title": "لَا اُقْسِمُ کی پہلی تفسیر",
+     "page_start": 92,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 92
+    },
+    {
+     "id": "46a52585612a906c-s21",
+     "kind": "section",
+     "title": "لَا اُقْسِمُ کی دوسری تفسیر",
+     "page_start": 93,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 93
+    },
+    {
+     "id": "46a52585612a906c-s22",
+     "kind": "section",
+     "title": "لَا اُقْسِمُ کی تیسری تفسیر",
+     "page_start": 94,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 94
+    },
+    {
+     "id": "46a52585612a906c-s23",
+     "kind": "section",
+     "title": "لَا اُقْسِمُ کی چوتھی تفسیر",
+     "page_start": 94,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 94
+    },
+    {
+     "id": "46a52585612a906c-s24",
+     "kind": "section",
+     "title": "قرآن مجید میں حضور ﷺ کے اَلقاب ہائے دِل نواز",
+     "page_start": 95,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 97
+    },
+    {
+     "id": "46a52585612a906c-s25",
+     "kind": "section",
+     "title": "حضور ﷺ سے ذاتی و حُبّی تعلق، تعلیماتی تعلق پر مقدّم ہے",
+     "page_start": 98,
+     "parent_id": "46a52585612a906c-c3",
+     "page_end": 107
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 107
+  },
+  {
+   "id": "46a52585612a906c-c4",
+   "kind": "chapter",
+   "title": "باب 2: صحابہ کرام رضوان اللہ علیہم اجمعین کا طرزِ عمل اور تشکیلِ اُسلوبِ سیرت",
+   "page_start": 108,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s26",
+     "kind": "section",
+     "title": "زیارتِ رسول ﷺ باعثِ فرحتِ دِل و جاں",
+     "page_start": 111,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 120
+    },
+    {
+     "id": "46a52585612a906c-s27",
+     "kind": "section",
+     "title": "سیدنا صدیقِ اَکبر رضی اللہ عنہ کی کیفیتِ عشق",
+     "page_start": 121,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 125
+    },
+    {
+     "id": "46a52585612a906c-s28",
+     "kind": "section",
+     "title": "عشقِ رسول ﷺمیں فاروق اعظم رضی اللہ عنہ کا حجر اَسود کو بوسہ دینا",
+     "page_start": 126,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 127
+    },
+    {
+     "id": "46a52585612a906c-s29",
+     "kind": "section",
+     "title": "سیدنا ابو بکر اور سیدنا عمر رضی اﷲ عنھما کا دیدارِ محبوب ﷺ کا منفرد اعزاز",
+     "page_start": 128,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 128
+    },
+    {
+     "id": "46a52585612a906c-s30",
+     "kind": "section",
+     "title": "حضرت عثمان ذُو النورین رضی اللہ عنہ … اَسیرِ حسنِ مصطفی ﷺ",
+     "page_start": 129,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 129
+    },
+    {
+     "id": "46a52585612a906c-s31",
+     "kind": "section",
+     "title": "۵۔ حضرت علی المرتضیٰ رضی اللہ عنہ کا حضور ﷺ سے تعلقِ عشقی",
+     "page_start": 130,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 130
+    },
+    {
+     "id": "46a52585612a906c-s32",
+     "kind": "section",
+     "title": "سورج کا پلٹنا اور نمازِ عصر کی ادائیگی",
+     "page_start": 131,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 133
+    },
+    {
+     "id": "46a52585612a906c-s33",
+     "kind": "section",
+     "title": "جاں نثارانِ اِسلام رضی اللہ عنہم کا عدیم المثال اَدبِ مصطفی ﷺ",
+     "page_start": 134,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 136
+    },
+    {
+     "id": "46a52585612a906c-s34",
+     "kind": "section",
+     "title": "اسیرِ حسنِ مصطفی ﷺ… سیدنا حمزہ رضی اللہ عنہ",
+     "page_start": 137,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 137
+    },
+    {
+     "id": "46a52585612a906c-s35",
+     "kind": "section",
+     "title": "حضرت سعد بن ربیع رضی اللہ عنہ کے اَلوِداعیہ کلمات",
+     "page_start": 138,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 138
+    },
+    {
+     "id": "46a52585612a906c-s36",
+     "kind": "section",
+     "title": "غسیل الملائکہ حضرت حنظلہ رضی اللہ عنہ کا مقامِ عشق",
+     "page_start": 139,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 140
+    },
+    {
+     "id": "46a52585612a906c-s37",
+     "kind": "section",
+     "title": "سیدنا ابوہریرہ اور دیگر صحابۂ کرام رضی اللہ عنہم کی کیفیتِ اِضطراب",
+     "page_start": 141,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 142
+    },
+    {
+     "id": "46a52585612a906c-s38",
+     "kind": "section",
+     "title": "اَذاں اَزل سے ترے عشق کا ترانہ بنی",
+     "page_start": 143,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 146
+    },
+    {
+     "id": "46a52585612a906c-s39",
+     "kind": "section",
+     "title": "حضرت انس رضی اللہ عنہ کا جذبۂ عشقِ رسول ﷺ",
+     "page_start": 147,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 147
+    },
+    {
+     "id": "46a52585612a906c-s40",
+     "kind": "section",
+     "title": "حضرت عبد اللہ بن عمر رضی اﷲ عنہما کی محبتِ رسول ﷺ",
+     "page_start": 148,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 149
+    },
+    {
+     "id": "46a52585612a906c-s41",
+     "kind": "section",
+     "title": "حضرت ابو خیثمہ رضی اللہ عنہ کا فقید المثال جذبۂ حبِ رسول ﷺ",
+     "page_start": 150,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 151
+    },
+    {
+     "id": "46a52585612a906c-s42",
+     "kind": "section",
+     "title": "حضرت زید بن دثِنّہ رضی اللہ عنہ اور اُن کے رفقاء کا کمالِ عشقِ مصطفی ﷺ",
+     "page_start": 152,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 153
+    },
+    {
+     "id": "46a52585612a906c-s43",
+     "kind": "section",
+     "title": "حضرت عداس رضی اللہ عنہ حضور ﷺکے قدموں میں",
+     "page_start": 154,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 154
+    },
+    {
+     "id": "46a52585612a906c-s44",
+     "kind": "section",
+     "title": "حضرت ثمامہ بن اُثال رضی اللہ عنہ کے محبت آمیز جذبات",
+     "page_start": 155,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 156
+    },
+    {
+     "id": "46a52585612a906c-s45",
+     "kind": "section",
+     "title": "حضرت عمرو بن العاص رضی اللہ عنہ کا عشقِ رسول ﷺ",
+     "page_start": 157,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 157
+    },
+    {
+     "id": "46a52585612a906c-s46",
+     "kind": "section",
+     "title": "حضرت سُمَیّہ رضی اﷲ عنھا سے روحِ ایمانی کو جدا نہ کیا جا سکا",
+     "page_start": 157,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 157
+    },
+    {
+     "id": "46a52585612a906c-s47",
+     "kind": "section",
+     "title": "اُن پہ نثار کوئی کیسے ہی رنج میں ہو",
+     "page_start": 158,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 159
+    },
+    {
+     "id": "46a52585612a906c-s48",
+     "kind": "section",
+     "title": "اُستنِ حنانہ: ایک اِیمان اَفروز واقعہ",
+     "page_start": 160,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 163
+    },
+    {
+     "id": "46a52585612a906c-s49",
+     "kind": "section",
+     "title": "مثنوی مولانا رومؒ: ہجرِ نبی کا پیکرِ شعری",
+     "page_start": 164,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 164
+    },
+    {
+     "id": "46a52585612a906c-s50",
+     "kind": "section",
+     "title": "حضور ﷺ کے وِصال پر جمیع صحابہ کرام رضی اللہ عنہما کی کیفیت",
+     "page_start": 165,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 165
+    },
+    {
+     "id": "46a52585612a906c-s51",
+     "kind": "section",
+     "title": "سیدنا صدیق اکبر رضی اللہ عنہ کی وفات کا سبب فراقِ مصطفی ﷺ تھا",
+     "page_start": 165,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 165
+    },
+    {
+     "id": "46a52585612a906c-s52",
+     "kind": "section",
+     "title": "فراقِ رسول ﷺمیں فاروقِ اعظم رضی اللہ عنہ کا نالۂ شوق",
+     "page_start": 166,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 167
+    },
+    {
+     "id": "46a52585612a906c-s53",
+     "kind": "section",
+     "title": "سیدۂ کائنات سلام ﷲ علیھا کا تاجدارِ کائنات ﷺ سے عشقِ لازوال",
+     "page_start": 168,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 172
+    },
+    {
+     "id": "46a52585612a906c-s54",
+     "kind": "section",
+     "title": "حضرت حسان بن ثابت … مریضِ عشقِ مصطفی ﷺ",
+     "page_start": 173,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 173
+    },
+    {
+     "id": "46a52585612a906c-s55",
+     "kind": "section",
+     "title": "حضرت انس بن مالک رضی اللہ عنہ اور فراقِ مصطفی ﷺ",
+     "page_start": 174,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 174
+    },
+    {
+     "id": "46a52585612a906c-s56",
+     "kind": "section",
+     "title": "فراقِ رسول ﷺمیں حضرت عبداللہ بن زید رضی اللہ عنہ کی بینائی جاتی رہی",
+     "page_start": 175,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 179
+    },
+    {
+     "id": "46a52585612a906c-s57",
+     "kind": "section",
+     "title": "وصالِ محبوب ﷺ پر سواری کا غم",
+     "page_start": 180,
+     "parent_id": "46a52585612a906c-c4",
+     "page_end": 181
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 181
+  },
+  {
+   "id": "46a52585612a906c-c5",
+   "kind": "chapter",
+   "title": "باب 3: سیرت الرسول ﷺ کی دینی اَہمیت",
+   "page_start": 182,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s58",
+     "kind": "section",
+     "title": "سیرۃ الرسول ﷺ صداقت و حقانیتِ اسلام کی دلیلِ اتم ہے",
+     "page_start": 184,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 188
+    },
+    {
+     "id": "46a52585612a906c-s59",
+     "kind": "section",
+     "title": "سیرۃ الرسول ﷺ محبت و اطاعت الٰہی کی واحد عملی صورت ہے",
+     "page_start": 189,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 196
+    },
+    {
+     "id": "46a52585612a906c-s60",
+     "kind": "section",
+     "title": "توحید و رسالت ایک ہی نور لم یزل کی شعاعیں ہیں",
+     "page_start": 197,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 198
+    },
+    {
+     "id": "46a52585612a906c-s61",
+     "kind": "section",
+     "title": "سیرۃ الرسول ﷺشریعت اسلامی کا بنیادی ماخذ ہے",
+     "page_start": 199,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 200
+    },
+    {
+     "id": "46a52585612a906c-s62",
+     "kind": "section",
+     "title": "تصورِ حاکمیت اور مقامِ رسالت",
+     "page_start": 201,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 207
+    },
+    {
+     "id": "46a52585612a906c-s63",
+     "kind": "section",
+     "title": "سنت و سیرت نبوی ﷺ کی تشریحی حیثیت",
+     "page_start": 208,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 208
+    },
+    {
+     "id": "46a52585612a906c-s64",
+     "kind": "section",
+     "title": "سنت و سیرت نبوی ﷺکی تشریعی حیثیت",
+     "page_start": 209,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 212
+    },
+    {
+     "id": "46a52585612a906c-s65",
+     "kind": "section",
+     "title": "سیرت الرسول ﷺحصولِ ہدایت کا ناگزیر ذریعہ ہے",
+     "page_start": 213,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 214
+    },
+    {
+     "id": "46a52585612a906c-s66",
+     "kind": "section",
+     "title": "ایک ایمان افروز قرآنی دلیل",
+     "page_start": 215,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 219
+    },
+    {
+     "id": "46a52585612a906c-s67",
+     "kind": "section",
+     "title": "سیرۃ الرسول ﷺپوری انسانیت کے لئے اخلاقی کمال کا ابدی نمونہ ہے",
+     "page_start": 220,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 225
+    },
+    {
+     "id": "46a52585612a906c-s68",
+     "kind": "section",
+     "title": "سیرۃ الرسول ﷺحقیقت کے علم و عرفاں کی واحد سبیل ہے",
+     "page_start": 226,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 226
+    },
+    {
+     "id": "46a52585612a906c-s69",
+     "kind": "section",
+     "title": "ذرائع علم کی اقسام",
+     "page_start": 227,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 227
+    },
+    {
+     "id": "46a52585612a906c-s70",
+     "kind": "section",
+     "title": "حواس خمسہ ظاہری",
+     "page_start": 227,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 227
+    },
+    {
+     "id": "46a52585612a906c-s71",
+     "kind": "section",
+     "title": "عقل اور حواس خمسہ باطنی",
+     "page_start": 228,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 231
+    },
+    {
+     "id": "46a52585612a906c-s72",
+     "kind": "section",
+     "title": "وجدان اور اس کے لطائف",
+     "page_start": 232,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 233
+    },
+    {
+     "id": "46a52585612a906c-s73",
+     "kind": "section",
+     "title": "سیرت الرسول ﷺ ایمان اور اسلام کا مرکز و محور ہے",
+     "page_start": 234,
+     "parent_id": "46a52585612a906c-c5",
+     "page_end": 245
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 245
+  },
+  {
+   "id": "46a52585612a906c-c6",
+   "kind": "chapter",
+   "title": "باب 4: سیرت الرسول ﷺکی آئینی و دستوری اَہمیت",
+   "page_start": 246,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s74",
+     "kind": "section",
+     "title": "قرآن حکیم کی روشنی میں دستور سازی کے اُصول",
+     "page_start": 248,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 250
+    },
+    {
+     "id": "46a52585612a906c-s75",
+     "kind": "section",
+     "title": "احادیثِ نبوی کی روشنی میں دستور سازی کے اُصول",
+     "page_start": 251,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 257
+    },
+    {
+     "id": "46a52585612a906c-s76",
+     "kind": "section",
+     "title": "سیرتِ نبوی کا آئینی پہلو",
+     "page_start": 258,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 258
+    },
+    {
+     "id": "46a52585612a906c-s77",
+     "kind": "section",
+     "title": "ریاستِ مدینہ کے آئین کا دستوری و سیاسی تجزیہ",
+     "page_start": 259,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 262
+    },
+    {
+     "id": "46a52585612a906c-s78",
+     "kind": "section",
+     "title": "مبادیات",
+     "page_start": 263,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 263
+    },
+    {
+     "id": "46a52585612a906c-s79",
+     "kind": "section",
+     "title": "دستوری قومیت کا تصور",
+     "page_start": 263,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 263
+    },
+    {
+     "id": "46a52585612a906c-s80",
+     "kind": "section",
+     "title": "ریاست کی جغرافیائی حدود",
+     "page_start": 263,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 264
+    },
+    {
+     "id": "46a52585612a906c-s81",
+     "kind": "section",
+     "title": "ریاست کی آبادی",
+     "page_start": 265,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 266
+    },
+    {
+     "id": "46a52585612a906c-s82",
+     "kind": "section",
+     "title": "کثیرالثقافتی معاشرہ کا تصور",
+     "page_start": 267,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 267
+    },
+    {
+     "id": "46a52585612a906c-s83",
+     "kind": "section",
+     "title": "ریاست کے اقتدارِ اَعلی کا تصور",
+     "page_start": 268,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 268
+    },
+    {
+     "id": "46a52585612a906c-s84",
+     "kind": "section",
+     "title": "ﷲ اور رسول ﷺ مقتدرِ اعلیٰ ہیں",
+     "page_start": 269,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 270
+    },
+    {
+     "id": "46a52585612a906c-s85",
+     "kind": "section",
+     "title": "عمومی اُصول",
+     "page_start": 271,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 271
+    },
+    {
+     "id": "46a52585612a906c-s86",
+     "kind": "section",
+     "title": "ریاستی معاملات دستور کے تابع ہوں گے",
+     "page_start": 272,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 272
+    },
+    {
+     "id": "46a52585612a906c-s87",
+     "kind": "section",
+     "title": "دستور کی مخالفت کی ممانعت",
+     "page_start": 273,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 273
+    },
+    {
+     "id": "46a52585612a906c-s88",
+     "kind": "section",
+     "title": "قانون کی حکمرانی",
+     "page_start": 274,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 274
+    },
+    {
+     "id": "46a52585612a906c-s89",
+     "kind": "section",
+     "title": "قانون شکنی کی بیخ کنی",
+     "page_start": 275,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 275
+    },
+    {
+     "id": "46a52585612a906c-s90",
+     "kind": "section",
+     "title": "اُمتِ مسلمہ کا اِمتیازی تشخص",
+     "page_start": 276,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 276
+    },
+    {
+     "id": "46a52585612a906c-s91",
+     "kind": "section",
+     "title": "ریاستی باشندوں کا تشخص",
+     "page_start": 276,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 276
+    },
+    {
+     "id": "46a52585612a906c-s92",
+     "kind": "section",
+     "title": "دِفاعی اُمور کی نگرانی و قیادت",
+     "page_start": 276,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 276
+    },
+    {
+     "id": "46a52585612a906c-s93",
+     "kind": "section",
+     "title": "بین الاقوامی معاہدوں کی پاسداری",
+     "page_start": 276,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 276
+    },
+    {
+     "id": "46a52585612a906c-s94",
+     "kind": "section",
+     "title": "بنیادی حقوق",
+     "page_start": 277,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 277
+    },
+    {
+     "id": "46a52585612a906c-s95",
+     "kind": "section",
+     "title": "بنیادی انسانی حقوق کا تحفظ",
+     "page_start": 277,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 278
+    },
+    {
+     "id": "46a52585612a906c-s96",
+     "kind": "section",
+     "title": "آئینی تشخص کا حق",
+     "page_start": 279,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 279
+    },
+    {
+     "id": "46a52585612a906c-s97",
+     "kind": "section",
+     "title": "آئینی مساوات کا حق",
+     "page_start": 280,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 280
+    },
+    {
+     "id": "46a52585612a906c-s98",
+     "kind": "section",
+     "title": "حقوق میں برابری",
+     "page_start": 280,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 281
+    },
+    {
+     "id": "46a52585612a906c-s99",
+     "kind": "section",
+     "title": "قانون کی اِطاعت و نفاذ میں برابری کا حق",
+     "page_start": 282,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 282
+    },
+    {
+     "id": "46a52585612a906c-s100",
+     "kind": "section",
+     "title": "عدل و اِنصاف پر مبنی قوانین کے تحفظ کا حق",
+     "page_start": 282,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 283
+    },
+    {
+     "id": "46a52585612a906c-s101",
+     "kind": "section",
+     "title": "قانون کی پابندی کرنے پر ریاستی تحفظ کا حق",
+     "page_start": 284,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 284
+    },
+    {
+     "id": "46a52585612a906c-s102",
+     "kind": "section",
+     "title": "مظلوم کا حصولِ اِنصاف کا حق",
+     "page_start": 285,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 285
+    },
+    {
+     "id": "46a52585612a906c-s103",
+     "kind": "section",
+     "title": "ناکردہ جرائم سے برات کا حق",
+     "page_start": 285,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 285
+    },
+    {
+     "id": "46a52585612a906c-s104",
+     "kind": "section",
+     "title": "غیر منصفانہ حمایت و تائید سے تحفظ کا حق",
+     "page_start": 285,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 285
+    },
+    {
+     "id": "46a52585612a906c-s105",
+     "kind": "section",
+     "title": "معاشی کفالت کا حق",
+     "page_start": 286,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 286
+    },
+    {
+     "id": "46a52585612a906c-s106",
+     "kind": "section",
+     "title": "خواتین کی عزت و حرمت کے تحفظ کا قانون",
+     "page_start": 286,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 286
+    },
+    {
+     "id": "46a52585612a906c-s107",
+     "kind": "section",
+     "title": "مذہبی آزادی کا حق",
+     "page_start": 286,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 286
+    },
+    {
+     "id": "46a52585612a906c-s108",
+     "kind": "section",
+     "title": "ریاستی معاملات میں مشورہ کا حق",
+     "page_start": 287,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 287
+    },
+    {
+     "id": "46a52585612a906c-s109",
+     "kind": "section",
+     "title": "قانون سازی",
+     "page_start": 287,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 287
+    },
+    {
+     "id": "46a52585612a906c-s110",
+     "kind": "section",
+     "title": "مقامی رسوم و قوانین کی توثیق",
+     "page_start": 288,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 289
+    },
+    {
+     "id": "46a52585612a906c-s111",
+     "kind": "section",
+     "title": "عدلیہ",
+     "page_start": 290,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 290
+    },
+    {
+     "id": "46a52585612a906c-s112",
+     "kind": "section",
+     "title": "اعلی عدالتی اتھارٹی: رسول ﷲ ﷺ",
+     "page_start": 291,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 291
+    },
+    {
+     "id": "46a52585612a906c-s113",
+     "kind": "section",
+     "title": "انتظامی معاملات",
+     "page_start": 292,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 293
+    },
+    {
+     "id": "46a52585612a906c-s114",
+     "kind": "section",
+     "title": "جبر اور دہشت گردی کے خلاف ریاستی مزاحمت",
+     "page_start": 294,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 294
+    },
+    {
+     "id": "46a52585612a906c-s115",
+     "kind": "section",
+     "title": "انسانی قتل و غارت گری کے خلاف مزاحمت",
+     "page_start": 295,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 295
+    },
+    {
+     "id": "46a52585612a906c-s116",
+     "kind": "section",
+     "title": "قصاص کا حق",
+     "page_start": 295,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 295
+    },
+    {
+     "id": "46a52585612a906c-s117",
+     "kind": "section",
+     "title": "قانون قصاص کا مساوی نفاذ",
+     "page_start": 296,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 296
+    },
+    {
+     "id": "46a52585612a906c-s118",
+     "kind": "section",
+     "title": "ریاستِ مدینہ سے ملحقہ علاقوں کے لئے اِنتظامی قواعد و ضوابط",
+     "page_start": 296,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 296
+    },
+    {
+     "id": "46a52585612a906c-s119",
+     "kind": "section",
+     "title": "جنادہ اور اس کی قوم کے نام آپ کا مکتوب",
+     "page_start": 297,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 297
+    },
+    {
+     "id": "46a52585612a906c-s120",
+     "kind": "section",
+     "title": "اہلِ ہمدان کے نام مکتوب",
+     "page_start": 297,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 298
+    },
+    {
+     "id": "46a52585612a906c-s121",
+     "kind": "section",
+     "title": "اہلِ یمن کے نام مکتوب",
+     "page_start": 299,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 306
+    },
+    {
+     "id": "46a52585612a906c-s122",
+     "kind": "section",
+     "title": "یمن میں متعین عمال کے نام مکتوب",
+     "page_start": 307,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 308
+    },
+    {
+     "id": "46a52585612a906c-s123",
+     "kind": "section",
+     "title": "اہل مقنا کے ساتھ معاہدہ",
+     "page_start": 309,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 309
+    },
+    {
+     "id": "46a52585612a906c-s124",
+     "kind": "section",
+     "title": "عاملینِ زکوٰۃ کے نام مکتوب",
+     "page_start": 310,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 312
+    },
+    {
+     "id": "46a52585612a906c-s125",
+     "kind": "section",
+     "title": "حاکمِ یمن عمرو بن حزم کے نام مکتوب",
+     "page_start": 313,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 317
+    },
+    {
+     "id": "46a52585612a906c-s126",
+     "kind": "section",
+     "title": "دفاع",
+     "page_start": 318,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 319
+    },
+    {
+     "id": "46a52585612a906c-s127",
+     "kind": "section",
+     "title": "ریاست کی اعلیٰ عسکری اتھارٹی: رسول اللہ ﷺ",
+     "page_start": 320,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 320
+    },
+    {
+     "id": "46a52585612a906c-s128",
+     "kind": "section",
+     "title": "اسلامی ریاست کے دشمنوں کی بیخ کنی",
+     "page_start": 320,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 320
+    },
+    {
+     "id": "46a52585612a906c-s129",
+     "kind": "section",
+     "title": "دشمن سے ساز باز و تعاون کی ممانعت",
+     "page_start": 320,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 320
+    },
+    {
+     "id": "46a52585612a906c-s130",
+     "kind": "section",
+     "title": "ریاستی دفاع میں تمام طبقات کی شمولیت",
+     "page_start": 320,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 320
+    },
+    {
+     "id": "46a52585612a906c-s131",
+     "kind": "section",
+     "title": "ریاست کے دفاع کی ذمہ داری کا حق",
+     "page_start": 321,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 321
+    },
+    {
+     "id": "46a52585612a906c-s132",
+     "kind": "section",
+     "title": "دفاعی ذمہ داریوں کی تقسیم",
+     "page_start": 321,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 321
+    },
+    {
+     "id": "46a52585612a906c-s133",
+     "kind": "section",
+     "title": "ملکی دفاع میں مختلف طبقات کی نمائندگی کا حق",
+     "page_start": 321,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 321
+    },
+    {
+     "id": "46a52585612a906c-s134",
+     "kind": "section",
+     "title": "خون ریزی کے بدلہ کا حق",
+     "page_start": 322,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 322
+    },
+    {
+     "id": "46a52585612a906c-s135",
+     "kind": "section",
+     "title": "دفاعی کردار کی ادائیگی",
+     "page_start": 322,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 322
+    },
+    {
+     "id": "46a52585612a906c-s136",
+     "kind": "section",
+     "title": "امن و سلامتی کا حق",
+     "page_start": 322,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 322
+    },
+    {
+     "id": "46a52585612a906c-s137",
+     "kind": "section",
+     "title": "باہمی جنگ و جدل سے تحفظ کا حق",
+     "page_start": 323,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 323
+    },
+    {
+     "id": "46a52585612a906c-s138",
+     "kind": "section",
+     "title": "زندگی کے تحفظ کا حق",
+     "page_start": 323,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 323
+    },
+    {
+     "id": "46a52585612a906c-s139",
+     "kind": "section",
+     "title": "امور خارجہ",
+     "page_start": 324,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 326
+    },
+    {
+     "id": "46a52585612a906c-s140",
+     "kind": "section",
+     "title": "خارجہ تعلقات کے قرآنی اصول",
+     "page_start": 327,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 329
+    },
+    {
+     "id": "46a52585612a906c-s141",
+     "kind": "section",
+     "title": "دستور مدینہ اور خارجہ تعلقات",
+     "page_start": 330,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 330
+    },
+    {
+     "id": "46a52585612a906c-s142",
+     "kind": "section",
+     "title": "اَمن و اَمان کی ضمانت اورفروغ",
+     "page_start": 330,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 330
+    },
+    {
+     "id": "46a52585612a906c-s143",
+     "kind": "section",
+     "title": "بقائے باہمی کا اُصول",
+     "page_start": 330,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 330
+    },
+    {
+     "id": "46a52585612a906c-s144",
+     "kind": "section",
+     "title": "امن و صلح کی بنیاد دستور کا اِحترام ہوگا",
+     "page_start": 331,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 331
+    },
+    {
+     "id": "46a52585612a906c-s145",
+     "kind": "section",
+     "title": "خارجہ پالیسی پر مشتمل ریاست مدینہ کی آئینی دستاویزات",
+     "page_start": 331,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 331
+    },
+    {
+     "id": "46a52585612a906c-s146",
+     "kind": "section",
+     "title": "معاہدۂ حدیبیہ",
+     "page_start": 331,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 334
+    },
+    {
+     "id": "46a52585612a906c-s147",
+     "kind": "section",
+     "title": "حضور ﷺ کا وفدِ ہمدان کے لیے نامۂ مبارک",
+     "page_start": 335,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 335
+    },
+    {
+     "id": "46a52585612a906c-s148",
+     "kind": "section",
+     "title": "حضور ﷺ کا کسرائے فارس کے لیے نامۂ مبارک",
+     "page_start": 336,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 336
+    },
+    {
+     "id": "46a52585612a906c-s149",
+     "kind": "section",
+     "title": "حضور ﷺ کا اسیخب بن عبد اللہ کے لیے نامۂ مبارک",
+     "page_start": 336,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 337
+    },
+    {
+     "id": "46a52585612a906c-s150",
+     "kind": "section",
+     "title": "حضور ﷺ کا نجاشی کے لیے نامۂ مبارک",
+     "page_start": 338,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 338
+    },
+    {
+     "id": "46a52585612a906c-s151",
+     "kind": "section",
+     "title": "کامیاب دفاعی اور خارجہ پالیسی کے اثرات و ثمرات",
+     "page_start": 339,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 339
+    },
+    {
+     "id": "46a52585612a906c-s152",
+     "kind": "section",
+     "title": "اقلیتیں",
+     "page_start": 339,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 339
+    },
+    {
+     "id": "46a52585612a906c-s153",
+     "kind": "section",
+     "title": "اقلیتوں کے حقوق اور فرامینِ نبوی",
+     "page_start": 340,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 349
+    },
+    {
+     "id": "46a52585612a906c-s154",
+     "kind": "section",
+     "title": "دستور مدینہ اور اقلیتوں کے حقوق کا تحفظ",
+     "page_start": 350,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 350
+    },
+    {
+     "id": "46a52585612a906c-s155",
+     "kind": "section",
+     "title": "غیر مسلموں کے لئیزندگی کے تحفظ کا حق",
+     "page_start": 350,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 350
+    },
+    {
+     "id": "46a52585612a906c-s156",
+     "kind": "section",
+     "title": "آئینی اور قانونی مساوات کی ضمانت",
+     "page_start": 350,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 350
+    },
+    {
+     "id": "46a52585612a906c-s157",
+     "kind": "section",
+     "title": "اقلیتوں کے حقوق کی ضمانت",
+     "page_start": 350,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 351
+    },
+    {
+     "id": "46a52585612a906c-s158",
+     "kind": "section",
+     "title": "مذہبی آزادی کی ضمانت",
+     "page_start": 352,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 352
+    },
+    {
+     "id": "46a52585612a906c-s159",
+     "kind": "section",
+     "title": "اقلیتوں کا دفاعی کردار",
+     "page_start": 353,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 353
+    },
+    {
+     "id": "46a52585612a906c-s160",
+     "kind": "section",
+     "title": "اقلیتوں کے حقوق آئینی دستاویزات کی روشنی میں",
+     "page_start": 353,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 353
+    },
+    {
+     "id": "46a52585612a906c-s161",
+     "kind": "section",
+     "title": "اہلِ ایلہ کے نام آپ کا مکتوب",
+     "page_start": 353,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 354
+    },
+    {
+     "id": "46a52585612a906c-s162",
+     "kind": "section",
+     "title": "حضرت عمر کا فارس اور مدائن کے عیسائیوں کے لئے معاہدہ",
+     "page_start": 355,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 359
+    },
+    {
+     "id": "46a52585612a906c-s163",
+     "kind": "section",
+     "title": "ابو موسی اَشعری کے نام حضرت عمر رضی اللہ عنہ کا مکتوب",
+     "page_start": 360,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 362
+    },
+    {
+     "id": "46a52585612a906c-s164",
+     "kind": "section",
+     "title": "نظام کا تسلسل",
+     "page_start": 363,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 363
+    },
+    {
+     "id": "46a52585612a906c-s165",
+     "kind": "section",
+     "title": "ﷲ کے حقوق کی تلقین",
+     "page_start": 363,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 363
+    },
+    {
+     "id": "46a52585612a906c-s166",
+     "kind": "section",
+     "title": "قانون کی حکمرانی کی تلقین",
+     "page_start": 364,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 364
+    },
+    {
+     "id": "46a52585612a906c-s167",
+     "kind": "section",
+     "title": "نظام اسلام کا فروغ اجتماعی ذمہ داری ہے",
+     "page_start": 364,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 364
+    },
+    {
+     "id": "46a52585612a906c-s168",
+     "kind": "section",
+     "title": "حضور نبی اکرم ﷺنے نظام کے نفاذ کا حق ادا کر دیا",
+     "page_start": 364,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 364
+    },
+    {
+     "id": "46a52585612a906c-s169",
+     "kind": "section",
+     "title": "آئین مدینہ اور دساتیر عالم کے ارتقاء کا تقابلی جائزہ",
+     "page_start": 365,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 365
+    },
+    {
+     "id": "46a52585612a906c-s170",
+     "kind": "section",
+     "title": "دستور",
+     "page_start": 366,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 367
+    },
+    {
+     "id": "46a52585612a906c-s171",
+     "kind": "section",
+     "title": "حاکمیتِ اعلیٰ",
+     "page_start": 368,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 369
+    },
+    {
+     "id": "46a52585612a906c-s172",
+     "kind": "section",
+     "title": "قانون سازی",
+     "page_start": 370,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 372
+    },
+    {
+     "id": "46a52585612a906c-s173",
+     "kind": "section",
+     "title": "حکومت بطور معاہدہ عمرانی",
+     "page_start": 373,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 374
+    },
+    {
+     "id": "46a52585612a906c-s174",
+     "kind": "section",
+     "title": "تصور حکومت بطور امانت",
+     "page_start": 375,
+     "parent_id": "46a52585612a906c-c6",
+     "page_end": 385
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 385
+  },
+  {
+   "id": "46a52585612a906c-c7",
+   "kind": "chapter",
+   "title": "باب 5: سیرت الرسول ﷺ کی ریاستی اَہمیت",
+   "page_start": 386,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s175",
+     "kind": "section",
+     "title": "دین اسلام کی ریاستی تنظیم کا آغاز",
+     "page_start": 393,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 394
+    },
+    {
+     "id": "46a52585612a906c-s176",
+     "kind": "section",
+     "title": "بیعت عقبہ اولیٰ",
+     "page_start": 395,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 397
+    },
+    {
+     "id": "46a52585612a906c-s177",
+     "kind": "section",
+     "title": "بیعت عقبہ ثانیہ",
+     "page_start": 398,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 402
+    },
+    {
+     "id": "46a52585612a906c-s178",
+     "kind": "section",
+     "title": "مدینہ کے لئے ۱۲ نمائندوں کا تقرر",
+     "page_start": 403,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 403
+    },
+    {
+     "id": "46a52585612a906c-s179",
+     "kind": "section",
+     "title": "ہجرت مدینہ",
+     "page_start": 404,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 404
+    },
+    {
+     "id": "46a52585612a906c-s180",
+     "kind": "section",
+     "title": "ہجرت کے وقت مدینہ کے حالات کا تجزیہ",
+     "page_start": 404,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 406
+    },
+    {
+     "id": "46a52585612a906c-s181",
+     "kind": "section",
+     "title": "مکی دور کا سیاسی تجزیہ",
+     "page_start": 407,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 410
+    },
+    {
+     "id": "46a52585612a906c-s182",
+     "kind": "section",
+     "title": "قرآن حکیم کی سیاسی رہنمائی اور سیرت نبوی ﷺ",
+     "page_start": 411,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 412
+    },
+    {
+     "id": "46a52585612a906c-s183",
+     "kind": "section",
+     "title": "ہجرت کے بعد پہلا خطبہ",
+     "page_start": 413,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 413
+    },
+    {
+     "id": "46a52585612a906c-s184",
+     "kind": "section",
+     "title": "دوسرا خطبہ",
+     "page_start": 414,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 414
+    },
+    {
+     "id": "46a52585612a906c-s185",
+     "kind": "section",
+     "title": "قیام ریاست کی جد و جہد: سیرت نبوی ﷺ کی روشنی میں",
+     "page_start": 414,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 414
+    },
+    {
+     "id": "46a52585612a906c-s186",
+     "kind": "section",
+     "title": "مکی دور",
+     "page_start": 415,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 415
+    },
+    {
+     "id": "46a52585612a906c-s187",
+     "kind": "section",
+     "title": "مدنی دور",
+     "page_start": 416,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 416
+    },
+    {
+     "id": "46a52585612a906c-s188",
+     "kind": "section",
+     "title": "مدنی دور کی سات سیاسی فتوحات",
+     "page_start": 417,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 417
+    },
+    {
+     "id": "46a52585612a906c-s189",
+     "kind": "section",
+     "title": "مواخات: نئے سماجی و اقتصادی نظام کا اجراء",
+     "page_start": 418,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 419
+    },
+    {
+     "id": "46a52585612a906c-s190",
+     "kind": "section",
+     "title": "وسیع البنیاد معاہدات و اقدامات",
+     "page_start": 420,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 427
+    },
+    {
+     "id": "46a52585612a906c-s191",
+     "kind": "section",
+     "title": "میثاق مدینہ",
+     "page_start": 428,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 434
+    },
+    {
+     "id": "46a52585612a906c-s192",
+     "kind": "section",
+     "title": "معاہدہ حدیبیہ",
+     "page_start": 435,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 441
+    },
+    {
+     "id": "46a52585612a906c-s193",
+     "kind": "section",
+     "title": "فتح خیبر",
+     "page_start": 442,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 442
+    },
+    {
+     "id": "46a52585612a906c-s194",
+     "kind": "section",
+     "title": "فتح مکہ",
+     "page_start": 442,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 444
+    },
+    {
+     "id": "46a52585612a906c-s195",
+     "kind": "section",
+     "title": "خطبہ حجۃ الوداع: نیا عالمی نظام",
+     "page_start": 445,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 449
+    },
+    {
+     "id": "46a52585612a906c-s196",
+     "kind": "section",
+     "title": "مدینہ میں سیاسی معاشرہ کی تشکیل",
+     "page_start": 450,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 451
+    },
+    {
+     "id": "46a52585612a906c-s197",
+     "kind": "section",
+     "title": "قیام ریاست کے تناظر میں سیرت الرسول ﷺکی اہمیت",
+     "page_start": 452,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 453
+    },
+    {
+     "id": "46a52585612a906c-s198",
+     "kind": "section",
+     "title": "نظریہ و عمل کی وحدت",
+     "page_start": 454,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 454
+    },
+    {
+     "id": "46a52585612a906c-s199",
+     "kind": "section",
+     "title": "استقامت",
+     "page_start": 455,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 455
+    },
+    {
+     "id": "46a52585612a906c-s200",
+     "kind": "section",
+     "title": "عزم اور واقعات میں باہمی تعلق",
+     "page_start": 456,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 456
+    },
+    {
+     "id": "46a52585612a906c-s201",
+     "kind": "section",
+     "title": "واقعات میں منطقی ترتیب اور نبوی حکمت عملی کا عنصر",
+     "page_start": 457,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 457
+    },
+    {
+     "id": "46a52585612a906c-s202",
+     "kind": "section",
+     "title": "ذاتی و شخصی مفادات پر اجتماعی مفادات کی ترجیح",
+     "page_start": 458,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 458
+    },
+    {
+     "id": "46a52585612a906c-s203",
+     "kind": "section",
+     "title": "عملی اقدامات کے لئے ظاہری تقاضوں کی اہمیت",
+     "page_start": 459,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 460
+    },
+    {
+     "id": "46a52585612a906c-s204",
+     "kind": "section",
+     "title": "جدوجہد نبوی کا مسلسل تحرک",
+     "page_start": 461,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 461
+    },
+    {
+     "id": "46a52585612a906c-s205",
+     "kind": "section",
+     "title": "قیام ریاست کی بنیاد: فلاح انسانیت",
+     "page_start": 461,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 461
+    },
+    {
+     "id": "46a52585612a906c-s206",
+     "kind": "section",
+     "title": "قدرت اور بصیرت کا حسین امتزاج",
+     "page_start": 462,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 462
+    },
+    {
+     "id": "46a52585612a906c-s207",
+     "kind": "section",
+     "title": "فروغ دعوت کے لئے تمام میسر ذرائع کا استعمال",
+     "page_start": 463,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 464
+    },
+    {
+     "id": "46a52585612a906c-s208",
+     "kind": "section",
+     "title": "رجالِ کار کی تیاری",
+     "page_start": 465,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 465
+    },
+    {
+     "id": "46a52585612a906c-s209",
+     "kind": "section",
+     "title": "جدوجہد نبوی کا رجائی پہلو",
+     "page_start": 466,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 467
+    },
+    {
+     "id": "46a52585612a906c-s210",
+     "kind": "section",
+     "title": "ریاست مدینہ کا تسلسل",
+     "page_start": 468,
+     "parent_id": "46a52585612a906c-c7",
+     "page_end": 471
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 471
+  },
+  {
+   "id": "46a52585612a906c-c8",
+   "kind": "chapter",
+   "title": "باب 6: سیرت الرسول ﷺ کی اِنتظامی اَہمیت",
+   "page_start": 472,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s211",
+     "kind": "section",
+     "title": "دور نبوت کے ریاستی ادارے",
+     "page_start": 476,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 476
+    },
+    {
+     "id": "46a52585612a906c-s212",
+     "kind": "section",
+     "title": "ریاست کی دستوری بنیادیں",
+     "page_start": 476,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 479
+    },
+    {
+     "id": "46a52585612a906c-s213",
+     "kind": "section",
+     "title": "ریاست کامرکزی سیکریٹریٹ",
+     "page_start": 480,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 480
+    },
+    {
+     "id": "46a52585612a906c-s214",
+     "kind": "section",
+     "title": "ریاست کے معاشی و اقتصادی ادارے",
+     "page_start": 481,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 481
+    },
+    {
+     "id": "46a52585612a906c-s215",
+     "kind": "section",
+     "title": "ریاست کا انتظامی ڈھانچہ",
+     "page_start": 482,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 482
+    },
+    {
+     "id": "46a52585612a906c-s216",
+     "kind": "section",
+     "title": "عدالتی نظام",
+     "page_start": 483,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 483
+    },
+    {
+     "id": "46a52585612a906c-s217",
+     "kind": "section",
+     "title": "تعلیمی نظام",
+     "page_start": 484,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 484
+    },
+    {
+     "id": "46a52585612a906c-s218",
+     "kind": "section",
+     "title": "مالیاتی نظام",
+     "page_start": 485,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 486
+    },
+    {
+     "id": "46a52585612a906c-s219",
+     "kind": "section",
+     "title": "جنگی و دفاعی نظام",
+     "page_start": 487,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 488
+    },
+    {
+     "id": "46a52585612a906c-s220",
+     "kind": "section",
+     "title": "دفاعی اور جنگی حکمتِ عملی",
+     "page_start": 489,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 491
+    },
+    {
+     "id": "46a52585612a906c-s221",
+     "kind": "section",
+     "title": "بلدیاتی نظام",
+     "page_start": 492,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 492
+    },
+    {
+     "id": "46a52585612a906c-s222",
+     "kind": "section",
+     "title": "دور نبوت کے ریاستی عہدیداران",
+     "page_start": 493,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 493
+    },
+    {
+     "id": "46a52585612a906c-s223",
+     "kind": "section",
+     "title": "ریاست مدینہ میں شوریٰ کا نظام",
+     "page_start": 493,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 494
+    },
+    {
+     "id": "46a52585612a906c-s224",
+     "kind": "section",
+     "title": "عسکری امور میں مشاورت",
+     "page_start": 495,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 496
+    },
+    {
+     "id": "46a52585612a906c-s225",
+     "kind": "section",
+     "title": "اراکین شوری",
+     "page_start": 497,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 497
+    },
+    {
+     "id": "46a52585612a906c-s226",
+     "kind": "section",
+     "title": "نائبینِ نبوی کا تقرر",
+     "page_start": 498,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 501
+    },
+    {
+     "id": "46a52585612a906c-s227",
+     "kind": "section",
+     "title": "صوبائی انتظامیہ",
+     "page_start": 502,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 504
+    },
+    {
+     "id": "46a52585612a906c-s228",
+     "kind": "section",
+     "title": "عہدیداران کے اختیارات و دورانیہ",
+     "page_start": 505,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 505
+    },
+    {
+     "id": "46a52585612a906c-s229",
+     "kind": "section",
+     "title": "گورنروں کا تقرر",
+     "page_start": 506,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 506
+    },
+    {
+     "id": "46a52585612a906c-s230",
+     "kind": "section",
+     "title": "مقامی انتظامیہ",
+     "page_start": 507,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 507
+    },
+    {
+     "id": "46a52585612a906c-s231",
+     "kind": "section",
+     "title": "مقامی منتظمین کا تقرر",
+     "page_start": 508,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 508
+    },
+    {
+     "id": "46a52585612a906c-s232",
+     "kind": "section",
+     "title": "مارکیٹ آفیسرز کا تقرر",
+     "page_start": 509,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 509
+    },
+    {
+     "id": "46a52585612a906c-s233",
+     "kind": "section",
+     "title": "تقرری کے لئے شرائطِ اہلیت",
+     "page_start": 509,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 509
+    },
+    {
+     "id": "46a52585612a906c-s234",
+     "kind": "section",
+     "title": "ریاستی سیکریٹریٹ کے عہدیداران",
+     "page_start": 510,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 511
+    },
+    {
+     "id": "46a52585612a906c-s235",
+     "kind": "section",
+     "title": "ہنگامی تقرریاں",
+     "page_start": 512,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 513
+    },
+    {
+     "id": "46a52585612a906c-s236",
+     "kind": "section",
+     "title": "ریاست مدینہ کے نشریاتی ترجمان",
+     "page_start": 514,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 514
+    },
+    {
+     "id": "46a52585612a906c-s237",
+     "kind": "section",
+     "title": "حاجب اور آذن",
+     "page_start": 514,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 514
+    },
+    {
+     "id": "46a52585612a906c-s238",
+     "kind": "section",
+     "title": "محافظین",
+     "page_start": 515,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 516
+    },
+    {
+     "id": "46a52585612a906c-s239",
+     "kind": "section",
+     "title": "مملکتِ مدینہ کے سفیر",
+     "page_start": 517,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 520
+    },
+    {
+     "id": "46a52585612a906c-s240",
+     "kind": "section",
+     "title": "اسلام کے نظام ریاست کی توسیع اور تسلسل",
+     "page_start": 521,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 521
+    },
+    {
+     "id": "46a52585612a906c-s241",
+     "kind": "section",
+     "title": "مسلم سپین میں ریاستی انتظام",
+     "page_start": 521,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 521
+    },
+    {
+     "id": "46a52585612a906c-s242",
+     "kind": "section",
+     "title": "اسلام کے سپین پر اثرات",
+     "page_start": 521,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 521
+    },
+    {
+     "id": "46a52585612a906c-s243",
+     "kind": "section",
+     "title": "اسلامی کلچر کے اثرات",
+     "page_start": 522,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 522
+    },
+    {
+     "id": "46a52585612a906c-s244",
+     "kind": "section",
+     "title": "سربراہ مملکت",
+     "page_start": 523,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 523
+    },
+    {
+     "id": "46a52585612a906c-s245",
+     "kind": "section",
+     "title": "ریاستی ادارے",
+     "page_start": 523,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 523
+    },
+    {
+     "id": "46a52585612a906c-s246",
+     "kind": "section",
+     "title": "حاجب",
+     "page_start": 523,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 523
+    },
+    {
+     "id": "46a52585612a906c-s247",
+     "kind": "section",
+     "title": "وزارت",
+     "page_start": 524,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 524
+    },
+    {
+     "id": "46a52585612a906c-s248",
+     "kind": "section",
+     "title": "گورنر",
+     "page_start": 524,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 524
+    },
+    {
+     "id": "46a52585612a906c-s249",
+     "kind": "section",
+     "title": "سیکرٹریٹ",
+     "page_start": 525,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 525
+    },
+    {
+     "id": "46a52585612a906c-s250",
+     "kind": "section",
+     "title": "عدلیہ",
+     "page_start": 526,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 528
+    },
+    {
+     "id": "46a52585612a906c-s251",
+     "kind": "section",
+     "title": "صاحب المظالم",
+     "page_start": 529,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 530
+    },
+    {
+     "id": "46a52585612a906c-s252",
+     "kind": "section",
+     "title": "صاحب الرد",
+     "page_start": 531,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 531
+    },
+    {
+     "id": "46a52585612a906c-s253",
+     "kind": "section",
+     "title": "قاضی الجند",
+     "page_start": 531,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 531
+    },
+    {
+     "id": "46a52585612a906c-s254",
+     "kind": "section",
+     "title": "ریونیو",
+     "page_start": 532,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 533
+    },
+    {
+     "id": "46a52585612a906c-s255",
+     "kind": "section",
+     "title": "ریونیوافسران",
+     "page_start": 534,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 534
+    },
+    {
+     "id": "46a52585612a906c-s256",
+     "kind": "section",
+     "title": "پوسٹل سروسز",
+     "page_start": 535,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 535
+    },
+    {
+     "id": "46a52585612a906c-s257",
+     "kind": "section",
+     "title": "مقامی نمائندگان کی بطورریاستی عہدیدار تقرری",
+     "page_start": 535,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 535
+    },
+    {
+     "id": "46a52585612a906c-s258",
+     "kind": "section",
+     "title": "اقلیتوں کی انتظامی عہدوں پر تقرریاں",
+     "page_start": 535,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 536
+    },
+    {
+     "id": "46a52585612a906c-s259",
+     "kind": "section",
+     "title": "شرطہ (پولیس)",
+     "page_start": 537,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 537
+    },
+    {
+     "id": "46a52585612a906c-s260",
+     "kind": "section",
+     "title": "محتسب",
+     "page_start": 538,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 539
+    },
+    {
+     "id": "46a52585612a906c-s261",
+     "kind": "section",
+     "title": "رفاہ عامہ کے امور",
+     "page_start": 540,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 540
+    },
+    {
+     "id": "46a52585612a906c-s262",
+     "kind": "section",
+     "title": "مسلمانوں کا نظام آب پاشی",
+     "page_start": 541,
+     "parent_id": "46a52585612a906c-c8",
+     "page_end": 543
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 543
+  },
+  {
+   "id": "46a52585612a906c-c9",
+   "kind": "chapter",
+   "title": "باب 7: سیرت الرسول ﷺ کی علمی و سائنسی اَہمیت",
+   "page_start": 544,
+   "sections": [
+    {
+     "id": "46a52585612a906c-s263",
+     "kind": "section",
+     "title": "قرآن حکیم اور علمی و سائنسی ترقی",
+     "page_start": 548,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 548
+    },
+    {
+     "id": "46a52585612a906c-s264",
+     "kind": "section",
+     "title": "تذکر",
+     "page_start": 549,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 549
+    },
+    {
+     "id": "46a52585612a906c-s265",
+     "kind": "section",
+     "title": "تدبر",
+     "page_start": 550,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 550
+    },
+    {
+     "id": "46a52585612a906c-s266",
+     "kind": "section",
+     "title": "تعقل",
+     "page_start": 551,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 552
+    },
+    {
+     "id": "46a52585612a906c-s267",
+     "kind": "section",
+     "title": "تفکر",
+     "page_start": 553,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 553
+    },
+    {
+     "id": "46a52585612a906c-s268",
+     "kind": "section",
+     "title": "بصیرت",
+     "page_start": 554,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 554
+    },
+    {
+     "id": "46a52585612a906c-s269",
+     "kind": "section",
+     "title": "شعور",
+     "page_start": 555,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 556
+    },
+    {
+     "id": "46a52585612a906c-s270",
+     "kind": "section",
+     "title": "علم",
+     "page_start": 557,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 557
+    },
+    {
+     "id": "46a52585612a906c-s271",
+     "kind": "section",
+     "title": "حکمت",
+     "page_start": 558,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 558
+    },
+    {
+     "id": "46a52585612a906c-s272",
+     "kind": "section",
+     "title": "معرفت (عرفان)",
+     "page_start": 559,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 559
+    },
+    {
+     "id": "46a52585612a906c-s273",
+     "kind": "section",
+     "title": "اِیقان",
+     "page_start": 560,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 560
+    },
+    {
+     "id": "46a52585612a906c-s274",
+     "kind": "section",
+     "title": "قرآن حکیم اور فروغِ علوم",
+     "page_start": 560,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 560
+    },
+    {
+     "id": "46a52585612a906c-s275",
+     "kind": "section",
+     "title": "مذہبی علوم",
+     "page_start": 561,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 561
+    },
+    {
+     "id": "46a52585612a906c-s276",
+     "kind": "section",
+     "title": "زبان و ادب",
+     "page_start": 562,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 562
+    },
+    {
+     "id": "46a52585612a906c-s277",
+     "kind": "section",
+     "title": "حکمت و فلسفہ",
+     "page_start": 562,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 562
+    },
+    {
+     "id": "46a52585612a906c-s278",
+     "kind": "section",
+     "title": "سماجی علوم",
+     "page_start": 562,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 562
+    },
+    {
+     "id": "46a52585612a906c-s279",
+     "kind": "section",
+     "title": "طبعی علوم",
+     "page_start": 563,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 564
+    },
+    {
+     "id": "46a52585612a906c-s280",
+     "kind": "section",
+     "title": "سیرتِ محمدی ﷺ اور علمی و سائنسی ترقی",
+     "page_start": 565,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 580
+    },
+    {
+     "id": "46a52585612a906c-s281",
+     "kind": "section",
+     "title": "علمِ فقہ و قانون",
+     "page_start": 581,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 583
+    },
+    {
+     "id": "46a52585612a906c-s282",
+     "kind": "section",
+     "title": "علمِ ہیئت و فلکیات",
+     "page_start": 584,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 587
+    },
+    {
+     "id": "46a52585612a906c-s283",
+     "kind": "section",
+     "title": "ریاضی، الجبرا، جیومیٹری",
+     "page_start": 588,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 590
+    },
+    {
+     "id": "46a52585612a906c-s284",
+     "kind": "section",
+     "title": "علم طبیعیات، میکانیات اور حرکیات",
+     "page_start": 591,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 592
+    },
+    {
+     "id": "46a52585612a906c-s285",
+     "kind": "section",
+     "title": "علم بصریات",
+     "page_start": 593,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 596
+    },
+    {
+     "id": "46a52585612a906c-s286",
+     "kind": "section",
+     "title": "علم النباتات",
+     "page_start": 597,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 598
+    },
+    {
+     "id": "46a52585612a906c-s287",
+     "kind": "section",
+     "title": "علم الطب",
+     "page_start": 599,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 602
+    },
+    {
+     "id": "46a52585612a906c-s288",
+     "kind": "section",
+     "title": "علم ادوِیہ سازی",
+     "page_start": 603,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 603
+    },
+    {
+     "id": "46a52585612a906c-s289",
+     "kind": "section",
+     "title": "علم الجراحت",
+     "page_start": 604,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 605
+    },
+    {
+     "id": "46a52585612a906c-s290",
+     "kind": "section",
+     "title": "علمِ اَمراضِ چشم",
+     "page_start": 606,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 606
+    },
+    {
+     "id": "46a52585612a906c-s291",
+     "kind": "section",
+     "title": "بیہوش کرنے کا نظام",
+     "page_start": 607,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 607
+    },
+    {
+     "id": "46a52585612a906c-s292",
+     "kind": "section",
+     "title": "علم الکیمیا",
+     "page_start": 607,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 608
+    },
+    {
+     "id": "46a52585612a906c-s293",
+     "kind": "section",
+     "title": "علم تاریخ اور عمرانیات",
+     "page_start": 609,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 609
+    },
+    {
+     "id": "46a52585612a906c-s294",
+     "kind": "section",
+     "title": "جغرافیہ اور مواصلات",
+     "page_start": 610,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 611
+    },
+    {
+     "id": "46a52585612a906c-s295",
+     "kind": "section",
+     "title": "مسلمانوں کی سائنسی ترقی کا اِجتماعی زندگی پر اثر",
+     "page_start": 612,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 614
+    },
+    {
+     "id": "46a52585612a906c-s296",
+     "kind": "section",
+     "title": "سیرت الرسول ﷺ کا علمی فیضان اور عصرِ حاضر",
+     "page_start": 615,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 617
+    },
+    {
+     "id": "46a52585612a906c-s297",
+     "kind": "section",
+     "title": "اشاریہ جات",
+     "page_start": 618,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 619
+    },
+    {
+     "id": "46a52585612a906c-s298",
+     "kind": "section",
+     "title": "اِشاریہ آیاتِ قرآنی",
+     "page_start": 620,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 629
+    },
+    {
+     "id": "46a52585612a906c-s299",
+     "kind": "section",
+     "title": "اِشاریہ اَحادیث مبارکہ",
+     "page_start": 630,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 641
+    },
+    {
+     "id": "46a52585612a906c-s300",
+     "kind": "section",
+     "title": "عمومی اِشاریہ",
+     "page_start": 642,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 659
+    },
+    {
+     "id": "46a52585612a906c-s301",
+     "kind": "section",
+     "title": "مآخذ و مراجع",
+     "page_start": 660,
+     "parent_id": "46a52585612a906c-c9",
+     "page_end": 689
+    }
+   ],
+   "parent_id": "46a52585612a906c",
+   "page_end": 689
+  }
+ ],
+ "problems": []
+}
