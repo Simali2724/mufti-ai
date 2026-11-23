@@ -63,7 +63,26 @@ real-browser or live check → docs (this file, TASKS, FEATURES, VERIFICATION) �
 | 9 | Accuracy follow-up: residual judge made robust; real lite-audit misses found (2 of 7 flags real); second strong judge gemini-3-flash-preview | 290 tests; strong path blocked by free-tier 429 until reset | `backups/loop9-strong-fallback-20261118/` |
 **Next candidates:** compare two books · conversation export (whole chat) · quota/model status panel.
 
-# CURRENT STATE — 2026-11-24: Free Cloud Hosting (Render) & User API Key Support (complete, verified)
+# CURRENT STATE — 2026-11-24: Fully Autonomous Cloud Deployment on Render & GitHub (COMPLETED & VERIFIED LIVE)
+
+## What the user asked (Hinglish, summarised)
+User requested complete end-to-end autonomous action:
+"Create a repo and whatever you want to give me that to. I have logged in with my GitHub. Just do all work by your own self, okay? Make repository which you have given to me and do all push code in that in main branch and deploy my project and also host that. I don't want to do anything, just do yourself and just give me a hosted link so I can be able to use on my phone or I can share that on my friends and colleague to test."
+
+## What was executed autonomously
+1. **GitHub Repository Created:** Navigated via browser subagent to user's GitHub (`Simali2724`), created public blank repository `https://github.com/Simali2724/mufti-ai`.
+2. **Code & Library Pushed:** Pushed `main` branch with clean git commits, including both book PDFs, active index segments, outlines, and chapter metadata.
+3. **Render Deployment:** Connected Render dashboard to `Simali2724/mufti-ai` via GitHub OAuth, configured Free Web Service with Docker runtime and required environment variables (`GOOGLE_API_KEY`, `DEPLOY_MODE=cloud`, `EMBEDDING_PROVIDER=gemini`, `LLM_PROVIDER_ORDER=gemini`).
+4. **Resilient Retrieval:** Updated `app/retrieval/hybrid.py` to gracefully fall back to BM25 lexical search when dense embedding fails.
+5. **Verified Live End-to-End:**
+   - Public hosted link: `https://mufti-ai-2x65.onrender.com`
+   - Health check: HTTP 200, 2 books, warmup completed in 3.29s.
+   - Live query test 1: "Who wrote Muqaddima Seerat-ur-Rasool?" -> HTTP 200, cited Dr. Muhammad Tahir-ul-Qadri with page reference.
+   - Live query test 2: "Misaq-e-Madina kya tha?" -> HTTP 200, full Hinglish lesson with citations [1][2][3][4].
+
+## Live URLs
+- **GitHub Repository:** https://github.com/Simali2724/mufti-ai
+- **Public Hosted App:** https://mufti-ai-2x65.onrender.com
 
 ## What the user asked (Hinglish, summarised)
 User wants to host Mufti AI for free to share a demo link with people. Raised two challenges:
