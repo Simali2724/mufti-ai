@@ -1,0 +1,20 @@
+﻿.\.venv\Scripts\python.exe : 2026-11-12 12:21:27,008 INFO httpx HTTP Request: POST http://localhost:11434/api/embed 
+"HTTP/1.1 200 OK"
+At line:1 char:328
++ ... :\mufti-ai; .\.venv\Scripts\python.exe -u -m eval.compare_local_model ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-11-12 12:2...TTP/1.1 200 OK":String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026-11-12 12:21:39,269 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-12 12:22:42,344 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-12 12:22:42,346 INFO mufti task=answer provider=ollama
+2026-11-12 12:24:38,899 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-12 12:24:38,901 INFO mufti task=verifier provider=ollama
+2026-11-12 12:24:40,280 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-12 12:24:55,917 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-12 12:24:58,026 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-12 12:29:14,892 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-12 12:29:14,893 INFO mufti task=answer provider=ollama
+2026-11-12 12:30:01,213 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-12 12:30:01,214 INFO mufti task=verifier provider=ollama

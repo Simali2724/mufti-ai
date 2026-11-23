@@ -1,0 +1,25 @@
+{
+  "answer": "Author: Dr. Muhammad Tahir-ul-Qadri. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری»",
+  "language": "English",
+  "citations": [
+    {
+      "id": 1,
+      "book_id": "46a52585612a906c",
+      "book_title": "Muqaddima Seerat ur Rasool 1 1",
+      "page": 3,
+      "chapter": "Title and publication details",
+      "excerpt": "تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری",
+      "ocr": false,
+      "transcription_reviewed": true
+    }
+  ],
+  "provider_used": "book_metadata",
+  "model_used": "",
+  "fallback_used": false,
+  "execution": [],
+  "reason_code": "",
+  "retrieved_count": 0,
+  "grounded": true,
+  "latency_ms": 1156,
+  "status": "complete"
+}

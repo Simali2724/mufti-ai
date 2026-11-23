@@ -1,0 +1,59 @@
+{
+  "book_id": "46a52585612a906c",
+  "pdf_sha256": "6c0efa1196ea5de26a082f0f6c9cce5bc502786ecccdd062d0e2ea1d65f08ffd",
+  "review_status": "visually_verified",
+  "review_date": "2026-11-11",
+  "review_method": "Title page 2 and publication page 3 rendered and visually read from the uploaded PDF; original OCR preserved.",
+  "aliases": [
+    "Muqaddima Seerat ur Rasool",
+    "Muaddima seerat ur Rasool",
+    "Muqaddima Seerat-ur-Rasool Part One",
+    "مقدمہ سیرۃ الرسول"
+  ],
+  "facts": {
+    "author": {
+      "page": 3,
+      "quote": "تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری",
+      "values": {
+        "English": "Dr. Muhammad Tahir-ul-Qadri",
+        "Hinglish": "Dr. Muhammad Tahir-ul-Qadri",
+        "Urdu": "ڈاکٹر محمد طاہر القادری",
+        "Hindi": "डॉ. मुहम्मद ताहिर-उल-क़ादरी"
+      }
+    },
+    "publisher": {
+      "page": 2,
+      "quote": "منہاج القرآن پبلیکیشنز",
+      "values": {
+        "English": "Minhaj-ul-Quran Publications",
+        "Urdu": "منہاج القرآن پبلیکیشنز",
+        "Hindi": "मिन्हाज-उल-क़ुरआन पब्लिकेशन्स"
+      }
+    },
+    "isbn": {
+      "page": 3,
+      "quote": "ISBN 969-32-0552-9",
+      "values": {
+        "English": "969-32-0552-9"
+      }
+    },
+    "first_published": {
+      "page": 3,
+      "quote": "اشاعت اول : فروری 1995ء",
+      "values": {
+        "English": "February 1995",
+        "Urdu": "فروری 1995ء",
+        "Hindi": "फ़रवरी 1995"
+      }
+    },
+    "title": {
+      "page": 3,
+      "quote": "مقدمہ سیرۃ الرسول",
+      "values": {
+        "English": "Muqaddima Seerat-ur-Rasool (Part One)",
+        "Urdu": "مقدمہ سیرۃ الرسول (حصہ اول)",
+        "Hindi": "मुक़द्दिमा सीरत-उर-रसूल (भाग एक)"
+      }
+    }
+  }
+}

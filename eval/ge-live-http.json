@@ -1,0 +1,72 @@
+{
+ "answer": "The indexed book does not directly answer this question. Related passages are listed below so you can check the original pages yourself.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 50 — «The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 257 — «(Conditional Superordination of State) (Adult Franchise) (No Gender Discrimination in Adult Franchise) (Difference of Opinion as Fundamental Right) (Respect of Majority Opinion) (Elected and Representative Govt) (Structure of Govt System) …»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 282 — «میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل»",
+ "language": "English",
+ "citations": [],
+ "related": [
+  {
+   "id": 1,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 50,
+   "printed_label": 49,
+   "chapter": "۱۔ اسلام اور مغرب کی معاشرتی اقدار کا فرق",
+   "excerpt": "The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.",
+   "ocr": true,
+   "relation": "same_concept"
+  },
+  {
+   "id": 2,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 257,
+   "printed_label": 16,
+   "chapter": "",
+   "excerpt": "(Conditional Superordination of State) (Adult Franchise) (No Gender Discrimination in Adult Franchise) (Difference of Opinion as Fundamental Right) (Respect of Majority Opinion) (Elected and Representative Govt) (Structure of Govt System) …",
+   "ocr": true,
+   "relation": "same_concept"
+  },
+  {
+   "id": 3,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 282,
+   "printed_label": null,
+   "chapter": ")۵( قانون کی اطاعت ونغاذ میں برابری کاحجن",
+   "excerpt": "میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل",
+   "ocr": true,
+   "relation": "same_concept"
+  }
+ ],
+ "provider_used": "ollama",
+ "model_used": "qwen3:1.7b",
+ "fallback_used": false,
+ "execution": [
+  {
+   "task": "answer",
+   "provider": "ollama",
+   "model": "qwen3:1.7b",
+   "fallback": false
+  }
+ ],
+ "reason_code": "unsupported_claims",
+ "retrieved_count": 30,
+ "evidence_pages": [
+  50,
+  257,
+  282,
+  286,
+  14,
+  280
+ ],
+ "grounded": false,
+ "coverage": "none",
+ "missing_aspects": [],
+ "selected_provider": "ollama",
+ "selected_model": "qwen3:1.7b",
+ "answering_provider": "ollama",
+ "answering_model": "qwen3:1.7b",
+ "fallback_reason": "",
+ "latency_ms": 65875,
+ "status": "complete",
+ "_measured_seconds": 66.3
+}

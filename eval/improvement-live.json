@@ -1,0 +1,135 @@
+[
+  {
+    "question": "Who is Mahomet explain",
+    "answer": "The commands and prohibitions of the Messenger of Allah (peace be upon him) are considered the commands and prohibitions of God Himself. [1]\n\nThrough the embodiment of prophethood (peace be upon him), God granted humans a source of knowledge. [2]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 201 — «معالے میں رسول اللد ننم کے اوامر ونواہی وراصسل خداہی کے اوامرونواہی کہلاتے ہیں۔»\n[2] Muqaddima Seerat ur Rasool 1 1 · PDF page 234 — «سو پکر نبوت کے ذریے قدرت نے انسانوں کووہ سرچشہ علم عطا کر دیاء جوانہیں ان کے»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 201,
+        "chapter": "",
+        "excerpt": "معالے میں رسول اللد ننم کے اوامر ونواہی وراصسل خداہی کے اوامرونواہی کہلاتے ہیں۔",
+        "ocr": true
+      },
+      {
+        "id": 2,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 234,
+        "chapter": "",
+        "excerpt": "سو پکر نبوت کے ذریے قدرت نے انسانوں کووہ سرچشہ علم عطا کر دیاء جوانہیں ان کے",
+        "ocr": true
+      }
+    ],
+    "provider_used": "gemini",
+    "model_used": "gemini-2.5-flash",
+    "fallback_used": false,
+    "execution": [
+      {
+        "task": "language",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "router",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "answer",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "verifier",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "answer",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "verifier",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "answer",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "verifier",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      }
+    ],
+    "reason_code": "",
+    "retrieved_count": 18,
+    "grounded": true,
+    "latency_ms": 101968,
+    "status": "complete"
+  },
+  {
+    "question": "What does the book say about personal piety and worship of God?",
+    "answer": "Islam is personal piety and worship of God within a framework of revealed universal ethical principles. [1]\n\nThese revealed universal ethical principles are to be implemented in human life. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 51 — «Islam (is) personal piety and worship of God in a framework of revealed universal ethical principles which are to be implemented in human life.»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 51,
+        "chapter": "",
+        "excerpt": "Islam (is) personal piety and worship of God in a framework of revealed universal ethical principles which are to be implemented in human life.",
+        "ocr": true
+      }
+    ],
+    "provider_used": "gemini",
+    "model_used": "gemini-2.5-flash",
+    "fallback_used": false,
+    "execution": [
+      {
+        "task": "language",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "router",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "answer",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "verifier",
+        "provider": "ollama",
+        "model": "qwen3:1.7b",
+        "fallback": true
+      }
+    ],
+    "reason_code": "",
+    "retrieved_count": 18,
+    "grounded": true,
+    "latency_ms": 377359,
+    "status": "complete"
+  }
+]

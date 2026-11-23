@@ -1,0 +1,118 @@
+{
+ "answer": "The book covers part of this question:\n\nGender Equality as a Cultural Difference\nRonald Inglehart and Pippa Norris state that gender equality and sexual liberalization are fundamental cultural differences between the West and Islam. [1]\nAccording to Inglehart and Norris, these social values could plausibly be central to any conflict between Islam and the West. [1]\nInglehart and Norris's analysis reveals a more significant gap between Islam and the West on these issues than on political values. [1]\n\nPrinciples of Equality\nThere is a principle of no gender discrimination in adult franchise. [2]\n\nNot covered in this book\n· A detailed explanation of what gender equality entails in an Islamic context.\n· Specific examples or practical applications of gender equality.\n· How gender equality is implemented in Islamic law or society.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 282 — «میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 350 — «(Minorities' Rights in Constitution of Madina) i (Right of Life for Minorities) ii (Guarantee of constitutional & legal equality) M]¢ v iii (Protection of the Rights of Minorities) V L …»\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 50 (printed page 49) — «The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.»\n[2] Muqaddima Seerat ur Rasool 1 1 · PDF page 257 (printed page 16) — «(Adult Franchise) (No Gender Discrimination in Adult Franchise)»",
+ "language": "English",
+ "citations": [
+  {
+   "id": 1,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 50,
+   "printed_label": 49,
+   "chapter": "۱۔ اسلام اور مغرب کی معاشرتی اقدار کا فرق",
+   "excerpt": "The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.",
+   "full_support": "The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.",
+   "ocr": true,
+   "corrected": false,
+   "correction_source": "",
+   "relation": "same_concept",
+   "transcription_reviewed": false
+  },
+  {
+   "id": 2,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 257,
+   "printed_label": 16,
+   "chapter": "",
+   "excerpt": "(Adult Franchise) (No Gender Discrimination in Adult Franchise)",
+   "full_support": "(Adult Franchise) (No Gender Discrimination in Adult Franchise)",
+   "ocr": true,
+   "corrected": false,
+   "correction_source": "",
+   "relation": "same_concept",
+   "transcription_reviewed": false
+  }
+ ],
+ "related": [
+  {
+   "id": 1,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 282,
+   "printed_label": null,
+   "chapter": ")۵( قانون کی اطاعت ونغاذ میں برابری کاحجن",
+   "excerpt": "میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل",
+   "ocr": true,
+   "relation": "related_concept"
+  },
+  {
+   "id": 2,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 350,
+   "printed_label": 349,
+   "chapter": ")۲( دستور مدینہ اور اقلیتوں کے حقوق کا تنظظ",
+   "excerpt": "(Minorities' Rights in Constitution of Madina) i (Right of Life for Minorities) ii (Guarantee of constitutional & legal equality) M]¢ v iii (Protection of the Rights of Minorities) V L …",
+   "ocr": true,
+   "relation": "related_concept"
+  }
+ ],
+ "provider_used": "gemini",
+ "model_used": "gemini-2.5-flash",
+ "fallback_used": false,
+ "execution": [
+  {
+   "task": "answer",
+   "provider": "gemini",
+   "model": "gemini-2.5-flash",
+   "fallback": false
+  },
+  {
+   "task": "verifier",
+   "provider": "gemini",
+   "model": "gemini-2.5-flash",
+   "fallback": false
+  },
+  {
+   "task": "verifier",
+   "provider": "gemini",
+   "model": "gemini-2.5-flash",
+   "fallback": false
+  },
+  {
+   "task": "answer",
+   "provider": "gemini",
+   "model": "gemini-2.5-flash",
+   "fallback": false
+  },
+  {
+   "task": "verifier",
+   "provider": "gemini",
+   "model": "gemini-2.5-flash",
+   "fallback": false
+  }
+ ],
+ "reason_code": "partial_coverage",
+ "retrieved_count": 60,
+ "evidence_pages": [
+  50,
+  257,
+  282,
+  350,
+  50
+ ],
+ "grounded": true,
+ "coverage": "partial",
+ "missing_aspects": [
+  "A detailed explanation of what gender equality entails in an Islamic context.",
+  "Specific examples or practical applications of gender equality.",
+  "How gender equality is implemented in Islamic law or society."
+ ],
+ "selected_provider": "gemini",
+ "selected_model": "gemini-2.5-flash",
+ "answering_provider": "gemini",
+ "answering_model": "gemini-2.5-flash",
+ "fallback_reason": "",
+ "latency_ms": 47313,
+ "status": "complete"
+}

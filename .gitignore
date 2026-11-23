@@ -1,0 +1,38 @@
+# Environments and secrets
+.venv/
+.env
+*.env
+model-settings.json
+
+# Local data & caches
+data/index/
+data/books/*.pdf
+data/feedback/
+data/saved/
+data/whisper/
+data/diagnostics/
+data/tessdata/
+
+# Databases
+*.sqlite
+*.sqlite3
+*.db
+sessions.sqlite*
+
+# Logs & temp
+*.log
+__pycache__/
+.pytest_cache/
+backups/
+Gender
+
+# IDE & OS
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+
+# Cloud deploy: pre-built cloud index IS included
+!data/cloud-index/
+data/cloud-index/embedding-cache/

@@ -1,0 +1,12 @@
+{
+  "http_status": 200,
+  "transcript": "Hello",
+  "detected_voice_language": "en",
+  "answer": "Assalamu alaikum. Ask a question about your available books.",
+  "language": "English",
+  "citations": [],
+  "provider_used": "none",
+  "grounded": false,
+  "latency_ms": 156,
+  "status": "complete"
+}

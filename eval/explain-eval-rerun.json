@@ -1,0 +1,243 @@
+{
+ "summary": {
+  "cases_run": 10,
+  "errors": 0,
+  "answerable": 6,
+  "answered": 6,
+  "answered_rate": 1.0,
+  "false_refusals": [],
+  "service_failures": [],
+  "page_hit_rate_of_answered": 0.833,
+  "absent_cases": 4,
+  "answered_absent": [],
+  "median_seconds": 13.5,
+  "audited": 6
+ },
+ "results": [
+  {
+   "id": "ge-en-1",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "Explain Gender Equality in detail",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    50,
+    286,
+    257,
+    448
+   ],
+   "expected_pages": [
+    50,
+    257
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 26.1,
+   "words": 303,
+   "answer": "The book discusses gender equality primarily in the context of the cultural differences between the West and Islam, as well as under the constitutional and state importance of the Seerah of the Holy Prophet ﷺ. \n\n### Cultural Values and Gender Equality\n* Ronald Inglehart and Pippa Norris write that the most fundamental cultural fault line between the West and Islam does not concern democracy, but rather involves issues of gender equality and sexual liberalization [1].\n* They note that the social values of gender equality and sexual liberalization could plausibly lie at the heart of any \"clash\" between Islam and the West [1].\n* The analysis of these social attitudes reveals a strong and significant gap between Islam and the West on these specific issues, which is wider than across most political values [1].\n\n### Constitutional and State Protection of Women's Rights\n* In discussing the constitutional and legal importance of the Seerah, the book outlines several foundational principles established under the Constitution of Medina (Mithaq-e-Madina), which include the right of protection for women [2].\n* The constitutional framework guarantees equal human rights and no gender discrimination in adult franchise [3].\n* Furthermore, the Farewell Pilgrimage (Khutbah Hajjat-ul-Wada) highlighted that the Holy Prophet ﷺ established universal equality by making piety the basis of honor and dignity, while also providing complete protection to the rights of women [4].\n\n### Summary\nIn summary, while Western researchers note that gender equality and sexual liberalization form a distinct cultural fault line between Islam and the West, the Seerah of the Holy Prophet ﷺ established foundational constitutional principles, including the protection of women's rights and universal equality based on piety. *(Note: The provided passages do not contain a detailed theological or historical exposition of the day-to-day implementation of gender roles beyond these constitutional guarantees and cultural comparisons.)* [1][3][2][4]"
+  },
+  {
+   "id": "ge-hi-1",
+   "language": "Hindi",
+   "expectation": "answerable_partial",
+   "question": "इस किताब में लैंगिक समानता के बारे में क्या कहा गया है?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    50,
+    286,
+    14
+   ],
+   "expected_pages": [
+    50,
+    257
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 14.0,
+   "words": 229,
+   "answer": "इस पुस्तक में रोनाल्ड इंग्रहार्ट (Ronald Inglehart) और पिप्पा नॉरिस (Pippa Norris) के हवाले से यह बताया गया है कि पश्चिम और इस्लाम के बीच सबसे बुनियादी सांस्कृतिक मतभेद लोकतंत्र का नहीं, बल्कि लैंगिक समानता (gender equality) और लैंगिक उदारतीकरण (sexual liberalization) से जुड़े मुद्दों का है [1]। इन विद्वानों के अनुसार, लैंगिक समानता और लैंगिक उदारतीकरण जैसी सामाजिक ارزش (values) इस्लाम और पश्चिम के बीच किसी भी संभावित \"टकराव\" के केंद्र में हो सकती हैं [1]। सामाजिक दृष्टिकोणों के इस विश्लेषण से इस्लाम और पश्चिम के बीच की खाई का पता चलता है, और राजनीतिक मूल्यों की तुलना में इन मुद्दों पर अधिक गहरा और महत्वपूर्ण अंतर पाया गया है [1]।\n\nइसके अतिरिक्त, पुस्तक में मि-साक़-ए-मदीना (میثاق مدینہ) के अंतर्गत महिलाओं की सुरक्षा और अधिकारों के संबंध में भी संकेत मिलता है, जैसा कि अध्यायों की सूची और संबंधित शीर्षकों में महिलाओं की इज्जत व حرمت के संरक्षण के कानून और आर्थिक व सामाजिक सुरक्षा के संदर्भों में दर्ज है [2][3]।\n\n### सारांश\nपुस्तक में रोनाल्ड इंग्रहार्ट और पिप्पा नॉरिस के हवाले से यह दर्शाया गया है कि लैंगिक समानता और यौन उदारतीकरण के मुद्दे इस्लाम और पश्चिम के बीच सांस्कृतिक और सामाजिक दृष्टिकोण का एक मुख्य केंद्र और सबसे बड़ा अंतर हैं [1]। (नोट: पुस्तक के इन चुनिंदा अंशों में इस्लामी विधि या विस्तृत शरीयत के अंतर्गत लैंगिक समानता के नियमों का संपूर्ण विवरण उपलब्ध नहीं है।)"
+  },
+  {
+   "id": "piety-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about personal piety and worship of God?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    51,
+    104
+   ],
+   "expected_pages": [
+    51
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 14.5,
+   "words": 150,
+   "answer": "### Personal Piety and Worship of God in Islam\n\nAccording to the Western scholar Southern, Islam is defined as personal piety and worship of God within a framework of revealed universal ethical principles that are meant to be implemented in human life [1]. Furthermore, Islam in its personal pietism and Quranic ethical universalism is intended to achieve this implementation [1]. \n\nThe book also notes in the context of Quranic descriptions that acts of obedience and worship of God require sincerity and devotion (*ikhlas wa lilliyyat*) [2]. Believers who accompany the Prophet ﷺ are described as focusing their prayers and prostrations purely on seeking the grace and pleasure of Allah [2].\n\n### Summary\nThe book highlights through scholarly references that personal piety and worship of God form an essential part of Islam's revealed universal ethical principles, and that all acts of worship must be performed with sincere devotion to Allah [1][2]."
+  },
+  {
+   "id": "west-en-2",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What do Western writers say about the simplicity of the Prophet's life?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    55,
+    59,
+    60,
+    61,
+    65,
+    63
+   ],
+   "expected_pages": [
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 13.5,
+   "words": 445,
+   "answer": "Western writers and historians have highlighted the profound simplicity, lack of ostentation, and frugality that characterized the life of the Holy Prophet Muhammad ﷺ, noting that this simple way of life remained unchanged even when he attained power [1][2][3][4][5][6].\n\n### Simplicity in Daily Life, Food, and Clothing\n* **Modesty and Asceticism:** Sir William Muir observes that a patriarchal simplicity pervaded the life of the Prophet ﷺ [1]. Edward Gibbon notes that the Prophet's good sense despised the pomp of royalty, and he observed the abstemious diet of an Arab soldier without affectation or vanity [2]. Similarly, Gustav Weil and Edward Freeman record that his house, dress, and food were characterized by a rare simplicity, and he did not rear a palace for his own honor [3].\n* **Frugal Diet:** According to Edward Gibbon, the Prophet's hunger was appeased with a sparing allowance of barley bread; he delighted in the taste of milk and honey, but his ordinary food consisted of dates and water, and many weeks would elapse in his domestic life without a fire being kindled on his hearth [2]. The Encyclopedia Americana and Sir John Glubb confirm that his food, clothing, and house furnishings were simple in the extreme, and even at the height of his power he lived in a modest hut, sleeping upon straw with a palm-leaf and leather pillow [4][6].\n\n### Humility and Domestic Labor\n* **Menial Household Chores:** Edward Gibbon and Charles Mills record that the apostle of God submitted to the menial offices of the family: he would kindle the fire, sweep the floor, milk the ewes, and mend his own shoes and coarse woolen garments with his own hands [2][4].\n* **Absence of Pride:** Bertram Thomas describes him as a man without pride, ostentation, or cant—a strong and just man who despised pomp and lived an utterly simple life, to the extent that he died in debt with some of his belongings, including his only shield, in pawn with a Jew [6].\n\n### Consistency Across Power and Prosperity\n* Montgomery Watt notes that of all the world's great men, none has been so much maligned, and authorities agree on the purity of his manners and deportment [1].\n* **Equanimity in Wealth:** Sir John Glubb states that the Prophet ﷺ never accumulated wealth nor made use of elementary comforts, even when ample money was available had he been interested in it [6].\n\n### Khulasa\nWestern biographers and historians widely acknowledge the unmatched simplicity, humility, and frugality of the Holy Prophet Muhammad's ﷺ daily existence, noting that his lifestyle remained utterly unpretentious and free from royal pomp even when he was the spiritual and temporal ruler of Arabia [1][2][3][4][6]."
+  },
+  {
+   "id": "cm-hi-1",
+   "language": "Hindi",
+   "expectation": "answerable_full",
+   "question": "मदीना के संविधान में धार्मिक स्वतंत्रता के बारे में क्या है?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    259
+   ],
+   "expected_pages": [
+    286,
+    257,
+    260
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 16.0,
+   "words": 102,
+   "answer": "मदीना के संविधान के बुनियादी सिद्धांतों में एक बहुसांस्कृतिक समाज की स्थापना और विभिन्न राष्ट्रों की मान्यता का उल्लेख किया गया है [1]। \n\n### मदीना के संविधान के संबंध में विवरण\n* मदीना के संविधान के विश्लेषण में बहुसांस्कृतिक समाज की स्थापना (Establishment of Multi Cultural Society) और राज्य की विभिन्न जातियों एवं राष्ट्रों की मान्यता (Recognition of Different Nations of State) शामिल हैं [1]।\n\n### خلاصہ\nसंक्षेप में, मदीना के संविधान में बहुसांस्कृतिक समाज की स्थापना और विभिन्न राष्ट्रों की मान्यता का जिक्र किया गया है [1]; हालाँकि, इन स्रोतों में धार्मिक स्वतंत्रता के बारे में विशिष्ट विवरण उपलब्ध नहीं है।"
+  },
+  {
+   "id": "comp-en-4",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about Leon Duguit's view of sovereignty?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    375
+   ],
+   "expected_pages": [
+    375
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 10.9,
+   "words": 75,
+   "answer": "According to the book, Leon Duguit (1859–1928) held the view that the concept of \"sovereignty is an essential attribute of the state\" was a myth that needed to be discarded [1]. Instead of the traditional idea of a \"Social Contract,\" he presented the alternative concept of the \"social group\" [1]. \n\n### Summary\nLeon Duguit viewed state sovereignty as a myth to be discarded, proposing the \"social group\" concept in place of the Social Contract [1]."
+  },
+  {
+   "id": "absent-en-1",
+   "language": "English",
+   "expectation": "absent",
+   "question": "What does the book say about the battle of Karbala?",
+   "answered": false,
+   "reason_code": "insufficient_coverage",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 13.5,
+   "words": 98,
+   "answer": "The indexed book does not directly answer this question. Related passages are listed below so you can check the original pages yourself.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 447 — «conceptual structure found in the Qur'an was merely a framework.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 358 — «تمہاری جانوں، تمہارے اموال، تہارے خاندان اورمہارے آدمیوں کے لئے اورتنہیں»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 488 — «On the field of battle, though, the inspired Arabs rapidly»"
+  },
+  {
+   "id": "absent-en-2",
+   "language": "English",
+   "expectation": "absent",
+   "question": "What is the Islamic ruling on vaccination?",
+   "answered": false,
+   "reason_code": "insufficient_coverage",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 13.4,
+   "words": 140,
+   "answer": "The indexed book does not directly answer this question. Related passages are listed below so you can check the original pages yourself.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 477 — «The system of government, in an Islamic State, is known as \"government in accordance with the revealed law.\" An Islamic State is not a form of state so much as …»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 273 — «Watt M. Watt The essential points defining the nature of the state (apart from the functions and privileges of the head of state) are the following: The believers and their …»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 51 — «ایک مغربی مصنف ساودورن (کھتا ہے کہ ۱۱۰۰ء سے قیل میں»"
+  },
+  {
+   "id": "absent-ur-1",
+   "language": "Urdu",
+   "expectation": "absent",
+   "question": "کتاب میں کرپٹو کرنسی کے بارے میں کیا لکھا ہے؟",
+   "answered": false,
+   "reason_code": "insufficient_coverage",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 12.2,
+   "words": 92,
+   "answer": "اشاریہ شدہ کتاب اس سوال کا براہِ راست جواب نہیں دیتی۔ ذیل میں متعلقہ اقتباسات دیے گئے ہیں تاکہ آپ اصل صفحات خود دیکھ سکیں۔\n\nمتعلقہ اقتباسات (یہ براہِ راست جواب نہیں دیتے)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 447 — «conceptual structure found in the Qur'an was merely a framework.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 590 — «سیرڈ الرسول نہووم کی علھی وساسی آبمیت )۵۸۹»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 605 — «)۱۰۴ مقرمہ سیر الرسول مھونم»"
+  },
+  {
+   "id": "absent-hi-1",
+   "language": "Hindi",
+   "expectation": "absent",
+   "question": "इस किताब में हज के नियम विस्तार से बताए गए हैं?",
+   "answered": false,
+   "reason_code": "insufficient_coverage",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 13.0,
+   "words": 111,
+   "answer": "इंडेक्स की गई किताब इस सवाल का सीधा जवाब नहीं देती। नीचे संबंधित अंश दिए गए हैं ताकि आप मूल पृष्ठ स्वयं देख सकें।\n\nसंबंधित अंश (ये सीधे उत्तर नहीं देते)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 383 — «۵۔ یہود کے مخلف گروہ بھی ریاست مدینہ سے تعلق رکھتے ہیں وہ اپنا نذہب برقراررکھ»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 447 — «conceptual structure found in the Qur'an was merely a framework.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 192 — «بیس اللہ تعالی نے ہہماری طرف حضرت ممد منم کو مبعحوث فرما دیا ہے اور ہم چجھ نہیں»"
+  }
+ ]
+}

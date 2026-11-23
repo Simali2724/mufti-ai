@@ -1,0 +1,17 @@
+services:
+  api:
+    build: .
+    ports: ["127.0.0.1:786:786"]
+    environment:
+      OLLAMA_BASE_URL: http://ollama:11434
+      OLLAMA_CHAT_MODEL: ${OLLAMA_CHAT_MODEL:-qwen3:1.7b}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-bge-m3}
+    volumes:
+      - ./data:/app/data
+    depends_on: [ollama]
+  ollama:
+    image: ollama/ollama:latest
+    volumes: [ollama:/root/.ollama]
+volumes:
+  ollama:
+# Frontend is served by the API, and Chroma is embedded for local persistence.

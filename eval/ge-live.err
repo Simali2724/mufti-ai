@@ -1,0 +1,18 @@
+﻿.\.venv\Scripts\python.exe : 2026-11-12 11:43:11,537 INFO httpx HTTP Request: POST http://localhost:11434/api/embed 
+"HTTP/1.1 200 OK"
+At line:1 char:369
++ ... StartNew(); .\.venv\Scripts\python.exe -u -m eval.probe "Explain Gend ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-11-12 11:4...TTP/1.1 200 OK":String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026-11-12 11:43:15,187 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-12 11:51:27,426 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-12 11:51:27,428 INFO mufti task=answer provider=ollama
+2026-11-12 11:53:57,082 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-12 11:53:57,083 INFO mufti task=verifier provider=ollama
+2026-11-12 11:53:58,009 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-12 11:54:07,760 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-12 11:54:09,014 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-12 11:57:29,526 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-12 11:57:29,527 INFO mufti task=answer provider=ollama

@@ -1,0 +1,60 @@
+[
+  {
+    "question": "What does the book say about personal piety and worship of God?",
+    "requested_language": "English",
+    "answer": "Islam (is) personal piety and worship of God in a framework of revealed universal ethical principles which are to be implemented in human life. [1]\n\nIslam in its personal pietism and Quranic ethical universalism is meant to do this. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 51 — «Islam (is) personal piety and worship of God in a framework of revealed universal ethical principles which are to be implemented in human life.»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 51,
+        "chapter": "",
+        "excerpt": "Islam (is) personal piety and worship of God in a framework of revealed universal ethical principles which are to be implemented in human life.",
+        "ocr": true
+      }
+    ],
+    "provider_used": "ollama",
+    "grounded": true,
+    "latency_ms": 165047,
+    "status": "complete",
+    "wall_seconds": 165.1
+  },
+  {
+    "question": "इस किताब में सीरत के अध्ययन का क्या महत्व बताया गया है?",
+    "requested_language": "Hindi",
+    "answer": "उपलब्ध किताबों में इस सवाल का पर्याप्त प्रमाण नहीं मिला। कृपया किसी योग्य आलिम से सलाह लें।",
+    "language": "Hindi",
+    "citations": [],
+    "provider_used": "ollama",
+    "grounded": false,
+    "latency_ms": 309891,
+    "status": "complete",
+    "wall_seconds": 309.9
+  },
+  {
+    "question": "اس کتاب میں سیرت کے مطالعے کی اہمیت کیا بیان کی گئی ہے؟",
+    "requested_language": "Urdu",
+    "answer": "دستیاب کتابوں میں اس سوال کا کافی معتبر حوالہ نہیں ملا۔ براہ کرم کسی مستند عالم سے رجوع کریں۔",
+    "language": "Urdu",
+    "citations": [],
+    "provider_used": "ollama",
+    "grounded": false,
+    "latency_ms": 225422,
+    "status": "complete",
+    "wall_seconds": 225.5
+  },
+  {
+    "question": "How do I repair a spaceship engine?",
+    "requested_language": "English",
+    "answer": "I could not find sufficient verified evidence in the available books. Please consult a qualified scholar.",
+    "language": "English",
+    "citations": [],
+    "provider_used": "none",
+    "grounded": false,
+    "latency_ms": 45562,
+    "status": "complete",
+    "wall_seconds": 45.6
+  }
+]

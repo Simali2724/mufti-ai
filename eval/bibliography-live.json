@@ -1,0 +1,158 @@
+[
+  {
+    "question": "Who is author of Muaddima seerat ur Rasool",
+    "answer": "Author: Dr. Muhammad Tahir-ul-Qadri. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 3,
+        "chapter": "Title and publication details",
+        "excerpt": "تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری",
+        "ocr": false,
+        "transcription_reviewed": true
+      }
+    ],
+    "provider_used": "book_metadata",
+    "model_used": "",
+    "fallback_used": false,
+    "execution": [],
+    "reason_code": "",
+    "retrieved_count": 0,
+    "grounded": true,
+    "latency_ms": 906,
+    "status": "complete"
+  },
+  {
+    "question": "Who wrote this book?",
+    "answer": "مصنف: ڈاکٹر محمد طاہر القادری. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری»",
+    "language": "Urdu",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 3,
+        "chapter": "Title and publication details",
+        "excerpt": "تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری",
+        "ocr": false,
+        "transcription_reviewed": true
+      }
+    ],
+    "provider_used": "book_metadata",
+    "model_used": "",
+    "fallback_used": false,
+    "execution": [],
+    "reason_code": "",
+    "retrieved_count": 0,
+    "grounded": true,
+    "latency_ms": 515,
+    "status": "complete"
+  },
+  {
+    "question": "Who wrote this book?",
+    "answer": "लेखक: डॉ. मुहम्मद ताहिर-उल-क़ादरी. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری»",
+    "language": "Hindi",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 3,
+        "chapter": "Title and publication details",
+        "excerpt": "تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری",
+        "ocr": false,
+        "transcription_reviewed": true
+      }
+    ],
+    "provider_used": "book_metadata",
+    "model_used": "",
+    "fallback_used": false,
+    "execution": [],
+    "reason_code": "",
+    "retrieved_count": 0,
+    "grounded": true,
+    "latency_ms": 625,
+    "status": "complete"
+  },
+  {
+    "question": "Who published this book?",
+    "answer": "Publisher: Minhaj-ul-Quran Publications. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 2 — «منہاج القرآن پبلیکیشنز»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 2,
+        "chapter": "Title and publication details",
+        "excerpt": "منہاج القرآن پبلیکیشنز",
+        "ocr": false,
+        "transcription_reviewed": true
+      }
+    ],
+    "provider_used": "book_metadata",
+    "model_used": "",
+    "fallback_used": false,
+    "execution": [],
+    "reason_code": "",
+    "retrieved_count": 0,
+    "grounded": true,
+    "latency_ms": 609,
+    "status": "complete"
+  },
+  {
+    "question": "What is the ISBN of this book?",
+    "answer": "ISBN: 969-32-0552-9. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «ISBN 969-32-0552-9»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 3,
+        "chapter": "Title and publication details",
+        "excerpt": "ISBN 969-32-0552-9",
+        "ocr": false,
+        "transcription_reviewed": true
+      }
+    ],
+    "provider_used": "book_metadata",
+    "model_used": "",
+    "fallback_used": false,
+    "execution": [],
+    "reason_code": "",
+    "retrieved_count": 0,
+    "grounded": true,
+    "latency_ms": 609,
+    "status": "complete"
+  },
+  {
+    "question": "When was this book first published?",
+    "answer": "First published: February 1995. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «اشاعت اول : فروری 1995ء»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 3,
+        "chapter": "Title and publication details",
+        "excerpt": "اشاعت اول : فروری 1995ء",
+        "ocr": false,
+        "transcription_reviewed": true
+      }
+    ],
+    "provider_used": "book_metadata",
+    "model_used": "",
+    "fallback_used": false,
+    "execution": [],
+    "reason_code": "",
+    "retrieved_count": 0,
+    "grounded": true,
+    "latency_ms": 656,
+    "status": "complete"
+  }
+]

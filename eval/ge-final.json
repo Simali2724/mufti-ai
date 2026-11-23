@@ -1,0 +1,108 @@
+{
+ "answer": "The book covers part of this question:\n\nGender Equality in Islam\nGender equality is a fundamental principle in Islam, emphasizing the equal rights and responsibilities of men and women in all aspects of life. Ronald Inglehart and Pippa Norris write that the social values of gender equality and sexual liberalization could plausibly lie at the heart of any 'clash' between Islam and the west. [1]\nThe social values of gender equality and sexual liberalization are central to understanding the differences between Islamic and Western societies. Ronald Inglehart and Pippa Norris write that the social values of gender equality and sexual liberalization could plausibly lie at the heart of any 'clash' between Islam and the west. [1]\n\nNot covered in this book\n· The extent to which gender equality is enshrined in Islamic law and practice.\n· The role of religious institutions in promoting gender equality.\n· The impact of historical and cultural factors on gender equality in Islamic societies.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 257 — «(Adult Franchise) (No Gender Discrimination in Adult Franchise)»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 282 — «میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 286 — «میثای مدینہ، آرٹیکل میثای مدینہ، آرٹیکل»\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 50 (printed page 49) — «The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization. The social values of gender equality and …»",
+ "language": "English",
+ "citations": [
+  {
+   "id": 1,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 50,
+   "printed_label": 49,
+   "chapter": "۱۔ اسلام اور مغرب کی معاشرتی اقدار کا فرق",
+   "excerpt": "The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization. The social values of gender equality and …",
+   "full_support": "The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization. The social values of gender equality and sexual liberalization could plausibly lie at the heart of any \"clash\" between Islam and the west. The analysis of these social attitudes reveals the extent of the gulf between Islam and the west, with a stronger and more significant gap on these issues than across most of the political values.",
+   "ocr": true,
+   "corrected": false,
+   "correction_source": "",
+   "relation": "same_concept",
+   "transcription_reviewed": false
+  }
+ ],
+ "related": [
+  {
+   "id": 1,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 257,
+   "printed_label": 16,
+   "chapter": "",
+   "excerpt": "(Adult Franchise) (No Gender Discrimination in Adult Franchise)",
+   "ocr": true,
+   "relation": "same_concept"
+  },
+  {
+   "id": 2,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 282,
+   "printed_label": null,
+   "chapter": ")۵( قانون کی اطاعت ونغاذ میں برابری کاحجن",
+   "excerpt": "میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل",
+   "ocr": true,
+   "relation": "related_concept"
+  },
+  {
+   "id": 3,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 286,
+   "printed_label": null,
+   "chapter": ")۱۱( معاشی کغالت کاجمق",
+   "excerpt": "میثای مدینہ، آرٹیکل میثای مدینہ، آرٹیکل",
+   "ocr": true,
+   "relation": "related_concept"
+  }
+ ],
+ "provider_used": "ollama",
+ "model_used": "qwen3:1.7b",
+ "fallback_used": false,
+ "execution": [
+  {
+   "task": "answer",
+   "provider": "ollama",
+   "model": "qwen3:1.7b",
+   "fallback": false
+  },
+  {
+   "task": "verifier",
+   "provider": "ollama",
+   "model": "qwen3:1.7b",
+   "fallback": false
+  },
+  {
+   "task": "repair",
+   "provider": "ollama",
+   "model": "qwen3:1.7b",
+   "fallback": false
+  },
+  {
+   "task": "verifier",
+   "provider": "ollama",
+   "model": "qwen3:1.7b",
+   "fallback": false
+  }
+ ],
+ "reason_code": "partial_coverage",
+ "retrieved_count": 30,
+ "evidence_pages": [
+  50,
+  257,
+  282,
+  286,
+  50
+ ],
+ "grounded": true,
+ "coverage": "partial",
+ "missing_aspects": [
+  "The extent to which gender equality is enshrined in Islamic law and practice.",
+  "The role of religious institutions in promoting gender equality.",
+  "The impact of historical and cultural factors on gender equality in Islamic societies."
+ ],
+ "selected_provider": "ollama",
+ "selected_model": "qwen3:1.7b",
+ "answering_provider": "ollama",
+ "answering_model": "qwen3:1.7b",
+ "fallback_reason": "",
+ "latency_ms": 133563,
+ "status": "complete"
+}

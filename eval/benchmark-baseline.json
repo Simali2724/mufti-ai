@@ -1,0 +1,2149 @@
+{
+ "summary": {
+  "mode": "baseline-retrieval",
+  "cases": 48,
+  "answerable": 42,
+  "candidate_recall": 0.81,
+  "selected_recall": 0.714,
+  "recall_in_passages_sent_to_the_model": 0.643,
+  "median_seconds": 1.94,
+  "misses_at_answer_stage": [
+   "ge-ur-1",
+   "ge-hi-1",
+   "ge-hg-1",
+   "piety-en-1",
+   "author-en-1",
+   "author-ur-1",
+   "pub-en-1",
+   "cm-hi-1",
+   "cm-en-6",
+   "spain-en-1",
+   "seerah-en-1",
+   "seerah-ur-1",
+   "seerah-hg-1",
+   "seerah-en-2",
+   "seerah-en-3"
+  ]
+ },
+ "rows": [
+  {
+   "id": "ge-en-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257
+   ],
+   "candidate_pages": [
+    257,
+    280,
+    50,
+    282,
+    372,
+    439,
+    350,
+    273,
+    14,
+    622,
+    16,
+    260,
+    13,
+    488,
+    686,
+    261,
+    378,
+    591
+   ],
+   "selected_pages": [
+    257,
+    280,
+    50,
+    282,
+    14,
+    622
+   ],
+   "answer_pages": [
+    257,
+    280,
+    50
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 5.25
+  },
+  {
+   "id": "ge-en-2",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257,
+    286
+   ],
+   "candidate_pages": [
+    685,
+    50,
+    447,
+    604,
+    439,
+    601,
+    409,
+    605,
+    597,
+    58,
+    602,
+    374,
+    577,
+    371,
+    280,
+    282,
+    686,
+    674
+   ],
+   "selected_pages": [
+    685,
+    50,
+    280,
+    282,
+    686,
+    674
+   ],
+   "answer_pages": [
+    685,
+    50,
+    280
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.11
+  },
+  {
+   "id": "ge-ur-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257
+   ],
+   "candidate_pages": [
+    603,
+    605,
+    582,
+    27,
+    589,
+    50,
+    26,
+    52,
+    308,
+    447,
+    609,
+    600,
+    604,
+    674,
+    686,
+    678,
+    676,
+    682
+   ],
+   "selected_pages": [
+    604,
+    674,
+    686,
+    678,
+    676,
+    682
+   ],
+   "answer_pages": [
+    604,
+    674,
+    686
+   ],
+   "candidate_hit": true,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 2.02
+  },
+  {
+   "id": "ge-ur-2",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257,
+    286
+   ],
+   "candidate_pages": [
+    582,
+    588,
+    597,
+    600,
+    286,
+    594,
+    560,
+    513,
+    27,
+    686,
+    96,
+    232,
+    195,
+    87,
+    414,
+    674,
+    86,
+    359
+   ],
+   "selected_pages": [
+    286,
+    686,
+    195,
+    674
+   ],
+   "answer_pages": [
+    286,
+    686,
+    195
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.94
+  },
+  {
+   "id": "ge-hi-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257
+   ],
+   "candidate_pages": [
+    674,
+    686,
+    680,
+    685,
+    682,
+    678,
+    676,
+    675,
+    684,
+    677,
+    687,
+    14,
+    688,
+    626,
+    679,
+    591,
+    683,
+    689
+   ],
+   "selected_pages": [
+    674,
+    686,
+    680,
+    685,
+    682,
+    678
+   ],
+   "answer_pages": [
+    674,
+    686,
+    680
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.92
+  },
+  {
+   "id": "ge-hg-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257,
+    286
+   ],
+   "candidate_pages": [
+    682,
+    681,
+    675,
+    602,
+    597,
+    605,
+    589,
+    532,
+    679,
+    661,
+    580,
+    210,
+    139,
+    666,
+    662,
+    665,
+    359,
+    668
+   ],
+   "selected_pages": [
+    661,
+    210,
+    139,
+    666,
+    662,
+    665
+   ],
+   "answer_pages": [
+    661,
+    210,
+    139
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 2.05
+  },
+  {
+   "id": "ge-en-3",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    257
+   ],
+   "candidate_pages": [
+    257,
+    685,
+    58,
+    50,
+    447,
+    605,
+    597,
+    602,
+    608,
+    606,
+    604,
+    371,
+    440,
+    593,
+    409,
+    378,
+    674,
+    686
+   ],
+   "selected_pages": [
+    257,
+    685,
+    378,
+    674,
+    686
+   ],
+   "answer_pages": [
+    257,
+    685,
+    378
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.97
+  },
+  {
+   "id": "piety-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    51
+   ],
+   "candidate_pages": [
+    51,
+    447,
+    56,
+    64,
+    605,
+    440,
+    58,
+    597,
+    50,
+    529,
+    602,
+    103,
+    577,
+    539,
+    371,
+    87,
+    102,
+    107
+   ],
+   "selected_pages": [
+    103,
+    87,
+    102,
+    107
+   ],
+   "answer_pages": [
+    103,
+    87,
+    102
+   ],
+   "candidate_hit": true,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 2.09
+  },
+  {
+   "id": "author-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    3
+   ],
+   "candidate_pages": [
+    538,
+    671,
+    391,
+    661,
+    368,
+    398,
+    369,
+    665,
+    604,
+    606,
+    577,
+    664,
+    476,
+    27,
+    477,
+    406,
+    261,
+    3
+   ],
+   "selected_pages": [
+    671,
+    661,
+    398,
+    665,
+    606,
+    664
+   ],
+   "answer_pages": [
+    671,
+    661,
+    398
+   ],
+   "candidate_hit": true,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.91
+  },
+  {
+   "id": "author-ur-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    3
+   ],
+   "candidate_pages": [
+    597,
+    28,
+    383,
+    603,
+    604,
+    548,
+    676,
+    685,
+    661,
+    217,
+    682,
+    96,
+    231,
+    662,
+    87,
+    68,
+    675,
+    86
+   ],
+   "selected_pages": [
+    676,
+    685,
+    661,
+    682,
+    662,
+    675
+   ],
+   "answer_pages": [
+    676,
+    685,
+    661
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.92
+  },
+  {
+   "id": "pub-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    3
+   ],
+   "candidate_pages": [
+    447,
+    605,
+    597,
+    604,
+    603,
+    539,
+    577,
+    606,
+    3,
+    593,
+    676,
+    678,
+    608,
+    674,
+    679,
+    680,
+    688,
+    687
+   ],
+   "selected_pages": [
+    676,
+    678,
+    674,
+    679,
+    680,
+    688
+   ],
+   "answer_pages": [
+    676,
+    678,
+    674
+   ],
+   "candidate_hit": true,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 2.0
+  },
+  {
+   "id": "west-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    59
+   ],
+   "candidate_pages": [
+    59,
+    682,
+    60,
+    56,
+    55,
+    689,
+    58,
+    447,
+    678,
+    677,
+    440,
+    476,
+    261,
+    464,
+    57,
+    391,
+    63,
+    234
+   ],
+   "selected_pages": [
+    59,
+    682,
+    60,
+    56,
+    55,
+    689
+   ],
+   "answer_pages": [
+    59,
+    682,
+    60
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.78
+  },
+  {
+   "id": "west-en-2",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+   ],
+   "candidate_pages": [
+    55,
+    56,
+    61,
+    391,
+    64,
+    51,
+    689,
+    447,
+    63,
+    687,
+    65,
+    682,
+    476,
+    261,
+    464,
+    60,
+    469,
+    36
+   ],
+   "selected_pages": [
+    55,
+    56,
+    61,
+    391,
+    64,
+    51
+   ],
+   "answer_pages": [
+    55,
+    56,
+    61
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.94
+  },
+  {
+   "id": "west-en-3",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    51,
+    52,
+    53,
+    55
+   ],
+   "candidate_pages": [
+    52,
+    51,
+    469,
+    687,
+    605,
+    389,
+    684,
+    603,
+    614,
+    685,
+    55,
+    53,
+    58,
+    597,
+    593,
+    50,
+    36,
+    689
+   ],
+   "selected_pages": [
+    52,
+    51,
+    614,
+    55,
+    53,
+    689
+   ],
+   "answer_pages": [
+    52,
+    51,
+    614
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.3
+  },
+  {
+   "id": "west-ur-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    51,
+    52,
+    53
+   ],
+   "candidate_pages": [
+    52,
+    51,
+    54,
+    43,
+    470,
+    50,
+    581,
+    365,
+    53,
+    598,
+    616,
+    441,
+    467,
+    578,
+    55,
+    34,
+    614,
+    8
+   ],
+   "selected_pages": [
+    52,
+    51,
+    54,
+    43,
+    470,
+    50
+   ],
+   "answer_pages": [
+    52,
+    51,
+    54
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.95
+  },
+  {
+   "id": "west-en-4",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    50
+   ],
+   "candidate_pages": [
+    50,
+    680,
+    261,
+    679,
+    674,
+    577,
+    447,
+    474,
+    689,
+    366,
+    539,
+    605,
+    469,
+    685,
+    687,
+    677,
+    36,
+    676
+   ],
+   "selected_pages": [
+    50,
+    680,
+    261,
+    679,
+    674,
+    689
+   ],
+   "answer_pages": [
+    50,
+    680,
+    261
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.94
+  },
+  {
+   "id": "cm-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    256,
+    257,
+    259,
+    260
+   ],
+   "candidate_pages": [
+    259,
+    367,
+    260,
+    383,
+    366,
+    273,
+    262,
+    271,
+    261,
+    248,
+    251,
+    538,
+    51,
+    577,
+    471,
+    674,
+    539,
+    379
+   ],
+   "selected_pages": [
+    259,
+    367,
+    260,
+    383,
+    273,
+    271
+   ],
+   "answer_pages": [
+    259,
+    367,
+    260
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.81
+  },
+  {
+   "id": "cm-en-2",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    260,
+    350,
+    353
+   ],
+   "candidate_pages": [
+    350,
+    353,
+    263,
+    260,
+    58,
+    373,
+    379,
+    340,
+    366,
+    367,
+    539,
+    678,
+    577,
+    447,
+    383,
+    446,
+    377,
+    279
+   ],
+   "selected_pages": [
+    350,
+    353,
+    263,
+    260,
+    340,
+    383
+   ],
+   "answer_pages": [
+    350,
+    353,
+    263
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.97
+  },
+  {
+   "id": "cm-ur-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    260,
+    350,
+    353
+   ],
+   "candidate_pages": [
+    350,
+    340,
+    353,
+    277,
+    352,
+    281,
+    17,
+    479,
+    280,
+    266,
+    16,
+    475,
+    384,
+    319,
+    260,
+    282,
+    535,
+    617
+   ],
+   "selected_pages": [
+    350,
+    340,
+    353,
+    277,
+    352,
+    281
+   ],
+   "answer_pages": [
+    350,
+    340,
+    353
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.88
+  },
+  {
+   "id": "cm-en-3",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    260,
+    286
+   ],
+   "candidate_pages": [
+    260,
+    350,
+    447,
+    685,
+    604,
+    379,
+    286,
+    366,
+    367,
+    277,
+    378,
+    682,
+    605,
+    676,
+    597,
+    602,
+    577,
+    464
+   ],
+   "selected_pages": [
+    260,
+    350,
+    286,
+    277,
+    682,
+    676
+   ],
+   "answer_pages": [
+    260,
+    350,
+    286
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.2
+  },
+  {
+   "id": "cm-en-4",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    257,
+    260,
+    286
+   ],
+   "candidate_pages": [
+    260,
+    286,
+    350,
+    330,
+    438,
+    257,
+    259,
+    58,
+    464,
+    528,
+    50,
+    477,
+    440,
+    261,
+    331,
+    277,
+    366,
+    352
+   ],
+   "selected_pages": [
+    260,
+    286,
+    350,
+    330,
+    259,
+    464
+   ],
+   "answer_pages": [
+    260,
+    286,
+    350
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.94
+  },
+  {
+   "id": "cm-hi-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    257,
+    260,
+    286
+   ],
+   "candidate_pages": [
+    259,
+    261,
+    331,
+    286,
+    383,
+    262,
+    330,
+    206,
+    277,
+    292,
+    260,
+    282,
+    296,
+    290,
+    392,
+    265,
+    273,
+    464
+   ],
+   "selected_pages": [
+    259,
+    261,
+    331,
+    286,
+    383,
+    262
+   ],
+   "answer_pages": [
+    259,
+    261,
+    331
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": false,
+   "seconds": 1.86
+  },
+  {
+   "id": "cm-en-5",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    280,
+    282
+   ],
+   "candidate_pages": [
+    350,
+    383,
+    280,
+    447,
+    50,
+    680,
+    379,
+    366,
+    367,
+    439,
+    685,
+    682,
+    605,
+    597,
+    602,
+    577,
+    279,
+    282
+   ],
+   "selected_pages": [
+    350,
+    383,
+    280,
+    682,
+    279,
+    282
+   ],
+   "answer_pages": [
+    350,
+    383,
+    280
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.99
+  },
+  {
+   "id": "cm-en-6",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    257
+   ],
+   "candidate_pages": [
+    375,
+    477,
+    373,
+    261,
+    383,
+    273,
+    367,
+    365,
+    376,
+    366,
+    676,
+    469,
+    474,
+    374,
+    379,
+    603,
+    259,
+    331
+   ],
+   "selected_pages": [
+    375,
+    477,
+    373,
+    261,
+    383,
+    273
+   ],
+   "answer_pages": [
+    375,
+    477,
+    373
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.94
+  },
+  {
+   "id": "cm-en-7",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    256,
+    257
+   ],
+   "candidate_pages": [
+    376,
+    257,
+    477,
+    685,
+    447,
+    366,
+    676,
+    605,
+    597,
+    58,
+    602,
+    577,
+    50,
+    474,
+    539,
+    56,
+    682,
+    680
+   ],
+   "selected_pages": [
+    376,
+    257,
+    477,
+    685,
+    676,
+    474
+   ],
+   "answer_pages": [
+    376,
+    257,
+    477
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.89
+  },
+  {
+   "id": "comp-en-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    365,
+    377,
+    379
+   ],
+   "candidate_pages": [
+    377,
+    689,
+    675,
+    583,
+    681,
+    58,
+    605,
+    50,
+    603,
+    678,
+    688,
+    376,
+    366,
+    676,
+    597,
+    261,
+    263,
+    383
+   ],
+   "selected_pages": [
+    377,
+    689,
+    675,
+    678,
+    688,
+    366
+   ],
+   "answer_pages": [
+    377,
+    689,
+    675
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.89
+  },
+  {
+   "id": "comp-en-2",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    378
+   ],
+   "candidate_pages": [
+    378,
+    350,
+    379,
+    447,
+    604,
+    577,
+    323,
+    688,
+    438,
+    421,
+    593,
+    371,
+    603,
+    285,
+    261,
+    384,
+    260,
+    366
+   ],
+   "selected_pages": [
+    378,
+    350,
+    323,
+    688,
+    366
+   ],
+   "answer_pages": [
+    378,
+    350,
+    323
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.83
+  },
+  {
+   "id": "comp-en-3",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    373,
+    374,
+    376
+   ],
+   "candidate_pages": [
+    376,
+    374,
+    375,
+    373,
+    685,
+    368,
+    369,
+    447,
+    686,
+    675,
+    602,
+    606,
+    604,
+    58,
+    539,
+    371,
+    577,
+    593
+   ],
+   "selected_pages": [
+    376,
+    374,
+    375,
+    373
+   ],
+   "answer_pages": [
+    376,
+    374,
+    375
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.89
+  },
+  {
+   "id": "comp-en-4",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    375
+   ],
+   "candidate_pages": [
+    375,
+    684,
+    376,
+    447,
+    368,
+    605,
+    685,
+    675,
+    597,
+    58,
+    374,
+    369,
+    446,
+    56,
+    50,
+    371,
+    409,
+    257
+   ],
+   "selected_pages": [
+    375
+   ],
+   "answer_pages": [
+    375
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.03
+  },
+  {
+   "id": "treaty-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    324,
+    325,
+    326
+   ],
+   "candidate_pages": [
+    325,
+    688,
+    678,
+    680,
+    326,
+    685,
+    684,
+    58,
+    581,
+    324,
+    605,
+    597,
+    435,
+    440,
+    371,
+    380,
+    438,
+    327
+   ],
+   "selected_pages": [
+    325,
+    688,
+    678,
+    680,
+    326,
+    324
+   ],
+   "answer_pages": [
+    325,
+    688,
+    678
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.77
+  },
+  {
+   "id": "treaty-en-2",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    437,
+    440
+   ],
+   "candidate_pages": [
+    440,
+    437,
+    680,
+    447,
+    605,
+    597,
+    685,
+    58,
+    602,
+    325,
+    50,
+    577,
+    539,
+    371,
+    409,
+    678,
+    682,
+    662
+   ],
+   "selected_pages": [
+    440,
+    437,
+    680,
+    678,
+    682,
+    662
+   ],
+   "answer_pages": [
+    440,
+    437,
+    680
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.81
+  },
+  {
+   "id": "state-en-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    492
+   ],
+   "candidate_pages": [
+    685,
+    602,
+    447,
+    492,
+    686,
+    677,
+    605,
+    683,
+    684,
+    597,
+    577,
+    604,
+    371,
+    58,
+    440,
+    409,
+    64,
+    601
+   ],
+   "selected_pages": [
+    685,
+    602,
+    492,
+    64,
+    601
+   ],
+   "answer_pages": [
+    685,
+    602,
+    492
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 2.03
+  },
+  {
+   "id": "state-en-2",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    493
+   ],
+   "candidate_pages": [
+    447,
+    602,
+    63,
+    493,
+    381,
+    604,
+    578,
+    488,
+    469,
+    448,
+    521,
+    601,
+    577,
+    450,
+    468,
+    265,
+    409,
+    471
+   ],
+   "selected_pages": [
+    447,
+    493,
+    381,
+    521,
+    468,
+    265
+   ],
+   "answer_pages": [
+    447,
+    493,
+    381
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.91
+  },
+  {
+   "id": "state-en-3",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    320,
+    321,
+    487,
+    490,
+    491
+   ],
+   "candidate_pages": [
+    320,
+    447,
+    487,
+    681,
+    593,
+    476,
+    491,
+    37,
+    680,
+    685,
+    321,
+    684,
+    421,
+    682,
+    372,
+    273,
+    535,
+    675
+   ],
+   "selected_pages": [
+    320,
+    487,
+    491,
+    680,
+    685,
+    321
+   ],
+   "answer_pages": [
+    320,
+    487,
+    491
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.89
+  },
+  {
+   "id": "spain-en-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    521,
+    522,
+    523
+   ],
+   "candidate_pages": [
+    685,
+    684,
+    681,
+    680,
+    688,
+    674,
+    447,
+    608,
+    577,
+    603,
+    677,
+    605,
+    679,
+    682,
+    371,
+    593,
+    602,
+    687
+   ],
+   "selected_pages": [
+    685,
+    684,
+    681,
+    680,
+    688,
+    674
+   ],
+   "answer_pages": [
+    685,
+    684,
+    681
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 2.12
+  },
+  {
+   "id": "med-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    601
+   ],
+   "candidate_pages": [
+    601,
+    685,
+    678,
+    602,
+    681,
+    606,
+    447,
+    577,
+    36,
+    372,
+    593,
+    58,
+    371,
+    689,
+    37,
+    446,
+    38,
+    683
+   ],
+   "selected_pages": [
+    601,
+    685,
+    678,
+    602,
+    681,
+    606
+   ],
+   "answer_pages": [
+    601,
+    685,
+    678
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.86
+  },
+  {
+   "id": "seerah-en-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    14,
+    17,
+    26,
+    28
+   ],
+   "candidate_pages": [
+    603,
+    602,
+    597,
+    605,
+    604,
+    448,
+    538,
+    565,
+    391,
+    585,
+    580,
+    578,
+    447,
+    366,
+    383,
+    438,
+    594,
+    554
+   ],
+   "selected_pages": [
+    603,
+    565,
+    594,
+    554
+   ],
+   "answer_pages": [
+    603,
+    565,
+    594
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.95
+  },
+  {
+   "id": "seerah-ur-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    14,
+    17,
+    26,
+    28
+   ],
+   "candidate_pages": [
+    27,
+    71,
+    87,
+    26,
+    548,
+    414,
+    72,
+    28,
+    29,
+    600,
+    44,
+    213,
+    6,
+    220,
+    570,
+    234,
+    92,
+    546
+   ],
+   "selected_pages": [
+    27,
+    71,
+    87,
+    26,
+    548,
+    72
+   ],
+   "answer_pages": [
+    27,
+    71,
+    87
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": false,
+   "seconds": 1.89
+  },
+  {
+   "id": "seerah-hg-1",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    14,
+    17,
+    26,
+    28,
+    50
+   ],
+   "candidate_pages": [
+    682,
+    602,
+    605,
+    597,
+    681,
+    675,
+    589,
+    532,
+    55,
+    213,
+    70,
+    381,
+    476,
+    416,
+    477,
+    265,
+    261,
+    67
+   ],
+   "selected_pages": [
+    55,
+    213,
+    70,
+    381,
+    416,
+    265
+   ],
+   "answer_pages": [
+    55,
+    213,
+    70
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.97
+  },
+  {
+   "id": "seerah-en-2",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    390,
+    392,
+    431
+   ],
+   "candidate_pages": [
+    58,
+    447,
+    273,
+    476,
+    256,
+    57,
+    474,
+    320,
+    440,
+    389,
+    438,
+    468,
+    383,
+    477,
+    421,
+    486,
+    414,
+    55
+   ],
+   "selected_pages": [
+    58,
+    447,
+    273,
+    476,
+    256,
+    474
+   ],
+   "answer_pages": [
+    58,
+    447,
+    273
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 2.47
+  },
+  {
+   "id": "seerah-en-3",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    436,
+    443,
+    444,
+    445
+   ],
+   "candidate_pages": [
+    440,
+    685,
+    421,
+    443,
+    447,
+    605,
+    597,
+    55,
+    58,
+    602,
+    604,
+    577,
+    50,
+    539,
+    436,
+    422,
+    444,
+    409
+   ],
+   "selected_pages": [
+    440,
+    685,
+    421,
+    443,
+    436,
+    422
+   ],
+   "answer_pages": [
+    440,
+    685,
+    421
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": false,
+   "seconds": 1.94
+  },
+  {
+   "id": "hijra-en-1",
+   "expectation": "answerable_full",
+   "expected_pages": [
+    381,
+    383,
+    384
+   ],
+   "candidate_pages": [
+    381,
+    383,
+    261,
+    421,
+    440,
+    438,
+    447,
+    688,
+    685,
+    602,
+    448,
+    604,
+    58,
+    416,
+    539,
+    392,
+    464,
+    344
+   ],
+   "selected_pages": [
+    381,
+    383,
+    261,
+    421,
+    440,
+    438
+   ],
+   "answer_pages": [
+    381,
+    383,
+    261
+   ],
+   "candidate_hit": true,
+   "selected_hit": true,
+   "answer_hit": true,
+   "seconds": 1.89
+  },
+  {
+   "id": "absent-en-1",
+   "expectation": "absent",
+   "expected_pages": [],
+   "candidate_pages": [
+    447,
+    605,
+    597,
+    685,
+    602,
+    488,
+    58,
+    36,
+    577,
+    50,
+    604,
+    539,
+    371,
+    381,
+    440,
+    409,
+    359,
+    679
+   ],
+   "selected_pages": [
+    359,
+    679
+   ],
+   "answer_pages": [
+    359,
+    679
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.89
+  },
+  {
+   "id": "absent-en-2",
+   "expectation": "absent",
+   "expected_pages": [],
+   "candidate_pages": [
+    477,
+    577,
+    371,
+    261,
+    674,
+    370,
+    605,
+    602,
+    600,
+    256,
+    689,
+    539,
+    688,
+    273,
+    421,
+    686,
+    474,
+    206
+   ],
+   "selected_pages": [
+    477,
+    371,
+    261,
+    370,
+    256,
+    421
+   ],
+   "answer_pages": [
+    477,
+    371,
+    261
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.91
+  },
+  {
+   "id": "absent-ur-1",
+   "expectation": "absent",
+   "expected_pages": [],
+   "candidate_pages": [
+    603,
+    582,
+    605,
+    27,
+    26,
+    52,
+    308,
+    447,
+    609,
+    600,
+    604,
+    676,
+    682,
+    674,
+    686,
+    576,
+    685,
+    684
+   ],
+   "selected_pages": [
+    676,
+    682,
+    674,
+    686,
+    685,
+    684
+   ],
+   "answer_pages": [
+    676,
+    682,
+    674
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.94
+  },
+  {
+   "id": "absent-hi-1",
+   "expectation": "absent",
+   "expected_pages": [],
+   "candidate_pages": [
+    676,
+    680,
+    681,
+    685,
+    678,
+    664,
+    682,
+    590,
+    675,
+    687,
+    677,
+    688,
+    359,
+    689,
+    674,
+    684,
+    662,
+    683
+   ],
+   "selected_pages": [
+    676,
+    680,
+    681,
+    685,
+    678,
+    664
+   ],
+   "answer_pages": [
+    676,
+    680,
+    681
+   ],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.91
+  },
+  {
+   "id": "oos-en-1",
+   "expectation": "absent",
+   "expected_pages": [],
+   "candidate_pages": [
+    539,
+    577,
+    678,
+    379,
+    447,
+    674,
+    658,
+    622,
+    377,
+    590,
+    393,
+    439,
+    476,
+    596,
+    477,
+    261,
+    645,
+    538
+   ],
+   "selected_pages": [],
+   "answer_pages": [],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 1.86
+  },
+  {
+   "id": "oos-en-2",
+   "expectation": "absent",
+   "expected_pages": [],
+   "candidate_pages": [
+    591,
+    678,
+    587,
+    435,
+    683,
+    58,
+    490,
+    53,
+    572,
+    55,
+    658,
+    51,
+    142,
+    62,
+    676,
+    391,
+    585,
+    64
+   ],
+   "selected_pages": [],
+   "answer_pages": [],
+   "candidate_hit": false,
+   "selected_hit": false,
+   "answer_hit": false,
+   "seconds": 2.42
+  }
+ ]
+}

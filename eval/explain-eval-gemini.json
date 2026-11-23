@@ -1,0 +1,1278 @@
+{
+ "summary": {
+  "cases_run": 48,
+  "errors": 0,
+  "answerable": 42,
+  "answered": 41,
+  "answered_rate": 0.976,
+  "false_refusals": [
+   "comp-en-4"
+  ],
+  "service_failures": [],
+  "page_hit_rate_of_answered": 0.854,
+  "absent_cases": 6,
+  "answered_absent": [
+   "absent-ur-1",
+   "absent-hi-1"
+  ],
+  "median_seconds": 23.5,
+  "audited": 39
+ },
+ "results": [
+  {
+   "id": "ge-en-1",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "Explain Gender Equality in detail",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    257,
+    14,
+    448,
+    286,
+    50
+   ],
+   "expected_pages": [
+    50,
+    257
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-2.5-flash",
+   "fallback": "",
+   "seconds": 34.7,
+   "words": 378,
+   "answer": "The book \"Muqaddima Seerat ur Rasool 1 1\" addresses gender equality by highlighting principles from the Seerah that ensure women's rights and equal participation in certain aspects of society. It notes that the Prophet Muhammad ﷺ established a system that guarantees equal human rights and specifically protects women's dignity and economic well-being [1][2][3].\n\n### Constitutional Principles and Rights\nThe book outlines several constitutional and legal principles derived from the Seerah that relate to gender equality:\n*   **No Gender Discrimination in Adult Franchise**: One of the principles for constitution-making, based on prophetic traditions, is that there should be no gender discrimination in adult franchise [1]. This indicates equal political participation for men and women.\n*   **Guarantee of Equal Human Rights**: The Seerah establishes the guarantee of equal human rights for all individuals [1]. This broad principle inherently includes women.\n*   **Protection of Women's Honor and Dignity**: The book explicitly mentions \"Law for the protection of women's honor and dignity\" as a fundamental right [2].\n*   **Right of Protection for Women**: The \"Right of Protection for Women\" is also listed among the rights established [4].\n*   **Economic Support**: Women are also entitled to the \"Right of Economic Support\" [4][2].\n*   **Abolition of Economic Exploitation**: The Prophet ﷺ announced the prohibition of usury (interest), thereby ending economic exploitation, which benefited all, including women [3].\n*   The Prophet ﷺ protected the rights of women [3].\n\n### Social Values and Perceptions\nThe book also references external views on gender equality in the context of the relationship between Islam and the West:\n*   Ronald Inglehart and Pippa Norris write that the most basic cultural fault line between the West and Islam does not concern democracy, but rather issues of gender equality and sexual liberalization [5]. They suggest that these social values could plausibly lie at the heart of any \"clash\" between Islam and the West, revealing a stronger and more significant gap on these issues than across most political values [5].\n\n### Summary\nThe book highlights that the Seerah establishes principles of no gender discrimination in adult franchise, guarantees equal human rights, and specifically ensures the protection of women's honor, dignity, and economic rights. It also notes external academic perspectives on gender equality as a point of cultural difference between Islam and the West."
+  },
+  {
+   "id": "ge-en-2",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "What does the book say about equality between men and women?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    257,
+    286,
+    14,
+    50
+   ],
+   "expected_pages": [
+    50,
+    257,
+    286
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-2.5-flash",
+   "fallback": "",
+   "seconds": 21.4,
+   "words": 290,
+   "answer": "The book addresses the concept of equality between men and women primarily in the context of constitutional principles and social values. It highlights that there should be no gender discrimination in adult franchise [1] and emphasizes the right to protection for women [2][3].\n\n### Constitutional Principles and Rights\nThe book outlines several constitutional principles derived from the Seerah (life of the Prophet Muhammad ﷺ) that pertain to equality:\n*   **No Gender Discrimination in Adult Franchise**: One of the principles for constitution-making, based on prophetic traditions, is the absence of gender discrimination in adult franchise [1]. This indicates that men and women should have equal voting rights.\n*   **Protection for Women**: The book explicitly lists the \"Right of Protection for Women\" [2] and \"Law for the Protection of Women's Honor and Dignity\" [3] as fundamental rights. These are mentioned alongside other rights such as economic support and religious freedom [2].\n\n### Social Values and Perceptions\nThe book also touches upon the broader societal discussion regarding gender equality:\n*   **Cultural Fault Line**: Ronald Inglehart and Pippa Norris are quoted as stating that the most fundamental cultural divide between the West and Islam does not concern democracy, but rather issues of gender equality and sexual liberalization [4]. They suggest that these social values could be at the core of any \"clash\" between Islam and the West, revealing a significant gap on these issues compared to political values [4].\n\n### Summary\nThe book asserts that Islamic constitutional principles, as derived from the Seerah, advocate for no gender discrimination in adult franchise and guarantee the right to protection and dignity for women [1][2][3]. It also acknowledges the academic perspective that gender equality is perceived as a key cultural difference between Islam and the West [4]."
+  },
+  {
+   "id": "ge-ur-1",
+   "language": "Urdu",
+   "expectation": "answerable_partial",
+   "question": "صنفی مساوات کے بارے میں کتاب میں کیا لکھا ہے؟",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    50,
+    257,
+    286,
+    14,
+    378
+   ],
+   "expected_pages": [
+    50,
+    257
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-2.5-flash",
+   "fallback": "",
+   "seconds": 31.1,
+   "words": 462,
+   "answer": "کتاب \"مقدمہ سیرت الرسول 1 1\" صنفی مساوات کے موضوع پر کئی اہم نکات پیش کرتی ہے، جس میں اسلامی تعلیمات اور مغربی معاشرتی اقدار کے درمیان فرق کو نمایاں کیا گیا ہے [1]۔ کتاب سیرت النبی ﷺ کی روشنی میں دستور سازی کے اصولوں میں صنفی امتیاز کے بغیر بالغ رائے دہی کو ایک بنیادی حق قرار دیتی ہے [2]۔\n\n### اسلام اور مغرب کی معاشرتی اقدار میں فرق\nرونالڈ انگلہارٹ اور پِپا نورس کے مطابق، مغرب اور اسلام کے درمیان سب سے بنیادی ثقافتی تقسیم جمہوریت کے بجائے صنفی مساوات اور جنسی آزادی کے معاملات سے متعلق ہے [1]۔ ان محققین کا کہنا ہے کہ صنفی مساوات اور جنسی آزادی کی معاشرتی اقدار اسلام اور مغرب کے درمیان کسی بھی \"تصادم\" کے مرکز میں ہو سکتی ہیں [1]۔ ان معاشرتی رویوں کا تجزیہ اسلام اور مغرب کے درمیان موجود خلیج کی وسعت کو ظاہر کرتا ہے، اور ان مسائل پر سیاسی اقدار کے مقابلے میں زیادہ مضبوط اور اہم فرق پایا جاتا ہے [1]۔\n\n### سیرت النبی ﷺ کی روشنی میں دستوری اصول\nکتاب میں احادیثِ نبوی کی روشنی میں دستور سازی کے اصولوں میں سے ایک اہم اصول \"بالغ رائے دہی میں صنفی امتیاز کا نہ ہونا\" (No Gender Discrimination in Adult Franchise) بیان کیا گیا ہے [2]۔ اس کے علاوہ، خواتین کے تحفظ کا حق (Right of Protection for Women) بھی میثاق مدینہ کے آرٹیکلز میں شامل ہے [3]۔ کتاب کی فہرست میں \"خواتین کی عزت و حرمت کے تحفظ کا قانون\" بھی ایک اہم حق کے طور پر درج ہے [4]۔\n\n### مغربی جمہوریتوں میں صنفی مساوات کا ارتقاء\nکتاب امریکہ کی آئینی تاریخ کا حوالہ دیتے ہوئے بتاتی ہے کہ وہاں ووٹ ڈالنے کے حق کو جنسی امتیاز سے ماورا قرار دینے کا عمل بتدریج ہوا [5]۔ انیسویں ترمیم کے ذریعے ووٹ ڈالنے کے حق کو جنسی امتیاز سے ماورا قرار دیا گیا، لیکن یہ امریکہ کے آئینی مسائل کا کوئی قطعی حل نہ تھا [5]۔ بنیادی حقوق کے آئینی تحفظ کے باوجود، آزادی اظہار اور رائے دہی جیسے بنیادی حقوق میں جنسی امتیاز کو قانونی حیثیت حاصل رہی، یہاں تک کہ ایک صدی سے بھی زائد عرصے کے بعد 1920ء میں انیسویں ترمیم کے ذریعے خواتین کو پہلی مرتبہ ووٹ ڈالنے کا حق دیا گیا [5]۔ کتاب کے مطابق، دنیا کی اس جدید ترین مثالی جمہوریت میں حقیقی مساوات کا تصور ابھی تک زیرِ تکمیل ہے [5]۔\n\n### خلاصہ\nکتاب صنفی مساوات کو اسلام اور مغرب کے درمیان ایک اہم ثقافتی فرق کے طور پر پیش کرتی ہے، جبکہ سیرت النبی ﷺ کی روشنی میں دستور سازی کے اصولوں میں صنفی امتیاز کے بغیر بالغ رائے دہی اور خواتین کے تحفظ کے حقوق کو بنیادی حیثیت دیتی ہے [1][2][3][4]۔ یہ امریکہ میں صنفی مساوات کے حصول کے تاریخی ارتقاء کو بھی بیان کرتی ہے۔ [5]"
+  },
+  {
+   "id": "ge-ur-2",
+   "language": "Urdu",
+   "expectation": "answerable_partial",
+   "question": "عورت اور مرد کی برابری پر کتاب کیا کہتی ہے؟",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    257,
+    14,
+    286,
+    50
+   ],
+   "expected_pages": [
+    50,
+    257,
+    286
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-2.5-flash",
+   "fallback": "",
+   "seconds": 27.2,
+   "words": 420,
+   "answer": "یہ کتاب عورت اور مرد کی برابری کے حوالے سے کئی اہم نکات پیش کرتی ہے، خاص طور پر آئینی اور حقوقی تناظر میں۔ یہ واضح کرتی ہے کہ اسلامی تعلیمات میں بالغ رائے دہی میں جنس کی بنیاد پر کوئی امتیاز نہیں ہے اور خواتین کی عزت و حرمت کے تحفظ کو ایک بنیادی قانونی حق قرار دیا گیا ہے۔\n\n### بالغ رائے دہی میں عدم امتیاز\nکتاب کے مطابق، احادیثِ نبوی ﷺ کی روشنی میں دستور سازی کے اصولوں میں سے ایک یہ ہے کہ بالغ رائے دہی (Adult Franchise) میں جنس کی بنیاد پر کوئی امتیاز نہیں کیا جائے گا [1]۔ اس کا مطلب ہے کہ مرد اور عورت دونوں کو ووٹ دینے کا حق حاصل ہے اور اس میں کوئی تفریق نہیں کی جاتی [1]۔\n\n### خواتین کی عزت و حرمت کا تحفظ\nکتاب خواتین کی عزت و حرمت کے تحفظ کو ایک اہم قانونی حق قرار دیتی ہے [2]۔ اس حوالے سے ایک قانون کا ذکر ہے کہ \"کسی عورت کو اس کے خاندان (اہل خانہ) کی رضامندی کے بغیر پناہ نہیں دی جائے گی (جو اس عورت کی عزت و حرمت پر تہمت لائے)\" [3]۔ یہ قانون خواتین کے وقار اور ان کے خاندانی تعلقات کے تحفظ کو یقینی بناتا ہے [3]۔\n\n### آئینی اور حقوقی مساوات\nکتاب آئینی مساوات کے حق [2] اور حقوق میں برابری [2] کا بھی ذکر کرتی ہے۔ اگرچہ یہ عام اصطلاحات ہیں، لیکن یہ وسیع تر مساوات کے تصور کی طرف اشارہ کرتی ہیں جو جنس کی بنیاد پر امتیاز کے خلاف ہو سکتی ہیں [2]۔\n\n### اسلام اور مغرب کے معاشرتی اقدار کا فرق\nرونالڈ انگلہارٹ اور پِپا نورس کے مطابق، مغرب اور اسلام کے درمیان سب سے بنیادی ثقافتی تقسیم جمہوریت کے بارے میں نہیں، بلکہ صنفی مساوات اور جنسی آزادی کے مسائل سے متعلق ہے [4]۔ ان محققین کا کہنا ہے کہ صنفی مساوات اور جنسی آزادی کی معاشرتی اقدار اسلام اور مغرب کے درمیان کسی بھی \"تصادم\" کے مرکز میں ہو سکتی ہیں، اور ان مسائل پر دونوں کے درمیان ایک مضبوط اور زیادہ اہم فاصلہ پایا جاتا ہے [4]۔ یہ ایک محققین کا نقطہ نظر ہے جو کتاب میں نقل کیا گیا ہے [4]۔\n\n### خلاصہ\nکتاب واضح کرتی ہے کہ اسلامی اصولوں میں بالغ رائے دہی میں جنس کی بنیاد پر کوئی امتیاز نہیں ہے [1]، اور خواتین کی عزت و حرمت کے تحفظ کو ایک بنیادی قانونی حق تسلیم کیا گیا ہے [3]۔ اس کے علاوہ، یہ آئینی اور حقوقی مساوات کے وسیع تر تصورات کو بھی پیش کرتی ہے [2]۔"
+  },
+  {
+   "id": "ge-hi-1",
+   "language": "Hindi",
+   "expectation": "answerable_partial",
+   "question": "इस किताब में लैंगिक समानता के बारे में क्या कहा गया है?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    50,
+    257,
+    286,
+    14
+   ],
+   "expected_pages": [
+    50,
+    257
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-2.5-flash",
+   "fallback": "",
+   "seconds": 30.4,
+   "words": 292,
+   "answer": "यह पुस्तक लैंगिक समानता के विषय पर विभिन्न दृष्टिकोणों से प्रकाश डालती है, विशेषकर इस्लाम और पश्चिमी समाजों के बीच इस मुद्दे पर अंतर को उजागर करती है और इस्लामी सिद्धांतों के तहत महिलाओं के अधिकारों का उल्लेख करती है।\n\n### इस्लाम और पश्चिम के बीच सांस्कृतिक अंतर\nरॉनल्ड इंगलेहार्ट और पिप्पा नॉरिस के अनुसार, पश्चिम और इस्लाम के बीच सबसे बुनियादी सांस्कृतिक मतभेद लोकतंत्र से संबंधित नहीं है, बल्कि लैंगिक समानता और यौन उदारीकरण के मुद्दों से जुड़ा है [1]। इन सामाजिक मूल्यों में इस्लाम और पश्चिम के बीच एक महत्वपूर्ण और गहरा अंतर मौजूद है, जो अधिकांश राजनीतिक मूल्यों की तुलना में अधिक है [1]।\n\n### संवैधानिक सिद्धांत और महिलाओं के अधिकार\nसंवैधानिक सिद्धांतों के संदर्भ में, पैगंबर मुहम्मद ﷺ की हदीसों की रोशनी में संविधान निर्माण के सिद्धांतों में \"वयस्क मताधिकार में कोई लैंगिक भेदभाव नहीं\" (No Gender Discrimination in Adult Franchise) शामिल है [2]। इसके अतिरिक्त, पुस्तक में महिलाओं के लिए संरक्षण के अधिकार (Right of Protection for Women) का भी उल्लेख है [3]। महिलाओं की गरिमा और पवित्रता की सुरक्षा का कानून (Law for the protection of the honor and sanctity of women) भी एक महत्वपूर्ण अधिकार के रूप में सूचीबद्ध है [4]।\n\n### सारांश\nयह पुस्तक इंगलेहार्ट और नॉरिस के हवाले से लैंगिक समानता को इस्लाम और पश्चिम के बीच एक प्रमुख सांस्कृतिक विभाजन रेखा के रूप में प्रस्तुत करती है [1]। साथ ही, यह पैगंबर मुहम्मद ﷺ की सीरत के संवैधानिक महत्व के तहत वयस्क मताधिकार में लैंगिक भेदभाव न होने और महिलाओं के संरक्षण तथा सम्मान के अधिकारों को भी रेखांकित करती है [2][3][4]।\n\nयह पुस्तक लैंगिक समानता के विषय पर विस्तृत चर्चा नहीं करती है कि इस्लामी दृष्टिकोण से लैंगिक समानता को कैसे परिभाषित किया जाता है या इसके विभिन्न आयाम क्या हैं।"
+  },
+  {
+   "id": "ge-hg-1",
+   "language": "Hinglish",
+   "expectation": "answerable_partial",
+   "question": "Kitab mein mard aur aurat ki barabari ke baare mein kya likha hai?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    257,
+    286,
+    14,
+    50
+   ],
+   "expected_pages": [
+    50,
+    257,
+    286
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-2.5-flash",
+   "fallback": "",
+   "seconds": 22.3,
+   "words": 327,
+   "answer": "Kitab mein mard aur aurat ki barabari ke baare mein chand pehluon par roshni daali gayi hai, khaas taur par siyasi aur huquqi (legal) masawat ke hawale se [1][2][3].\n\n### Gender Equality aur Maghribi Tasawwur\nKitab mein Ronald Inglehart aur Pippa Norris ke mutabiq yeh zikr kiya gaya hai ke Maghrib aur Islam ke darmiyan sab se bunyadi saqafati farq (cultural fault line) jamhooriyat se zyada gender equality aur sexual liberalization ke masail par hai [4]. Unke mutabiq, gender equality aur sexual liberalization ke samajik aqdaar (social values) Islam aur Maghrib ke darmiyan kisi bhi \"clash\" ki bunyad ho sakte hain [4]. Unka tajziya (analysis) batata hai ke in samajik rawaiyon (social attitudes) par Islam aur Maghrib ke darmiyan ek gehra aur numaya farq hai, jo zyada tar siyasi aqdaar (political values) se bhi zyada aham hai [4].\n\n### Dasturi Usool aur Aurton ke Huqooq\nSairat ur Rasool ﷺ ki roshni mein dastoor sazi ke usoolon mein \"Adult Franchise\" (baligh rayi dahi) mein **gender discrimination na hona** (No Gender Discrimination in Adult Franchise) shamil hai [1]. Iska matlab hai ke rayi dahi ke haq mein mard aur aurat ke darmiyan koi farq nahi kiya jayega [1].\n\nIske alawa, Meesaq-e-Madina (Madina Charter) ke hawale se \"Right of Protection for Women\" (khawateen ki izzat-o-hurmat ke tahaffuz ka qanoon) ka bhi zikr kiya gaya hai [2][3]. Yeh is baat ki taraf ishara karta hai ke aurton ki hifazat aur izzat ka tahaffuz riyasati zimmedari hai [2][3].\n\n### Summary\nKitab mein Maghribi muhaqqiqeen (researchers) ke hawale se gender equality ko Islam aur Maghrib ke darmiyan ek aham saqafati farq ke taur par pesh kiya gaya hai [4]. Islamic dasturi usoolon ke hawale se, kitab mein baligh rayi dahi mein gender discrimination na hone aur khawateen ke tahaffuz ke haq ko bunyadi huqooq mein shamil kiya gaya hai [1][2][3].\n\nYeh passages mard aur aurat ki barabari ke tamam pehluon, maslan wirasat, shahadat ya deegar fiqhi masail ko tafseel se bayan nahi karte."
+  },
+  {
+   "id": "ge-en-3",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "Does the book say anything about gender discrimination in voting?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    257
+   ],
+   "expected_pages": [
+    257
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-2.5-flash",
+   "fallback": "",
+   "seconds": 18.9,
+   "words": 174,
+   "answer": "Yes, the book states that there should be no gender discrimination in adult franchise (voting) [1].\n\nThe book, in its discussion on the principles of constitution-making in light of prophetic traditions, explicitly lists \"No Gender Discrimination in Adult Franchise\" as one of the fundamental principles [1]. This indicates that the right to vote should be extended to adults without any distinction based on gender [1].\n\n### Constitutional Principles from Seerah\nAmong the constitutional and legal principles derived from the Seerah of the Prophet Muhammad ﷺ, the book highlights several key aspects [1]:\n*   **Adult Franchise:** The concept of adult franchise is recognized [1].\n*   **No Gender Discrimination:** Specifically, it is affirmed that there should be no discrimination based on gender in the exercise of adult franchise [1].\n*   **Equal Human Rights:** The guarantee of equal human rights is also a fundamental principle [1].\n\n### Summary\nThe book explicitly states that there should be no gender discrimination in adult franchise, establishing it as a principle derived from the Seerah of the Prophet Muhammad ﷺ [1]."
+  },
+  {
+   "id": "piety-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about personal piety and worship of God?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    51,
+    414,
+    104,
+    83
+   ],
+   "expected_pages": [
+    51
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 40.6,
+   "words": 385,
+   "answer": "The book addresses personal piety and worship of God both by citing Western scholarly perspectives and by detailing the authentic Quranic and Prophetic framework of worship [1][2][3][4]. It presents worship as sincere monotheistic devotion to Allah, while clarifying that true piety requires pairing acts of worship with a deep, personal connection of love and reverence for the Prophet Muhammad ﷺ [2][3][4].\n\n### Western Perspective Quoted in the Book\n* The book quotes the Western writer Southern (alongside scholars such as Cardinal R. W. Southern, Maxime Rodinson, and others) as describing Islam as personal piety and the worship of God within a framework of revealed universal ethical principles intended to be implemented in human life [1].\n* These scholars view Islam through the lens of personal pietism and Quranic ethical universalism [1].\n\n### Commandments Regarding the Worship of God\n* In a sermon of the Prophet Muhammad ﷺ cited in the book, believers are commanded to worship Allah alone, to refrain from associating any partner with Him, to fear Him as He ought to be feared, and to faithfully fulfill all covenants made with Him [2].\n* Engaging in the worship of Allah and remembering Him through the recitation of the Quran is described as the highest and most noble of deeds, bringing ornamentation and guidance to the heart [2].\n* The Quran illustrates the devout character of the Prophet’s ﷺ companions, describing them in frequent bowing and prostration, seeking exclusively the grace and pleasure of Allah with complete sincerity [3].\n\n### The Essence of Piety Beyond Outer Rituals\n* The book emphasizes that while fulfilling religious commands establishes an intellectual and practical connection with divine guidance, personal piety and worship alone do not fulfill the true demand of faith if divorced from a personal, loving attachment (*hubbi* and *adabi* relationship) to the Prophet Muhammad ﷺ [4].\n* Restricting religion merely to instructions, rituals, or social compliance—without personal devotion and deep love for the sacred persona of the Prophet ﷺ—reflects a flawed understanding of the spirit of Islamic teachings [4].\n\n### Summary\nThe book explains that personal piety and the worship of God consist of sincere monotheism, righteous conduct, and adherence to divine scripture, but stresses that true Islamic piety is only complete when grounded in a personal, loving attachment to the Prophet Muhammad ﷺ [1][2][3][4]."
+  },
+  {
+   "id": "author-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "Who is the author of Muqaddima Seerat ur Rasool?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [
+    3
+   ],
+   "expected_pages": [
+    3
+   ],
+   "page_hit": true,
+   "answering": "/",
+   "fallback": "",
+   "seconds": 0.8,
+   "words": 26,
+   "answer": "Author: Dr. Muhammad Tahir-ul-Qadri. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری»"
+  },
+  {
+   "id": "author-ur-1",
+   "language": "Urdu",
+   "expectation": "answerable_full",
+   "question": "اس کتاب کا مصنف کون ہے؟",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [
+    3
+   ],
+   "expected_pages": [
+    3
+   ],
+   "page_hit": true,
+   "answering": "/",
+   "fallback": "",
+   "seconds": 0.4,
+   "words": 27,
+   "answer": "مصنف: ڈاکٹر محمد طاہر القادری. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «تصنیف : شیخ الاسلام ڈاکٹر محمد طاہر القادری»"
+  },
+  {
+   "id": "pub-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What is the ISBN of this book?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [
+    3
+   ],
+   "expected_pages": [
+    3
+   ],
+   "page_hit": true,
+   "answering": "/",
+   "fallback": "",
+   "seconds": 0.4,
+   "words": 18,
+   "answer": "ISBN: 969-32-0552-9. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 3 — «ISBN 969-32-0552-9»"
+  },
+  {
+   "id": "west-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What did Edward Gibbon write about the Prophet's way of life?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    59,
+    677,
+    60
+   ],
+   "expected_pages": [
+    59
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 27.8,
+   "words": 222,
+   "answer": "According to Edward Gibbon in *The Decline and Fall of the Roman Empire*, the Prophet Muhammad ﷺ rejected royal pomp and led a life of remarkable simplicity, humility, and self-reliance [1][2][3]. He personally engaged in everyday household chores and maintained a simple, modest diet [1][3].\n\n### Humility and Domestic Life\n* Edward Gibbon notes that the Prophet Muhammad ﷺ despised the pomp of royalty and personally carried out routine family chores [1][3].\n* He would kindle the fire, sweep the floor, milk the ewes, and repair his own shoes and woolen garments [1][3].\n\n### Personal Habits and Diet\n* Gibbon writes that the Prophet ﷺ rejected monastic asceticism while observing the abstemious diet of an Arab soldier without affectation or vanity [1][3].\n* On solemn occasions, he welcomed his companions with generous, rustic hospitality, yet in his domestic life, many weeks would pass without a fire being lit on his hearth [1][3].\n* He confirmed the prohibition of wine through his personal example [1][3].\n* He appeased his hunger with a sparing allowance of barley bread, enjoyed milk and honey, but his ordinary daily food consisted of dates and water [1][3].\n\n### Summary\nEdward Gibbon portrays the Prophet Muhammad ﷺ as a leader who personally performed household labor, shunned worldly luxury, and maintained extreme modesty and self-restraint in his daily life [1][3]."
+  },
+  {
+   "id": "west-en-2",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What do Western writers say about the simplicity of the Prophet's life?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    55,
+    59,
+    60,
+    61,
+    65,
+    63
+   ],
+   "expected_pages": [
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 72.3,
+   "words": 448,
+   "answer": "Western historians and scholars cited in the book highlight that Prophet Muhammad ﷺ lived an extraordinarily simple, humble, and unpretentious life [1][2][3][4][5][6]. Even when he became the supreme leader of Arabia, he despised pomp, ostentation, and luxury, maintaining the same modest lifestyle he had during times of adversity [2][3][4][5][6].\n\n### Domestic Life and Daily Chores\n* **Sir William Muir** observes that a patriarchal simplicity pervaded his life from his youth, noting his modesty of deportment, purity of manners, and care for others [1].\n* **Edward Gibbon** writes that the Prophet ﷺ despised the pomp of royalty and personally performed domestic chores, such as kindling the fire, sweeping the floor, milking the ewes, and mending his own shoes and woolen garments [2].\n* **Charles Mills** similarly notes that with the natural simplicity of a great mind, even while lord of Arabia, he performed the humblest domestic tasks, including mending his shoes and coarse garments, milking ewes, and sweeping [4].\n* **The Encyclopedia Americana** records that despite his dominant personality, his domestic life was simple, and even at the height of his power, he slept upon straw with a pillow made of leather filled with palm leaves [4].\n\n### Food, Clothing, and Possessions\n* **Gustav Weil** states that his house, dress, and food were characterized by a rare simplicity, setting a shining example for his people [3].\n* **Edward Gibbon** notes that weeks would elapse without a fire being kindled on his hearth, and his ordinary diet consisted of dates and water, occasionally complemented by barley bread, milk, or honey [2].\n* **Sir John Glubb** explains that the Prophet ﷺ never accumulated wealth or used elementary comforts, keeping his food, clothing, house, and furnishings extreme in simplicity even when ample money was available [6].\n* **Bertram Thomas** writes that he lived an utterly simple life without pride or ostentation, and died in debt with some of his belongings pawned to a Jew [6].\n\n### Humility and Conduct in Power\n* **Edward Freeman** remarks that he built no palace for his own honor and chose to return to his humble dwelling among his early supporters rather than live in grandeur, despite being both spiritual and temporal ruler [3].\n* **Stanley Lane-Poole** (and other Western writers cited in the text) emphasize that at the peak of his power, he lived in a mud house without display, considered wealth as public/state property, never wore the luxurious attire of Eastern monarchs, and remained constantly accessible to his people [5].\n\n### Summary\nIn summary, Western writers widely acknowledge that Prophet Muhammad ﷺ maintained complete simplicity, humility, and detachment from worldly wealth throughout his life, personally performing household duties and rejecting the luxuries of leadership [1][2][3][4][5][6]."
+  },
+  {
+   "id": "west-en-3",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "Why does the book say Western writers were prejudiced against Islam?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    53,
+    55,
+    52,
+    42
+   ],
+   "expected_pages": [
+    51,
+    52,
+    53,
+    55
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 25.0,
+   "words": 404,
+   "answer": "According to the book, Western writers developed prejudice against Islam due to historical religious rivalries, deliberate misrepresentation of Prophet Muhammad ﷺ, and ongoing media stereotyping [1][2][3]. As Islam expanded in its early centuries, Western religious authorities viewed it as a threat, giving rise to biased literature, the Crusades, and later imperialist strategies to weaken Muslim identity [4][3].\n\n### Historical Rivalry and Religious Threat\nThe book explains that as Islam spread and former Christian territories transitioned into Muslim-majority areas, Christian religious circles began to view Islam as a direct threat to their influence [3]. Montgomery Watt writes that for centuries Islam was viewed as the great enemy of Christianity, and no historical figure was as maligned as Prophet Muhammad ﷺ [2]. This underlying fear fueled centuries of biased writing and contributed to the Crusades between the 11th and 13th centuries, which further damaged mutual perceptions [3].\n\n### Fabrications and Distortion of the Seerah\nThe book notes that much of the early Western writing on the life of Prophet Muhammad ﷺ relied on exaggerated lies, false allegations, and hostility rather than factual evidence [3]. In one extreme instance, a Western biographer explicitly instructed writers to record as many negative things as possible when writing about the Prophet's ﷺ life in order to distort his personality [3].\n\n### Modern Media Stereotypes and False Narrative\nIn the contemporary era, Western media frequently depicts Muslims and Arabs through negative stereotypes, framing them as ignorant, lazy, and luxury-obsessed people who oppose modern progress [1]. As a result of this media campaign, Western intellectuals began to view Islam as an enemy of modern civilization and progress, attempting to link all acts of terrorism exclusively to Islam and Muslims [1]. The book refutes this depiction, stating that Islam's initial growth was driven by its moral, social, and political system rather than aggression [1].\n\n### Imperialist Strategy to Disconnect Muslims from the Seerah\nThe book also cites the observations of Allama Iqbal regarding Western imperialist powers, which strategically organized intellectual and practical campaigns to diminish Muslims' deep love and devotion for Prophet Muhammad ﷺ [4]. These powers realized that if Muslims lost their connection to the Prophet's ﷺ exemplary model, their decline would be inevitable [4].\n\n### Summary\nIn summary, the book attributes Western prejudice against Islam to historical fears surrounding Islam's early expansion, intentional distortion of the Seerah by biased biographers, media stereotyping, and imperialist schemes to weaken Muslim spiritual unity [1][4][2][3]."
+  },
+  {
+   "id": "west-ur-1",
+   "language": "Urdu",
+   "expectation": "answerable_partial",
+   "question": "مغربی مصنفین نے اسلام کے بارے میں کیا تعصب پھیلایا؟",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    50,
+    54,
+    51,
+    53,
+    52,
+    365
+   ],
+   "expected_pages": [
+    51,
+    52,
+    53
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 30.0,
+   "words": 467,
+   "answer": "مغربی مصنفین اور مفکرین نے اسلام، مسلمانوں اور بالخصوص حضور نبی اکرم ﷺ کی ذاتِ گرامی کے بارے میں شدید تعصب، غلط فہمیوں اور جھوٹ پر مبنی پراپیگنڈہ پھیلایا [1][2][3]۔ انہوں نے اسلام کے فطری اور عظیم اخلاقی و اجتماعی نظام کو تسلیم کرنے کے بجائے اسے بدنام کرنے، فرسودہ بتانے اور جدید تہذیب کا دشمن قرار دینے کی کوشش کی [2][4][3]۔\n\n### حضور نبی اکرم ﷺ کی ذاتِ گرامی کے خلاف کذب و بہتان\n* عیسائیت نے اسلام کے فطری فروغ کو اپنے لیے علمی، فکری، مذہبی، سماجی اور سیاسی خطرہ محسوس کیا، جس کے نتیجے میں انہوں نے اسلام کو بدنام کرنے کے لیے من گھڑت اور جھوٹی کہانیاں مشہور کر دیں جن کا اصل ہدف حضور نبی اکرم ﷺ کی ذاتِ گرامی تھی [3]۔\n* ان مصنفین نے (معاذ اللہ) یہ افواہ پھیلائی کہ آپ ﷺ جادوگر ہیں یا رومن چرچ کے ایک راہب تھے جو پوپ بننے کی تمنا میں ایک نئے مذہب کے بانی بن گئے [3]۔\n* ایک مغربی سیرت نگار نے یہاں تک لکھا کہ آپ ﷺ کی سیرت لکھتے وقت جتنی برائیاں لکھی جا سکتی ہیں لکھو تاکہ آپ ﷺ کی شخصیت کو بگاڑ کر پیش کیا جا سکے (معاذ اللہ) [5]۔\n\n### مسلمانوں کا منفی امیج اور دہشت گردی سے ربط\n* مغربی میڈیا اور تحریروں میں عربوں اور مسلمانوں کو عیاش، جاہل اور کاہل دولت مندوں کے طور پر پیش کیا گیا، جنہیں جدید دور کے تقاضوں کا کوئی احساس نہیں اور وہ دنیا کو تاریکی کی طرف دھکیلنا چاہتے ہیں [4]۔\n* مغربی دانشوروں نے تمام دہشت گردانہ سرگرمیوں کا ناطہ اسلام اور مسلم دنیا سے جوڑ دیا اور یہ ثابت کرنے کی کوشش کی کہ مسلمان ظالم اور وحشی قوم ہیں [4]۔\n\n### اسلام کو فرسودہ اور جدیدیت کا دشمن قرار دینا\n* بعض مغربی مفکرین نے یہ متعصبانہ رائے قائم کی کہ اسلام کی ثقافت کا زمانہ گزر چکا ہے اور یہ صرف چند پس ماندہ عقیدت مندوں کو متاثر کر سکتا ہے، جبکہ برلن، ٹوکیو اور ماسکو کی جدید نوجوان نسل کے لیے اس میں کوئی کشش نہیں ہے [2]۔\n* مغربی دانشوروں نے اسلام کو جدید تہذیب و ترقی کا دشمن اور قاتل تصور کرنا شروع کر دیا، حالانکہ اسلام کا عروج و فروغ کسی حملہ آوری کی بجائے اس کے عظیم سوشل، اخلاقی اور سیاسی نظام کا مرہونِ منت تھا [4]۔\n* دنیا کے سیاسی اور آئینی ارتقاء کے سفر میں مغربی مصنفین نے اسلام اور سیرتِ محمدی ﷺ کے بنیادی اور ہمہ گیر کردار کو مکمل طور پر نظر انداز کر دیا [6]۔\n\n### خلاصہ\nمغربی مصنفین کے تعصب کا بنیادی محور حضور نبی اکرم ﷺ کی ذاتِ گرامی پر جھوٹے الزامات تراشنا، مسلمانوں کو ظالم و پس ماندہ بنا کر پیش کرنا، اور اسلام کو جدید تہذیب و ارتقاء کا مخالف ثابت کرنے کی ناکام کوشش کرنا تھا [2][4][3][5]۔"
+  },
+  {
+   "id": "west-en-4",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What is the basic cultural difference between Islam and the West according to the book?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    50
+   ],
+   "expected_pages": [
+    50
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 23.3,
+   "words": 190,
+   "answer": "According to the book, citing researchers Ronald Inglehart and Pippa Norris, the primary cultural difference or fault line between Islam and the West does not center on democracy [1]. Instead, the divide is rooted in social values, specifically issues surrounding gender equality and sexual liberalization [1].\n\n### The Core Divide in Social Values\n* **Gender Equality and Sexual Liberalization:** Citing the study by Ronald Inglehart and Pippa Norris (*Sacred and Secular: Religion and Politics Worldwide*), the text points out that social values concerning gender equality and sexual liberalization lie at the very heart of any potential \"clash\" between Islam and the Western world [1].\n* **Divergence Over Social vs. Political Values:** The analysis of these social attitudes reveals a far stronger and more significant gap between Islamic and Western perspectives on gender and sexual liberalization than on most political values such as democracy [1].\n\n### Summary\nIn summary, the book references scholars Ronald Inglehart and Pippa Norris to explain that the basic cultural fault line separating Islam and the West is not a disagreement over democracy, but a deep divergence in social values regarding gender equality and sexual liberalization [1]."
+  },
+  {
+   "id": "cm-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What are the fundamental principles of the Constitution of Madinah?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    259,
+    260,
+    320,
+    277,
+    352,
+    383,
+    321,
+    330,
+    322
+   ],
+   "expected_pages": [
+    256,
+    257,
+    259,
+    260
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 32.7,
+   "words": 422,
+   "answer": "The Constitution of Madinah (*Mīthāq al-Madīnah*) established a comprehensive constitutional and political framework based on divine sovereignty, legal equality, practical democracy, and collective security [1][2]. The book outlines these principles as the foundational pillars of the state of Madinah [1][2].\n\n### Core Constitutional Principles\n\nAccording to the book, the fundamental principles of the Constitution of Madinah include:\n* **Real and Ultimate Sovereignty of Almighty Allah:** Establishing that supreme authority belongs to Allah [1].\n* **State Authority of the Holy Prophet ﷺ:** Designating the Holy Prophet Muhammad ﷺ as the supreme state and defence authority [1][3].\n* **Written Constitution:** Operating under a documented constitutional agreement to establish formal statehood [1][2].\n* **Moral Foundation of the State:** Grounding political governance and law on moral and ethical values [1].\n* **Spirit of Democracy and Rule of Law:** Upholding democratic principles, the rule of law, balance of powers, and devolution of authority [1][2].\n* **Multi-Cultural Society and National Unity:** Fostering national unity, establishing a multi-cultural society, and recognizing the distinct groups within the state [1].\n\n### Human Rights and Protection of Minorities\n\nThe constitutional framework laid out clear guarantees for social justice and peaceful coexistence:\n* **Guarantee of Fundamental Rights:** Ensuring the protection of fundamental human rights, equality before the law, and the rights of women [2][4].\n* **Protection of Religious Freedom:** Guaranteeing religious freedom for non-Muslim groups, such as the Jewish tribes, who were recognized as part of the political community while maintaining their faith [5][6][2].\n* **Protection of Minorities:** Assuring equal rights, protection against injustice, and full state support for minority communities [5][2][4].\n* **Recognition of Local Laws:** Respecting regional autonomy and traditional local customs and laws [2].\n\n### Defense and External Relations\n\nThe Constitution of Madinah also set clear rules regarding state security and international alliances:\n* **Joint Defense Obligation:** Making the defense of Madinah against external aggression a joint responsibility among the groups of Madinah, including shared war expenses [7][6].\n* **Eradication of State Enemies:** Strictly prohibiting any aid, sanctuary, or cooperation to enemy forces such as the Quraysh [3].\n* **Unified Foreign Policy:** Ensuring that peace treaties and foreign relations were unified, fair, and equal for all citizens [8][9].\n* **Sanctuary Status:** Declaring Madinah a safe haven and sanctuary while maintaining the strict enforcement of the constitution [2].\n\n### Summary\nThe Constitution of Madinah was built upon the ultimate sovereignty of Allah, the leadership of the Holy Prophet ﷺ, a written legal structure, joint national defense, strict rule of law, and complete protection of fundamental human rights and religious freedom [1][3][5][2]."
+  },
+  {
+   "id": "cm-en-2",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What rights does the Constitution of Madinah give to minorities?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    350,
+    352,
+    277,
+    321,
+    353,
+    330
+   ],
+   "expected_pages": [
+    350,
+    353,
+    260
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 27.0,
+   "words": 429,
+   "answer": "The Constitution of Madinah (*Mithaq al-Madinah*) establishes comprehensive constitutional, religious, and civic rights for non-Muslim minorities [1][2][3]. It guarantees them full legal equality, freedom of religion, protection against injustice, and equal participation in the security and defense of the state [1][4][2][3].\n\n### Protection, Equality, and Non-Oppression\n* **Guarantee of Equality:** Minorities receive legal and constitutional equality as full citizens of the state [1].\n* **Support and Equal Standing:** Jewish citizens who follow the state are granted active help and equal status (*al-nasr wa al-uswah*) [3].\n* **Protection against Injustice:** The constitution ensures that minority groups are not wronged or oppressed, nor will anyone be aided against them [3].\n* **Right to Life:** The constitutional framework explicitly protects the fundamental right of life for minority populations [1].\n\n### Religious Freedom and Recognized Identity\n* **Freedom of Religion:** The Constitution of Madinah provides an explicit guarantee of religious freedom [2].\n* **Recognition as a Political Unit:** The Jews of Banu 'Auf are recognized as forming a unified political community alongside the believers [2].\n* **Equal Status for Allied Tribes and Branches:** Sub-branches and allied groups—such as Banu Thalaba, Banu Shatiba, and their clients (*mowali*)—enjoy the exact same rights as the primary tribes [2].\n* **Individual Accountability:** If an individual commits oppression or breaks an oath, the consequences fall strictly upon the wrongdoer and their household, ensuring the wider community is not held collectively liable [2].\n\n### Joint Defense and Financial Rights\n* **Role in State Defense:** Minorities play an active role in state defense and share defensive duties [5][4].\n* **Joint Defense of Madinah:** In the event of an external attack, defending Madinah is a joint responsibility carried out through mutual assistance [4].\n* **Mutual Assistance Against Aggressors:** If any outside force fights the people of the constitution, mutual help and support between Muslims and Jews is mandatory [4].\n* **Financial Burden of War:** While Muslims and Jews bear their own respective regular expenses, Jewish groups share the financial expenditures alongside the believers as long as they are jointly engaged in war [4].\n\n### Peace and Foreign Relations\n* **Peaceful Co-Existence:** The principles of peaceful co-existence extend to foreign relations [6]. If minorities are invited to join a peace agreement, they enter into it; similarly, if they invite the believers to a peaceful settlement, it is a duty upon the believers to accede to it [6].\n\n### Summary\nIn summary, the Constitution of Madinah grants non-Muslim minorities guaranteed rights to life, full freedom of religion, complete legal equality, protection against oppression, and shared responsibilities in state defense and peace treaties [1][4][6][2][3]."
+  },
+  {
+   "id": "cm-ur-1",
+   "language": "Urdu",
+   "expectation": "answerable_full",
+   "question": "میثاق مدینہ میں اقلیتوں کے حقوق کیا ہیں؟",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "citations_checked",
+   "cited_pages": [
+    353,
+    350,
+    352,
+    281,
+    17,
+    321,
+    330,
+    259
+   ],
+   "expected_pages": [
+    350,
+    353,
+    260
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: ReadTimeout; anthropic: no API key configured; openai: no API key configured",
+   "seconds": 390.5,
+   "words": 480,
+   "answer": "میثاقِ مدینہ میں غیر مسلم اقلیتوں (خصوصاً مدینہ کے یہودی قائل اور ان کے موالی) کو مکمل آئینی و قانونی مساوات، مذہبی آزادی، جان و مال کا تحفظ اور دفاعی و سیاسی شراکت داری کے بنیادی حقوق عطا کیے گئے ہیں [1][2][3]۔ اس تاریخی دستاویز کی رو سے اقلیتوں کو مسلمانوں کے ساتھ ایک سیاسی وحدت (امت) تسلیم کیا گیا اور ریاست کی جانب سے مدد اور برابر حقوق کی ضمانت دی گئی [2][3]۔\n\n### 1. آئینی اور قانونی مساوات\n* **مساوی حقوق:** میثاقِ مدینہ کے تحت مدینہ کے یہودیوں (بنو عوف، بنو اوس، بنو ثعلبہ، جفنہ، بنو شطیبہ، ان کی ذیلی شاخوں اور ان کے موالی) کو وہی حقوق دیے گئے جو اس دستور کو ماننے والے دیگر شہریوں کو حاصل تھے [2][4][3]۔\n* **عدمِ ظلم اور مدد کی ضمانت:** یہ طے پایا کہ جو بھی یہودی اس ریاست کی اتباع کرے گا، اس کی مدد کی جائے گی اور اس کے ساتھ مساوی برتاؤ ہوگا؛ اس پر نہ کوئی ظلم روا رکھا جائے گا اور نہ ہی اس کے خلاف کسی کی مدد کی جائے گی [2]۔\n\n### 2. مذہبی آزادی کی ضمانت\n* **عقیدے کی آزادی:** میثاقِ مدینہ میں واضح طور پر مذہبی آزادی کا اصول طے کیا گیا کہ \"یہودیوں کے لیے ان کا دین ہے اور مسلمانوں کے لیے اپنا دین ہے\" [1][2][3]۔\n* **سیاسی وحدت کا درجہ:** بنو عوف اور دیگر قبائل کے یہودیوں کو مومنین کے ساتھ مل کر ایک سیاسی وحدت (امت) تسلیم کیا گیا [2][3]۔\n\n### 3. جان و مال کا تحفظ اور انفرادی ذمہ داری\n* **زندگی کے تحفظ کا حق:** غیر مسلم اقلیتوں کو زندگی، امن اور سلامتی کا کامل تحفظ فراہم کیا گیا [2][5]۔\n* **شخصی ذمہ داری کا اصول:** کسی کے جرم کی سزا کسی دوسرے کو نہیں دی جائے گی؛ اگر کوئی شخص ظلم یا عہد شکنی کا ارتکاب کرے گا تو اس کی ذات یا اس کے گھرانے کے سوا کسی دوسرے کو مصیبت میں مبتلا نہیں کیا جائے گا [1][4][3]۔\n\n### 4. دفاعی شراکت داری اور معاشی ذمہ داریاں\n* **مشترکہ دفاع:** اگر کوئی بھی فریق اس دستور والوں پر حملہ آور ہوگا یا جنگ کرے گا تو مسلمانوں اور یہودیوں کی باہمی امداد اور مشترکہ دفاع فرض ہوگا [6]۔\n* **مالی اخراجات میں شرکت:** جنگی حالت کے دوران یہودی، مومنین کے ساتھ مل کر اپنے اخراجات خود برداشت کریں گے اور مسلمان اپنے اخراجات [1][6]۔\n* **بقائے باہمی اور صلح:** اگر اقلیتوں کو صلح کے لیے بلایا جائے گا تو وہ صلح میں شریک رہیں گے، اور اگر وہ مومنین کو صلح کی طرف بلائیں گے تو مومنین پر بھی اسے قبول کرنا لازم ہوگا [7]۔\n\n### خلاصہ\nمیثاقِ مدینہ نے اقلیتوں کو بلا تفریقِ مذہب و نسل، مساوی شہری حقوق، مذہبی آزادی، جان و مال کی سلامتی اور ریاست کے دفاع میں برابر کی شراکت دارانہ ذمہ داریاں عطا کر کے ایک جدید کثیر الثقافتی اور عادلانہ معاشرے کی بنیاد رکھی [2][3][6][8]۔"
+  },
+  {
+   "id": "cm-en-4",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "Does the Constitution of Madinah guarantee religious freedom?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    286,
+    260,
+    352,
+    259,
+    350
+   ],
+   "expected_pages": [
+    286,
+    257,
+    260
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 68.5,
+   "words": 197,
+   "answer": "Yes, the Constitution of Madinah explicitly guarantees religious freedom to citizens, protecting the rights of non-Muslim minority groups and various Jewish tribes [1][2][3].\n\n### Constitutional Protection of Religious Freedom\n* The Constitution of Madinah includes the protection and guarantee of religious freedom as one of its fundamental constitutional principles [1][2][3]. \n* It established a multi-cultural society that recognized fundamental human rights and granted peaceful co-existence to diverse faith groups [2][4].\n\n### Equal Rights for Minorities and Jewish Tribes\n* Under the constitution, minority rights were legally and constitutionally protected [5][2].\n* The text explicitly guaranteed equal rights to various Jewish tribes and their affiliated branches—such as the Jews of Banu Awf, Banu Shatiba, and Banu Thalaba [3].\n* The Jews of Banu Awf were recognized alongside the believers as part of a single political entity [3].\n* To safeguard justice, the constitution established that if an individual committed oppression or broke a covenant, accountability fell solely upon that individual and their household rather than the entire group [3].\n\n### Summary\nIn summary, the Constitution of Madinah formally guaranteed religious freedom, protected minority rights, and established equal constitutional rights for non-Muslim groups within a unified, multi-cultural society [5][1][2][4][3]."
+  },
+  {
+   "id": "cm-hi-1",
+   "language": "Hindi",
+   "expectation": "answerable_full",
+   "question": "मदीना के संविधान में धार्मिक स्वतंत्रता के बारे में क्या है?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    259,
+    271
+   ],
+   "expected_pages": [
+    286,
+    257,
+    260
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 52.7,
+   "words": 316,
+   "answer": "दिए गए अंशों में मदीना के संविधान (Constitution of Madina) के बुनियादी सिद्धांतों का उल्लेख किया गया है, जिसके अंतर्गत एक बहुसांस्कृतिक समाज की स्थापना (Establishment of Multi Cultural Society) और राज्य के विभिन्न समूहों/राष्ट्रों को मान्यता (Recognition of Different Nations of State) शामिल है [1]। हालाँकि, धार्मिक स्वतंत्रता के विशिष्ट नियमों का प्रत्यक्ष विवरण इन पृष्ठों में उपलब्ध नहीं है [1][2]।\n\n### मदीना के संविधान के बुनियादी सिद्धांत\nपुस्तक के अनुसार मदीना के संविधान में निम्नलिखित प्रमुख संवैधानिक व राजनीतिक सिद्धांतों को शामिल किया गया है:\n\n* **बहुसांस्कृतिक समाज की स्थापना:** संविधान के माध्यम से एक ऐसे बहुसांस्कृतिक समाज की नींव रखी गई जहाँ विभिन्न पृष्ठभूमियों के लोग साथ रह सकें [1]।\n* **विभिन्न समूहों व राष्ट्रों की मान्यता:** राज्य के अंतर्गत मौजूद विभिन्न समूहों और राष्ट्रों की पहचान को स्वीकार किया गया [1]।\n* **सर्वोच्च संप्रभुता और नबी ﷺ का प्राधिकार:** संविधान में अल्लाह ताला की वास्तविक व अंतिम संप्रभुता (Real & ultimate Sovereignty of Almighty Allah) और नबी करीम ﷺ के राज्य प्राधिकार (State Authority of the Holy Prophet ﷺ) को स्थापित किया गया [1]।\n* **लिखित संविधान और लोकतंत्र की भावना:** यह एक लिखित संविधान था जिसमें राज्य की स्थापना, राष्ट्रीय एकता, लोकतंत्र की भावना (Spirit of Democracy) और राज्य के नैतिक व आध्यात्मिक आधार शामिल थे [1][2]।\n* **कानून और व्यवस्था:** इसमें कानून साज़ी, व्यक्तिगत व सामूहिक मामलों, और अन्य समाजों व कबीलों के साथ संबंधों में संविधान के पालन के सामान्य सिद्धांतों को प्रस्तुत किया गया [2]।\n\n### जो जानकारी इन अंशों में शामिल नहीं है\nयह उपलब्ध अंश मदीना के संविधान में 'धार्मिक स्वतंत्रता' के संबंध में अलग से किसी विशिष्ट धारा या विस्तृत विवरण का उल्लेख नहीं करते हैं [1][2]।\n\n### सारांश\nमदीना का संविधान एक बहुसांस्कृतिक समाज के निर्माण, राष्ट्रीय एकता और विभिन्न समूहों को मान्यता देने के सिद्धांतों पर आधारित था, लेकिन धार्मिक स्वतंत्रता पर विस्तृत नियम इन दिए गए अंशों में वर्णित नहीं हैं [1][2]।"
+  },
+  {
+   "id": "cm-en-3",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about protection of women's rights in the Constitution of Madinah?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    260,
+    286,
+    259
+   ],
+   "expected_pages": [
+    286,
+    260
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 29.7,
+   "words": 332,
+   "answer": "The book \"Muqaddima Seerat-ur-Rasool\" explains that the Constitution of Madinah (Mithaq-e-Madina) formally established and guaranteed the protection of women's rights as a fundamental constitutional feature [1]. Muhammad Tahir-ul-Qadri explains that the Constitution of Madinah (Mithaq-e-Madina) formally established and guaranteed the protection of women's rights as a fundamental constitutional feature [1]. It identifies the \"Right of Protection for Women\" as a core legal and social component of the first Islamic state's governing document [2].\n\n### Constitutional Recognition of Women's Rights\nThe book categorizes the protection of women's rights as one of the essential constitutional and political distinctions of the State of Madinah [1]. Within the \"Fundamental Principles of the Constitution of Madinah,\" the document is described as a guarantee for fundamental human rights, which explicitly includes the rights and safety of women [1][3].\n\n### Legal and Social Framework\nThe Constitution of Madinah, established by the Holy Prophet ﷺ, provided a comprehensive framework for a multicultural society where the rule of law prevailed [3]. Within this framework:\n*   The **Right of Protection for Women** is listed as a specific legal right alongside other protections such as religious freedom and economic support [2].\n*   The state was designed to ensure the Guarantee of Fundamental Human Rights [1].\n*   The Prophet ﷺ, as the supreme authority of the state, ensured that these rights were part of a written constitution that recognized the dignity of different groups within the society [3].\n\n### Summary\nThe book highlights that the Constitution of Madinah was revolutionary in its time for providing a written guarantee for the **Protection of Women Rights** [1]. It treats this protection not merely as a custom, but as a formal constitutional right within the legal structure of the state [2].\n\n***\n\n*Note: While the provided sources explicitly list the \"Protection of Women Rights\" and the \"Right of Protection for Women\" as key features and headings within the Constitution of Madinah, these specific passages do not quote the exact text of the individual articles pertaining to women.*"
+  },
+  {
+   "id": "cm-en-5",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about equality in rights under the Constitution of Madinah?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    350,
+    350,
+    280,
+    260,
+    14,
+    282,
+    257,
+    259,
+    286
+   ],
+   "expected_pages": [
+    280,
+    282
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 16.4,
+   "words": 472,
+   "answer": "The Constitution of Madinah, as detailed in the book, established a revolutionary framework of constitutional and legal equality for all citizens of the state [1][2]. It guaranteed that all groups, including religious minorities, would enjoy the same fundamental rights, protections, and legal status as the Muslim community [3][4].\n\n### Constitutional and Legal Equality\nThe book emphasizes that the \"Right of Constitutional Equality\" (آئینی مساوات کا حق) is a cornerstone of the State of Madinah [3][5]. This equality extends to several key areas:\n*   **Equality in Law:** Every citizen is granted the right to equality in the obedience and enforcement of the law [6][5].\n*   **Equal Human Rights:** The Constitution provides a guarantee for equal human rights for all individuals within its jurisdiction [7][4].\n*   **Protection from Oppression:** The document ensures that those who follow the state are entitled to help and equality, specifically stating they shall not be wronged nor shall any assistance be provided to their enemies against them [2].\n\n### Equality for Minorities and Jewish Tribes\nA significant portion of the Constitution is dedicated to ensuring that the Jewish tribes of Madinah were treated as equal citizens [3][2].\n*   **Equal Status:** The book quotes the Constitution stating that the Jews of various tribes—including Banu Awf, Banu Najjar, Banu al-Harith, Banu Sa'idah, and Banu Jusham—possess the same rights as the original parties of the Constitution [3].\n*   **Inclusion in the Community:** It is explicitly mentioned that the Jews of Banu Awf are considered one community (*ummah*) along with the believers, while maintaining their own religious freedom [2].\n*   **Allies and Original Members:** The Jews of the tribe of Aws, whether they were original members or allies (*mawali*), were granted the exact same rights as those who were signatories to the document [3][2].\n*   **Loyalty and Reciprocity:** In exchange for these equal rights, the Constitution expected sincere loyalty and cooperation from these groups toward the state [3][2].\n\n### Principles of a Multicultural Society\nThe Prophet ﷺ established the State of Madinah on principles that recognized the diversity of its inhabitants [8].\n*   **Recognition of Nations:** The Constitution recognized different nations and tribes within the state, fostering a multicultural society based on national unity [8].\n*   **Fundamental Protections:** The book notes that the Constitution provided a \"Guarantee of Fundamental Human Rights\" and specifically protected the rights of minorities and women [4][9].\n*   **Rule of Law:** The system was built upon the rule of law and the balance of power, ensuring that justice was maintained for every citizen regardless of their background [4].\n\n### Summary\nThe Constitution of Madinah institutionalized the concept of equal citizenship by granting religious minorities, particularly the Jewish tribes, the same legal, social, and constitutional rights as Muslims [3][2]. It created a unified state where help, protection, and justice were guaranteed to all who adhered to the constitutional agreement [4][2][8]."
+  },
+  {
+   "id": "cm-en-6",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "Is the government in the Constitution of Madinah described as a contract?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    365,
+    259,
+    321,
+    352,
+    330,
+    322,
+    383,
+    261
+   ],
+   "expected_pages": [
+    257
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 14.7,
+   "words": 421,
+   "answer": "Yes, the book describes the government established by the Constitution of Madinah as a social contract [1]. It highlights this concept as a key feature in the comparative analysis of the development of the Constitution of Madinah alongside other world constitutions [1].\n\n### Government as a Social Contract\nThe book explicitly lists \"Government as Social Contract\" (حکومت بطور معاہدہ عمرانی) as one of the fundamental aspects of the Constitution of Madinah [1]. This framework defines the relationship between the state and its citizens, where the government is also viewed as a \"Trust\" (امانت) [1]. This constitutional approach provided a moral and legal foundation for the newly established state in Madinah [2].\n\n### Political Unity and Collective Responsibility\nUnder this agreement, diverse groups were integrated into a single political entity [3][4].\n*   **Political Unity:** The Jews of Banu Awf, for example, were recognized as a single political unit (سیاسی وحدت) alongside the believers [4].\n*   **Mutual Defense:** The contract mandated that all signatories—both Muslims and Jews—must help one another against any external attack on Madinah [3].\n*   **Financial Obligations:** It was stipulated that Jews would bear their own expenses and Muslims would bear theirs, but they were bound to support each other during times of war [3].\n\n### Collective Peace and Treaties\nThe contractual nature of the state's governance extended to foreign relations and security [5][6]. The Constitution stated that the peace of the believers is one and collective [5]. No individual believer was permitted to enter into a separate peace treaty with an enemy during a conflict in the way of Allah; any such treaty had to be based on equality and justice for all parties involved in the document [5][6].\n\n### Recognition by Historians\nThe book notes that Western researchers, such as Gerhard Endress, also recognize the significance of this document [7]. Gerhard Endress writes that the creation of the Islamic state and the unification of Arabia were the handiwork of the Prophet ﷺ, with the Constitution of Madinah being the first important sign of this achievement [7]. Similarly, other sources describe it as a practical and political document that defined the \"Messenger of God\" as a political leader in addition to his religious role [8].\n\n### Summary\nThe Constitution of Madinah is presented as a formal social contract that unified various tribes and religious groups into a collective political unit with shared responsibilities for defense, finance, and peace [1][3][4]. This document served as the written foundation for the state, establishing the principles of national unity and mutual cooperation [2]."
+  },
+  {
+   "id": "cm-en-7",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about accountability of government powers?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    257,
+    376,
+    375,
+    373,
+    308,
+    474,
+    447
+   ],
+   "expected_pages": [
+    257,
+    256
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 23.5,
+   "words": 566,
+   "answer": "Accountability in the exercise of government powers is presented as a fundamental principle of constitution-making [1]. The book emphasizes that government is not a tool for absolute control but is a \"trust\" (Amanat) and an \"agency\" acting on behalf of the community, where the ruler serves as a trustee [2][3].\n\n### Accountability as a Constitutional Principle\nThe Seerah provides a framework for modern governance, establishing \"Accountability in Exercise of Govt Powers\" as a core principle [1]. This is closely linked to the concept of the \"Vice-regency of the Holy Prophet ﷺ,\" which implies that political authority is a delegated power that must be exercised within the bounds of divine justice and public welfare [1]. Furthermore, the book highlights that the purpose of government is the maintenance of justice and a welfare system, which necessitates a mechanism for holding those in power responsible [1].\n\n### The Concept of Government as a Trust (Amanat)\nThe book explores the idea that government exists to carry out administrative work as a \"trust\" or an \"agent\" for the community [2].\n*   **John Locke** is cited as a proponent of the idea of \"Government as Trust\" [3].\n*   The text describes the ruler as a \"servant and trustee\" (Khadim and Ameen) rather than a master [3].\n*   **Jean Jacques Rousseau** is quoted as making a distinction between sovereign power and the government, viewing the government as an \"executive agent\" of that power [2]. Rousseau argued that legislative power should not reside with the government to prevent it from becoming the master of the state by usurping sovereignty [4].\n\n### Practical Accountability in Administration\nThe Prophet’s ﷺ instructions to his officials demonstrate how accountability was implemented [5]. In the Prophet's instructions to his appointed official, the following standards were set [5].\n*   **Fear of Allah and Character:** Officials were commanded to fear Allah, adopt a soft/kind attitude toward the people, and maintain excellent personal character [5].\n*   **Justice in Decision-Making:** They were required to decide matters between people according to the justice established in the Book of Allah [5].\n*   **Conditional Obedience:** The Prophet ﷺ instructed the people to listen to and obey the officials *if* they acted with justice and fairness [5]. If the official decides with justice and distributes with equity, the people are to assist and support them [5].\n\n### Interplay Between Governors and Governed\nThe book notes that in an Islamic State, governance is not merely a set of forms but an organism intimately connected to the society [6]. **Hamilton Gibb and Harold Bowen** write that there is a \"constant interplay between governors and governed\" in this system [6]. While some Western scholars like Thomas R. Dye and L. Harmon Zeigler observe that in certain systems, like America, the elite rather than the masses govern [2].  Harmon Zeigler** observe that in certain systems, like America, the elite rather than the masses govern, the Islamic model presented in the Seerah emphasizes a structure where the framework of the Qur'an supports concrete policies and social reforms for the benefit of the community [2][7].\n\n### Summary\nAccountability in the Seerah is rooted in the concept of \"Government as a Trust,\" where rulers are executive agents and are held responsible for maintaining justice, fearing Allah, and serving the welfare of the people [1][5][3]. This creates a system where the right to govern is conditional upon the fair and just exercise of power [5]."
+  },
+  {
+   "id": "comp-en-1",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "How does the book compare the Constitution of Madinah with the Magna Carta?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    377,
+    583,
+    259,
+    689,
+    320,
+    321,
+    330,
+    352,
+    295,
+    638,
+    322,
+    282
+   ],
+   "expected_pages": [
+    365,
+    377,
+    379
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 16.7,
+   "words": 515,
+   "answer": "The book mentions the Constitution of Madinah and the Magna Carta in the same context, but it does not explicitly state that the former predates and informs the spirit of the latter [1][2]. It highlights that while the Magna Carta is a significant part of Western legal history, the Constitution of Madinah established a comprehensive framework for a multicultural state, religious freedom, and the rule of law centuries earlier [2][3].\n\n### Historical and Legal Significance\nThe book discusses the Constitution of Madinah within the context of global constitutional history, referencing it alongside the Magna Carta signed by King John [2]. It notes that scholars such as D.S. Margoliouth and Francesco Gabrieli have analyzed the Pact of Madina, recognizing its importance in the rise of Islam and the development of law [2]. The text also references Western constitutional experts like James C. Holt and William Sharp Mckechnie, who have written extensively on the Magna Carta, to provide a comparative backdrop for the constitutional importance of the Seerah of the Prophet Muhammad ﷺ [1][4].\n\n### Written Constitution and Governance\nUnlike many early legal traditions, the Constitution of Madinah is presented as a formal **written constitution** [3]. The book emphasizes several key principles that define this document:\n*   **Sovereignty:** It establishes the ultimate sovereignty of Almighty Allah and the state authority of the Holy Prophet ﷺ [3].\n*   The book mentions the Seerah and Western political figures like Montesquieu, Locke, and Jefferson in the same list, but it does not explore the concept of government as a trust through their political thought [1].\n*   **National Unity:** It created a sense of national unity by recognizing different nations and tribes within a single political unit [3].\n\n### Rights and Protections\nThe book details articles of the Constitution of Madinah, but it does not explicitly compare them to the Magna Carta or the Bill of Rights to claim they mirror or exceed those protections [1][5][6][7][8][9][10][11].\n*   **Religious Freedom:** It guaranteed religious freedom for all groups, specifically mentioning that the Jews of various tribes (such as Banu Awf) were considered a political community alongside the believers [8].\n*   **Equality and Justice:** It established the right to equality in the implementation of the law and the right to Qisas (retribution) for wrongful killing [12][9].\n*   **Collective Defense:** The constitution mandated that the defense of Madinah was a shared responsibility; if any party to the treaty was attacked, all others were bound to help them [6].\n*   **Protection of Life:** It provided a guarantee of peace and security, stating that those who remain in Madinah or those who leave for legitimate reasons are safe, except for those who commit injustice or crime [10][11].\n\n### Summary\nThe book compares the Constitution of Madinah with the Magna Carta to demonstrate that the Prophet Muhammad ﷺ introduced a sophisticated, written legal framework for governance, human rights, and pluralism long before the emergence of modern Western constitutionalism [1][2][3]. While referencing Western historians and legal scholars to validate this significance, the book emphasizes that the Seerah provides a complete constitutional model based on justice and divine trust [1][3]."
+  },
+  {
+   "id": "comp-en-2",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book quote from the United States Constitution about equal protection?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    378
+   ],
+   "expected_pages": [
+    378
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 16.8,
+   "words": 218,
+   "answer": "The book quotes the United States Constitution to state that no State shall deny any person within its jurisdiction the equal protection of the laws [1]. This provision is part of a legal framework designed to protect the privileges and immunities of citizens [1].\n\n### Constitutional Protections and Due Process\nThe text highlights specific clauses from the United States constitutional tradition, noting that no State is permitted to make or enforce laws that abridge the privileges or immunities of its citizens [1]. Additionally, it specifies that no State shall deprive any person of life, liberty, or property without the due process of law [1].\n\n### The Principle of Equal Protection\nThe core of the quote regarding equality is that the State must not \"deny to any person within its jurisdiction the equal protection of the laws\" [1]. This principle is mentioned in the context of the Constitutional Convention, the Bill of Rights, and the Equal Rights Amendment (ERA) [1].\n\n### Scholarly Context\nThe book references these constitutional points while citing the works of Charles Austin, Merrill D. Peterson, and Ralph Ketcham [1].\n\n### Summary\nThe book quotes the U.S. Constitution's requirement that every person within a state's jurisdiction must receive equal protection under the law and cannot be deprived of life, liberty, or property without due process [1]."
+  },
+  {
+   "id": "comp-en-3",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "What theory of sovereignty does the book attribute to Rousseau?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    374,
+    373,
+    376
+   ],
+   "expected_pages": [
+    373,
+    374,
+    376
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 18.7,
+   "words": 298,
+   "answer": "The book describes Jean Jacques Rousseau’s theory of sovereignty as one where each individual surrendered his total rights to the whole community, establishing the absolute supremacy of the community over all of its individuals [1]. He posits that individuals surrender their total rights to the whole community, establishing the community's absolute supremacy over its members [1][2].\n\n### The Social Contract and Community Supremacy\nAccording to the text, Rousseau (1712–1778) proposed that the foundation of a state is a pact or contract in which every individual surrenders all of their rights to the community as a whole [1]. This arrangement ensures that the community maintains absolute supremacy over every individual within it [1].\n\n### Sovereignty and Legislative Power\nRousseau maintained a strict view that sovereignty and the power of legislation belong exclusively to the people [2].\n*   He did not grant legislative power to the government itself [2].\n*   This restriction was a deliberate method to prevent the government from usurping sovereignty and becoming the \"master of the state\" [2].\n*   By keeping legislative power with the people, he sought to prevent the government from becoming the master of the state by usurping that sovereignty or legislative power [2].\n\n### Government as an Executive Agent\nA key distinction in Rousseau's theory is the separation between sovereign power and the government [3].\n*   The government is not the sovereign but acts merely as an **\"executive agent\"** of the sovereign power [3].\n*   The primary role of the government is to carry out administrative work as a \"trust\" or an \"agent\" on behalf of the community [3].\n\n### Summary\nRousseau’s theory identifies the community as the absolute sovereign, where the people hold all legislative power and the government serves only as an executive agent to prevent the usurpation of authority [1][2][3]."
+  },
+  {
+   "id": "comp-en-4",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about Leon Duguit's view of sovereignty?",
+   "answered": false,
+   "reason_code": "insufficient_coverage",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [
+    375
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 30.0,
+   "words": 104,
+   "answer": "The indexed book does not directly answer this question. Related passages are listed below so you can check the original pages yourself.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 375 — «خادم اور امین ہونے کا تصور پروان چڑھا۔»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 368 — «Sovereignty The term sovereignty means above or superior to all others, the greatest & supreme in power, rank or authority.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 374 — «Bernard Crick, \"Sovereignty\" Int'l Encyclopedia of Social Sciences vol.»"
+  },
+  {
+   "id": "treaty-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "How does the book define a treaty in international law?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    325,
+    324,
+    327,
+    326
+   ],
+   "expected_pages": [
+    325,
+    324,
+    326
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3-flash-preview",
+   "fallback": "",
+   "seconds": 18.5,
+   "words": 421,
+   "answer": "The book defines a treaty in international law as a written agreement between two or more States or international organizations intended to create relations within the sphere of international law [1]. In the context of Islamic law, it is described as a contract (*aqd*) settled through mutual consent regarding a specific matter, aligning with modern legal standards [2].\n\n### Modern Legal Definition\nAccording to the text, which references the Vienna Convention on the Law of Treaties, a treaty is a formal written agreement [1]. Its primary function is to establish or intend to create a relationship between States or international organizations that operates under international law [1]. The book notes that a treaty typically consists of several components, including:\n*   A **Preamble** and specific **Form** [1].\n*   Procedures for the **conclusion** of the treaty [1].\n*   Defined modes or times for the **entry into force** [1].\n*   Expressions of **consent** to be bound by the agreement and grounds for its termination [1].\n\n### Islamic Legal Framework\nThe book explains that Islamic law is comprehensive, covering everything from terminology to minute details in international relations [2]. Several terms are used in Islamic law to describe these international agreements:\n*   ***Mu'ahida*** (Treaty) [2]\n*   ***Ahd*** (Covenant/Pledge) [2]\n*   ***Meethaq*** (Pact) [2]\n*   ***Halaf*** (Alliance) [2]\n\nMuslim jurists define a treaty (*mu'ahida*) as a contract that is finalized through the mutual consent of the parties involved regarding a particular affair [2]. This definition is considered by the author to be consistent with modern legal criteria [2].\n\n### Scope of International Law in the Seerah\nThe Prophet Muhammad ﷺ established the foundations for international law between states, covering various essential aspects [3]. These include:\n*   **Laws of Peace and War:** Rules governing state-to-state interactions during different periods [3].\n*   **Diplomacy:** The appointment of ambassadors, their duties, and the sanctity of their positions [3].\n*   **Private International Law:** How the law applies to foreign citizens residing within an Islamic state and the judicial procedures for their cases [3][4].\n\nScholars of the Ummah, such as Imam Muhammad al-Shaybani, conducted extensive research on this subject, particularly in the work *Al-Siyar al-Kabir*, which serves as an encyclopedia of Islamic international law [4].\n\n### Summary\nThe book defines a treaty as a consent-based written agreement between states or organizations to regulate their relations under international law [1][2]. It highlights that the Prophet ﷺ provided a complete framework for international relations, including diplomacy and the rights of foreign residents, which classical Islamic jurists later codified into a comprehensive legal system [3][4]."
+  },
+  {
+   "id": "treaty-en-2",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "What does the book say about the treaty of Hudaybiyah?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    436,
+    427,
+    456,
+    465,
+    440,
+    437
+   ],
+   "expected_pages": [
+    437,
+    440
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash",
+   "fallback": "",
+   "seconds": 53.9,
+   "words": 519,
+   "answer": "The book highlights the Treaty of Hudaybiyah (*Mu‘ahadah Hudaybiyah*), which took place in 6 AH (March 628 CE), as one of the most far-reaching and historically decisive agreements in the statecraft of the Prophet Muhammad ﷺ [1][2]. Built upon profound prophetic wisdom, patience, and strategic foresight, it avoided bloodshed, gained legal recognition from the Quraish, and ultimately proved to be a milestone declared as a manifest victory (*Fath-um-Mubeen*) [3].\n\n### Context and Strategic Vision\n* A. Nigosian writes that in 6 AH (March 628 CE), based on a calculated risk or in response to a dream, the Prophet Muhammad ﷺ ordered his followers to march to Mecca to perform the annual pilgrimage, devising a plan to take Mecca without bloodshed and convert its inhabitants to Islam [1].\n* **Decisive State Agreement:** The book notes that among the Prophet's ﷺ various alliances, two treaties hold paramount historical significance: the Pact of Medina (*Mithaq-e-Madinah*) in 1 AH and the Treaty of Hudaybiyah in 6 AH, made with the disbelievers and polytheists of Mecca [2].\n\n### Prophetic Wisdom and Steadfastness\n* **Patience Against Emotional Pressure:** When the terms of the treaty were being finalized, many companions were overwhelmed by emotion and found it difficult to accept the apparently unfavorable conditions [3]. However, the Prophet ﷺ remained an embodiment of patience, steadfastness, and wisdom, signing the agreement despite the prevailing emotional atmosphere [3].\n* **Consultation and Foresight:** Although the Prophet ﷺ possessed divine guidance and supreme insight, he kept his companions involved in the process of consultation (*mushawarat*) [4].\n* **Preventing Devastation:** Had the Prophet ﷺ yielded to emotional opinions rather than maintaining steadfast wisdom, thousands of Muslim lives might have been lost, and an endless friction between Medina and Mecca would have persisted [3].\n\n### Outcomes and Long-Term Impact\n* **Legal Recognition:** Even though entry into Mecca for the pilgrimage was deferred for that year, the Quraish of Mecca legally acknowledged that they would no longer stand in the way of the Muslims [3].\n* **Manifest Victory:** What initially seemed like a severe setback later proved to be a foundational milestone in Islamic history and was declared a manifest victory (*Fath-um-Mubeen*) [3].\n\n### Perspectives of Quoted Historians\n*  Montgomery Watt writes that the Hudaybiyah expedition and treaty marked a new initiative by the Prophet ﷺ, where instead of seeking to destroy Mecca's influence following earlier conflicts, he pursued a novel strategic path rooted in his conviction in the Qur'anic message and the future of Islam [5].\n* **Long-Term Strategy:** Watt further notes that while the treaty favoured the Prophet's ﷺ long-term strategy, it presented an immediate challenge in dealing with the disappointment of his followers [6]. He also observes that certain nomadic allies had refused to join the march because they saw no prospect of booty, revealing their lack of loyalty and interest in Islam at the time [6].\n\n### Summary\nThe Treaty of Hudaybiyah stands in the book as a masterclass in prophetic diplomacy, where the Prophet's ﷺ absolute composure, strategic vision, and willingness to accept temporary concessions averted warfare and secured a legal and historical turning point for Islam [5][3]."
+  },
+  {
+   "id": "state-en-1",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "What does the book say about sanitation and street lighting in Madinah?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    492
+   ],
+   "expected_pages": [
+    492
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "gemini: quota or rate limit reached",
+   "seconds": 33.1,
+   "words": 166,
+   "answer": "The book explains that municipal administration, including urban cleanliness and public lighting, was an integral part of the prophetic strategy in the state of Madinah [1].\n\n### Cleanliness and Street Lighting Measures\n* **Sanitation:** The Prophet ﷺ considered cleanliness to be half of faith and took practical steps to ensure it [1]. He appointed a black woman (or maid) to the duty of cleaning Masjid an-Nabawi [1]. \n* **Street and Mosque Lighting:** The Prophet ﷺ also established organized arrangements for lighting public spaces [1]. A person was appointed on a voluntary basis to light Masjid an-Nabawi daily [1].\n* **An Event of Illumination:** Once, the Prophet ﷺ inquired about who had illuminated the mosque, and Tamim replied that his young slave, Fath, had done it [1]. Upon this, the Prophet ﷺ affectionately named him \"Siraj\" (meaning lamp or light) [1]. \n\n### Summary\nThe book notes that these initiatives in Madinah represented the foundational first steps toward organized municipal sanitation and public lighting in state governance [1]."
+  },
+  {
+   "id": "state-en-2",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "Was there a parliamentary system in Madinah according to the book?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    20,
+    452,
+    450,
+    421
+   ],
+   "expected_pages": [
+    493
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 42.6,
+   "words": 200,
+   "answer": "The book *Muqaddima Seerat-ur-Rasool* details the administrative and political structure of the state of Madinah [1]. Muhammad Tahir-ul-Qadri, the sources do not mention a parliamentary system in Madinah; however, they do detail the establishment of a consultative system (*Shura*), a central administrative structure, and wide-ranging political agreements that formed the foundation of the state [2][1].\n\n### Consultative System and State Institutions in Madinah\n* **System of Consultation (*Shura*):** The book outlines the administrative and state institutions established during the Prophetic era, which included a system of consultation (*shura*), consultation in military affairs, and the appointment of members of the consultative council [1].\n* **State Administration and Governance:** The Prophet ﷺ formed a remarkable combination of religion and politics in Madinah, establishing a sound central system, institutions, and administrative policies [3][2].\n* **Treaties and Alliances:** Through broad-based agreements with nomadic and local tribes, a system of peaceful coexistence was created, uniting the citizens of Mecca and Madinah under a centralized political leadership [4][2].\n\n### Summary\nWhile the sources do not speak of a parliamentary system, they describe the state of Madinah as being built on a consultative (*shura*) framework, strong administrative institutions, and political alliances led by the Prophet ﷺ [2][1]."
+  },
+  {
+   "id": "state-en-3",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "What does the book say about the military and defence administration of the state?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    320,
+    15,
+    491,
+    318,
+    487
+   ],
+   "expected_pages": [
+    487,
+    490,
+    491,
+    320,
+    321
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 33.7,
+   "words": 460,
+   "answer": "May peace, blessings, and mercy be upon you. The book outlines a comprehensive military and defence administration for the State of Madinah under the leadership of the Holy Prophet Muhammad ﷺ, emphasizing supreme authority, strategic planning, training, and participation of all classes [1][2][3][4].\n\n### Supreme Military Authority and Decision-Making\n* The supreme defence authority of the state rested solely in the Holy Prophet Muhammad ﷺ [1][4].\n* All supreme military and political powers—such as initiating war, making peace, concluding treaties, determining whether an individual, group, tribe, or state could participate in a conflict, and expelling suspect individuals—belonged exclusively to him [4].\n* Peace and war were treated as collective and uniform for all citizens of the State of Madinah; if there was peace or war, it applied equally to all residents [4].\n\n### Principles of State Defence and Security\n* The Constitution of Madinah established strict rules for eradicating state enemies, ensuring that no protection or asylum was to be given to the Qurish or their helpers [1].\n* Any form of conspiracy or assistance extended to enemies was strictly prohibited; even non-Muslim subjects of Madinah were forbidden from giving shelter to the lives and property of the Quraysh or standing in the way of a believer concerning them [1].\n* Defence responsibilities and participation in state defence involved all societal classes, ensuring comprehensive representation [1][2].\n\n### Military Training, Organization, and Record-Keeping\n* To reinforce the character and capability of the military forces of the State of Madinah, regular military training was duly organized [3].\n* The Holy Prophet ﷺ encouraged and motivated people through exercises such as marksmanship, archery, horse racing, camel racing, running matches, wrestling, and other rigorous physical training exercises [3]. Rewards—sometimes consisting of prizes, dates, or other items—were awarded to those who secured first, second, or third places on various occasions [3].\n* Military expeditions were managed with excellent administrative planning [3]. Detailed records were maintained regarding those participating in military campaigns, the destination points, departure locations, weapons, and other related details [3]. Furthermore, people such as the *Ahl al-Suffah* took an active part in military campaigns [3].\n\n### Historical Context of Battles\n* The book notes that subsequent wars fought by the Islamic state sometimes caused heavy casualties in a single battle that surpassed those occurring across the entire thirty years of wars led under the direct generalship of the Prophet ﷺ [5]. The book notes that the chain of victories during the blessed lifetime of the Prophet ﷺ has no parallel in human history [5].\n\n### Summary\nThe military and defence administration under the Holy Prophet ﷺ was characterized by centralized supreme authority, strict internal security against enemies, inclusive participation of all societal strata, rigorous physical and military training, and meticulous record-keeping for campaigns."
+  },
+  {
+   "id": "spain-en-1",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "What does the book say about Islamic rule in Spain?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    540,
+    521,
+    534,
+    537,
+    524
+   ],
+   "expected_pages": [
+    521,
+    522,
+    523
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 22.6,
+   "words": 233,
+   "answer": "Based on the provided passages from the book, Islamic rule in Spain (referred to as Muslim Spain or Andalus) is mentioned in the context of state administration, public works, revenue services, policing, and relations with the local population [1][2][3][4].\n\n### Administration and Treatment of Minorities\n* The rulers and key figures managing the administration (such as the Alamb bishop and Bishop Alumat) belonged to the upper class of the region [2].\n* The Arabs never demanded that the local population abandon their religion and accept Islam [2]. Many of them belonged to the People of the Book, meaning Christians (who were in the majority) and Jews (who were a minority) were allowed to maintain their status [2].\n\n### Governance and Public Services\n* The sources reference various administrative divisions and services under Muslim rule in Spain, including public works [1], revenue services where revenue officers (Sahib al-Ashghal) held powers to collect taxes and impose levies [3], and police (Shurta) administration [4].\n* The administration utilized works and historical studies by scholars and historians such as Pascual de Gayangos y Arce, Imamuddin, Levi-Provencal, Dozy, and others to detail the historical framework of the Umayyads and Muslim dynasties in Spain [1][5][3][4].\n\n***\n\n*Note: The provided sources of the book mention historical administrative and societal aspects of Islamic rule in Spain, but do not discuss the initial conquest or the complete political history of the region.*"
+  },
+  {
+   "id": "med-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about hospitals in the Muslim world?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    601,
+    613,
+    601
+   ],
+   "expected_pages": [
+    601
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 22.2,
+   "words": 260,
+   "answer": "The book highlights the advanced organization, infrastructure, and widespread presence of hospitals in the medieval Muslim world, noting features such as specialized wards, mobile medical units, and open access for all patients [1][2][3].\n\n### Structure and Organization of Hospitals\n- The practice of medicine and the operation of hospitals were regulated in the Muslim world starting from the tenth century onwards [1].\n- Hospitals included various specialized departments and separate facilities to cater to different health needs; for instance, historical records note wards set apart for fevers, ophthalmic (eye) cases, surgical cases, and dysentery or kindred intestinal ailments [3].\n- Major medical institutions, such as the great hospital of al-Mansur founded in Damascus around 1284 AD, were open to all sick persons regardless of whether they were rich or poor, male or female, and maintained separate wards for men and women [1].\n- Alongside patient care, these medical centers featured practical infrastructure such as kitchens, lecture-rooms, and dispensaries [3].\n\n### Types of Medical Services and Facilities\n- Travelling or mobile hospitals were already known and functioning by the eleventh century [1].\n- Historical documentation and references in the book mention numerous prominent medical centers and hospitals across different regions, including the Noorie Hospital, Ibn-i-Tulun Hospital, Azdi Hospital, Mansuri Hospital, Moroccan Hospital, and specialized departments covering areas like ophthalmology, surgery, orthopaedics, and mental diseases [2].\n\n### Summary\nThe book details how medieval Muslim society established a highly structured healthcare system characterized by regulated hospitals, specialized wards, mobile units, teaching facilities, and universal access for both the rich and the poor [1][2][3]."
+  },
+  {
+   "id": "seerah-en-1",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "Why is the study of the Seerah important according to this book?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    8,
+    70,
+    452,
+    27,
+    72,
+    546,
+    34
+   ],
+   "expected_pages": [
+    14,
+    17,
+    26,
+    28
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 19.2,
+   "words": 463,
+   "answer": "The study of the Seerah (Seerat-ur-Rasool ﷺ) is deeply vital in the contemporary era to guide humanity through ideological, social, and political crises, and to present the Prophet Muhammad ﷺ as the ultimate benefactor and Messenger of all humanity rather than exclusively for Muslims [1][2].\n\n### Guidance for Modern Challenges and Statecraft\n* The study of the Seerah provides practical solutions to contemporary problems and helps achieve social balance by enlightening us with Quranic teachings [1].\n* It offers clear guidance for establishing an exemplary, peaceful, and tolerant state, as the Prophet's ﷺ life and every Sunnah serve as a permanent guiding light [3].\n* In today's world, where Islam faces the demands of revival, reform, and dominance, Seerah writing must go beyond merely recounting historical events; it must actively provide solutions to modern challenges [4].\n\n### Presenting the Prophet ﷺ as Messenger to All Humanity\n* Introducing the Prophet ﷺ as the Messenger of Humanity (Rasool-e-Insaniyat) requires presenting his Seerah as an indispensable source of guidance for human welfare [2].\n* Through strong arguments and the power of logic, it must be made clear to the world that humanity needs guidance from the Seerah today just as much as it needed it fourteen centuries ago to emerge from darkness [2].\n* The methodology of studying the Seerah connects the Prophet's ﷺ blessed life with modern scientific and intellectual progress, ensuring that his example stands as a complete model for all people, believers and non-believers alike [5].\n\n### Intellectual and Scientific Awakening\n* Studying the Seerah is an urgent scientific, intellectual, and legal necessity of our time, representing a rare and magnificent historical treasure [6].\n* The revolutionary revelation brought by the Prophet ﷺ awakened human intellect to understand religious realities through reason and reflection, as emphasized by frequent Quranic prompts to observe the creation of the heavens and the earth [6].\n* This divine teaching eliminated the dichotomy and conflict between religion, philosophy, and science, uniting human thought and inspiring Muslims to give equal importance to both spiritual and worldly sciences [6].\n\n### Addressing Incomplete Understandings and Deficiencies\n* The book highlights that the Muslim world has faced serious challenges regarding its connection to the Seerah, including overlooking its spiritual and revelatory dimensions, and suffering a deprivation of moral values and actions derived from its blessings [1][7].\n* A comprehensive and analytical approach helps correct incomplete understandings of the Seerah, moving past colonial or prejudiced orientalist narratives and presenting a deeply researched perspective [1][4].\n\n### Summary\nThe study of the Seerah is essential because it is an incomparable source of spiritual, scientific, social, and statecraft guidance, offering timeless solutions to contemporary human crises and presenting the Prophet Muhammad ﷺ as a universal model of mercy and progress for the entire world [1][2][6][3]."
+  },
+  {
+   "id": "seerah-ur-1",
+   "language": "Urdu",
+   "expectation": "answerable_partial",
+   "question": "اس کتاب میں سیرت کی اہمیت کیا بیان کی گئی ہے؟",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    72,
+    70,
+    29,
+    71,
+    6
+   ],
+   "expected_pages": [
+    14,
+    17,
+    26,
+    28
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 21.4,
+   "words": 325,
+   "answer": "اس کتاب میں سیرتِ رسول ﷺ کی اہمیت کو مختلف جہات اور عنوانات کے تحت بیان کیا گیا ہے، جس سے یہ ظاہر ہوتا ہے کہ سیرتِ طیبہ صرف مسلمانوں کے لیے ہی نہیں بلکہ پوری انسانیت کے لیے مشعلِ راہ ہے [1][2][3].\n\n### عالمِ انسانیت اور امن و سلامتی کے لیے ناگزیر\n* سیرتِ الرسول ﷺ کا مطالعہ اس بات کو واضح کرتا ہے کہ آپ ﷺ کی ذاتِ مبارکہ کو صرف 'رسولِ اسلام' کی بجائے 'رسولِ انسانیت' کے طور پر دنیا کے سامنے پیش کیا جائے، کیونکہ انسانیت کی فلاح و بقا اور امن و سلامتی اسی صورت میں ممکن ہے جب اس کی بنیاد سیرتِ نبوی سے ماخوذ اصولوں پر استوار کی جائے [2][3]۔\n* وقت گزرنے کے ساتھ اور جوں جوں زمانہ ترقی کرے گا، انسانی زندگی کی استواری اور ہمواری کے لیے سیرت کی ضرورت اور اہمیت شدید سے شدیدتر ہوتی چلی جائے گی [3]۔\n\n### عالم گیر اور بین الاقوامی حیثیت\n* سیرتِ الرسول ﷺ اپنی ظاہری اور باطنی وسعتوں کے اعتبار سے کوئی محدود یا شخصی سیرت نہیں ہے، بلکہ یہ ایک عالم گیر اور بین الاقوامی سیرت ہے [3]۔\n* یہ کسی ایک شخص واحد کا دستورِ زندگی نہیں ہے، بلکہ یہ تمام جہانوں کے لیے ایک مکمل دستورِ حیات ہے [3]۔\n\n### کتبِ سیرت کے ابواب میں منقسم اہمیت\nاس کتاب \"مقدمہ سیرۃ الرسول\" میں سیرت کی مختلف جہات اور اہمیت کو درج ذیل ابواب کے تحت بیان کیا گیا ہے [4][5]:\n* **دینی اہمیت** [5]\n* **آئینی، دستوری اور ریاستی اہمیت** [4][5]\n* **ثقافتی، تہذیبی اور تاریخی اہمیت** [4]\n* **معاشی اہمیت** [4]\n* **عصری اور بین الاقوامی اہمیت** [4]\n* **نظریاتی اور انقلابی اہمیت** [4]\n\n### خلاصہ\nمقدمہ سیرۃ الرسول ﷺ میں سیرت کو دورِ حاضر کی علمی و فکری ترقی اور پیش آمدہ مسائل سے مربوط کرکے اس طرح بیان کیا گیا ہے کہ سیرتِ مبارکہ اہلِ ایمان کے ساتھ ساتھ پوری دنیا کے لیے ایک کامل نمونہ بن کر سامنے آئے [1]۔"
+  },
+  {
+   "id": "seerah-hg-1",
+   "language": "Hinglish",
+   "expectation": "answerable_partial",
+   "question": "Is kitab mein seerat ke mutala ka manhaj kya hai?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    71,
+    8,
+    67,
+    68,
+    72,
+    70,
+    9
+   ],
+   "expected_pages": [
+    14,
+    17,
+    26,
+    28,
+    50
+   ],
+   "page_hit": false,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 21.1,
+   "words": 317,
+   "answer": "Is kitab mein seerat ke mutala ka manhaj (methodology of studying the Seerah) kai buniyadi usoolon aur pehluon par mushtamil hai, jo dor-e-hazir ke masail aur insani fلاح ke liye iski ahmiyat ko wazeh karte hain [1][2].\n\n### Seerat ke Mutala ke Buniyadi Usool\n* Kitab ke mutala seerat ke manhaj mein chand buniyadi usool shamil hain: \n  1. Seerat ko ba-tor wahdat feham o tafheem (understanding Seerah as a complete, unified whole) [2][3].\n  2. Fikr-o-amal ke buhran mein seerat se rehnumai hasil karna [2][4].\n  3. Seerat al-Rasool ﷺ ki roshni mein qurani talimat ki tawzeeh [2].\n  4. Asri masail ke hal ke liye seerat ka itlaqi mutala (applied study) karna [2][5].\n  5. Seerat al-Rasool ﷺ ki roshni mein tawazun-e-ijtimai (social balance) ka husool [2].\n  6. Seerat al-Rasool ﷺ ka ba-tor rasool-e-insaniyat mutala [6][7].\n  7. Feham-e-kamal-e-seerat mein aql-e-insani ki naarsaai ka itraaf [6][7].\n\n### Asri Pas منظر aur Aalami Nuqta-e-Nazar\n* Is manhaj ke asلوب-e-bayan mein seerat ko dor-e-hazir ki ilmi o fikri taraqi aur darpesh masail ke sath marboot karke bayan kiya gaya hai [5].\n* Is mein maghribi danwaron ki ilmi kawishon ko bhi pesh-e-nazar rakha gaya hai taake Huzoor Nabi-e-Akram ﷺ ki seerat-e-mubarakah sirf ahl-e-iman aur ahl-e-islam ke liye hi nahi, balki ahl-e-alam ke liye ek namona-e-kamil ke taur par samne aa sake [5].\n* Seerat al-Rasool ﷺ ko insaniyat ki zarurat ke taur par pesh kiya jata hai taake Aap ﷺ sirf rasool-e-islam ki bajaye rasool-e-insaniyat ke taur par duniya mein متعارف ہوں، aur yeh tabhi mumkin hai jab hum seerat ko insani falah ke liye naqazeer sarchashma-e-hidayat ke taur par pesh karein [6].\n\n### Khulasa\nIs kitab mein seerat ke mutala ka manhaj is baat par zor deta hai ke hum Seerat al-Rasool ﷺ ko ek mukammal wahdat aur insaniyat ke azeem sarchashma-e-hidayat ke taur par samjhein, taake aaj ke fikri o amali buhran aur asri masail ka behtareen hal mil sake [2][6][4]."
+  },
+  {
+   "id": "seerah-en-2",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about the Prophet as head of state?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    431,
+    383,
+    447,
+    389,
+    476,
+    391,
+    421,
+    425
+   ],
+   "expected_pages": [
+    431,
+    390,
+    392
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 19.2,
+   "words": 539,
+   "answer": "The book presents the Holy Prophet Muhammad ﷺ as a moral and social reformer, a statesman, and the supreme ruler of the Islamic state, whose leadership established a new sociopolitical order [1][2][3][4].\n\n### The Prophet's Role as Statesman and Leader\n* W. Montgomery Watt notes that during both the Meccan and Medinan periods, contemporaries viewed the Holy Prophet Muhammad ﷺ as a good and upright man, while history recognizes him as a moral and social reformer [1].\n* Gerhard Endress observes that whether one recognizes Muhammad ﷺ as the Prophet of God or regards the Quran as the expression of his personality, the creation of the Islamic state and the unification of Arabia under Islam were his handiwork [2]. Endress adds that the first major sign of this achievement is the Constitution of Medina, which was promulgated soon after the Hijra [2].\n* According to Hamilton A. R. Gibb, this marked the first attempt in Arabian history at a social organization based on religion rather than blood, with Allah as the personification of state supremacy and His Prophet acting as His legitimate vicegerent and supreme ruler on earth during his lifetime [4].\n\n### Divine Authority and Governance\n* Gustave E. Von Grunebaum explains that Islam represents the community of Allah, who is the center and goal of its spiritual experience as well as the mundane head of His community [5]. Allah not only rules but governs it, placing the entire life of the community and the private lives of individuals under His direct legislative and supervisory power [5].\n* Annemarie Schimmel observes that the Prophet's blending of religion and politics (*din* and *daula*) may appear complex to Western tastes, but according to the Muslim conviction, his dual role as Prophet and statesman provides proof of his unique role as God's Messenger [6]. She notes it demonstrates his greatness and the truth of his message, reflecting that God would naturally grant him ultimate success and inspire him to guide his community well [6].\n\n### Political Strategy and Expansion\n* Harold A. Netland points out that within ten years of his departure from Mecca to Medina, through a brilliant system of alliances with nomadic tribes and military victories, Muhammad ﷺ was recognized as the political ruler and Prophet of God by the citizens of Mecca and Medina, as well as most tribes in the Arabian Peninsula [7].\n* W. Montgomery Watt highlights that through various treaties, the outline of the later Islamic empire's structure was formed, where settled communities of Jews and Christians were not forced to become Muslims, but submitted to the Islamic state, paid an annual tribute, managed their internal affairs, and received protection from the Islamic state [8]. Michael Cook and W. Montgomery Watt further note that his far-sighted political strategy, social reforms, and wisdom are reflected in the rapid expansion of his small state into a world-empire after his death, and the continuation of his social institutions across diverse environments for thirteen centuries [3].\n\n### Summary\nIn summary, the book details how the Holy Prophet Muhammad ﷺ successfully united Arabia, established the first religion-based social and political order, and laid the foundations of a vast and enduring Islamic state through divine guidance, constitutional organization, and brilliant statecraft."
+  },
+  {
+   "id": "seerah-en-3",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "question": "What does the book say about the conquest of Mecca?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    443,
+    460
+   ],
+   "expected_pages": [
+    436,
+    443,
+    444,
+    445
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 21.7,
+   "words": 140,
+   "answer": "The book explains that the conquest of Mecca was precipitated by the violation of a treaty and was executed through a secret, well-prepared military expedition [1]. \n\n### The Cause and Preparation\n* The people of Mecca attacked an Arab tribe that was in alliance with the Muslims [1]. \n* In response to this aggression, the Prophet Muhammad ﷺ undertook secret preparations for two months [1]. \n* Following these preparations, the Islamic army camped outside Mecca, catching the inhabitants completely unaware as the army arrived in the surrounding area without them having the slightest inkling of it [1][2].\n\n### Summary\nThe conquest of Mecca followed an attack by the people of Mecca on a Muslim-allied Arab tribe, prompting the Prophet ﷺ to march out after two months of secret preparation and camp outside the city before the Meccas were aware [1][2]."
+  },
+  {
+   "id": "hijra-en-1",
+   "language": "English",
+   "expectation": "answerable_full",
+   "question": "What does the book say about the significance of the Hijra to Medina?",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    381,
+    383,
+    467,
+    412
+   ],
+   "expected_pages": [
+    381,
+    383,
+    384
+   ],
+   "page_hit": true,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 18.4,
+   "words": 362,
+   "answer": "The book highlights the migration to Medina (Hijra) as a monumental turning point that marked the beginning of political activity, the establishment of a new body politic, and the foundation of an Islamic state [1][2][3]. \n\n### The Birth of a New State and Political Activity\n- Montgomery Watt notes that the Hijra in 622 AD marks the beginning of the political activity of the Prophet Muhammad ﷺ, as agreements with the clans of Medina established a new body politic that realized the political potentials of Qur'anic ideas [1].\n- Gerhard Endress states that whether one recognizes Muhammad ﷺ as the Prophet of God or views the Qur'an as the expression of his personality, the creation of the Islamic state and the unification of Arabia under Islam are his handiwork [2].\n- The migration led to the promulgation of the Constitution of Medina (Mithaq-e-Madina) shortly after the Hijra [2].\n\n### Multi-Faceted Impacts on Society\n- The migration initiated actions that opened a new era in human history, including the gifting of a constitution to humanity, the establishment of an Islamic state, the universal spread of the call to monotheism, and the elimination of class conflicts from society [3].\n- It established a unified system, formulated international laws, and successfully utilized difficult circumstances to turn the situation in favor of the Muslims [3].\n- The Hijra brought profound religious, political, cultural, demographic, and social impacts upon the society of Medina [3].\n\n### Dispelling Misconceptions Regarding the 13-Year Meccan Struggle\n- The book clarifies that the 13-year Meccan struggle followed by the Hijra was entirely in accordance with divine will and the command of Allah, serving as the first phase of the Madinan revolution [4].\n- It rejects any notion that the migration was the result of trial and error after 13 years of failing to find a desired environment, emphasizing instead that such a thought contradicts divine guidance and is pure disbelief [4].\n\n### Summary\nThe Hijra to Medina was not a retreat born of failed efforts, but a divinely guided, foundational step that established the first Islamic state, birthed a constitutional order, and ushered in a new era of universal Islamic civilization [4][3]."
+  },
+  {
+   "id": "absent-en-1",
+   "language": "English",
+   "expectation": "absent",
+   "question": "What does the book say about the battle of Karbala?",
+   "answered": false,
+   "reason_code": "insufficient_coverage",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 23.9,
+   "words": 99,
+   "answer": "The indexed book does not directly answer this question. Related passages are listed below so you can check the original pages yourself.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 681 — «278. Ira Lapidus, A History of Islamic Societies, CUP, NY, 1988.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 447 — «conceptual structure found in the Qur'an was merely a framework.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 358 — «تمہاری جانوں، تمہارے اموال، تہارے خاندان اورمہارے آدمیوں کے لئے اورتنہیں»"
+  },
+  {
+   "id": "absent-en-2",
+   "language": "English",
+   "expectation": "absent",
+   "question": "What is the Islamic ruling on vaccination?",
+   "answered": false,
+   "reason_code": "explanation_unverified",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 31.8,
+   "words": 140,
+   "answer": "A generated explanation could not be verified against the book, so the relevant passages are shown below in the book's own words. These are source excerpts, not an explanation.\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 477 (printed page 137) — «The system of government, in an Islamic State, is known as \"government in accordance with the revealed law.\" An Islamic State is not a form of state so much as a form of Islam.»\n[2] Muqaddima Seerat ur Rasool 1 1 · PDF page 599 (printed page 598) — «آج سے کم وبیش گیارہ سوسال قبل عالم اسلام کے نامور طبیب الرازی )۹۳۰ء( نے علم»\n[3] Muqaddima Seerat ur Rasool 1 1 · PDF page 586 (printed page 585) — «ایجاد کئے۔ حامد بن لقضر ادی نے آل الیدرس اخری“ ابجاد کیا جے یل اظم)»"
+  },
+  {
+   "id": "absent-ur-1",
+   "language": "Urdu",
+   "expectation": "absent",
+   "question": "کتاب میں کرپٹو کرنسی کے بارے میں کیا لکھا ہے؟",
+   "answered": true,
+   "reason_code": "",
+   "coverage": "full",
+   "verification": "audited",
+   "cited_pages": [
+    447,
+    590,
+    604,
+    588,
+    482,
+    609,
+    582,
+    521,
+    605,
+    27,
+    603
+   ],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 28.1,
+   "words": 99,
+   "answer": "ڈاکٹر محمد طاہر القادری کی کتاب \"مقدمہ سیرۃ الرسول (حصہ اول)\" کے مہیا کردہ مندرجات میں کرپٹو کرنسی (Crypto Currency) کے بارے میں کوئی بحث یا تذکرہ موجود نہیں ہے۔ \n\nموجودہ صفحات میں سیرت النبی ﷺ کی ریاستی اہمیت، انتظامی ڈھانچے، اور علمی و سائنسی خدمات (جیسے ریاضی، الجبرا، جراحی، طب، قانون اور تاریخ وغیرہ) کے موضوعات پر تفصیلات بیان کی گئی ہیں [1][2][3][4][5][6][7]، البتہ کرپٹو کرنسی کا ان حصوں میں کوئی ذکر نہیں ہے۔\n\n### خلاصہ\nمختصراً یہ کہ کتاب کے ان ابواب اور صفحات میں کرپٹو کرنسی کے متعلق کوئی معلومات یا مواد شامل نہیں ہے [1][2][8][3][9][4][10][5][6][11][7]۔"
+  },
+  {
+   "id": "absent-hi-1",
+   "language": "Hindi",
+   "expectation": "absent",
+   "question": "इस किताब में हज के नियम विस्तार से बताए गए हैं?",
+   "answered": true,
+   "reason_code": "partial_coverage",
+   "coverage": "partial",
+   "verification": "audited",
+   "cited_pages": [
+    447
+   ],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-3.5-flash-lite",
+   "fallback": "",
+   "seconds": 21.1,
+   "words": 176,
+   "answer": "اس کتاب میں حج کے تفصیلی احکام و مسائل کا ذکر نہیں ہے، البتہ اس میں حضور نبی اکرم ﷺ کی سیرت اور ریاست مدینہ کے سیاسی و سماجی پہلوؤں پر بحث کی گئی ہے۔ [1]\n\n### خطبہ حجة الوداع और ریاستی حکمت عملی\n* पुस्तक में यह बताया गया है कि किस प्रकार पैगंबर महोदय ﷺ ने अपनी दूरअंदेश राजनीतिक रणनीति और सामाजिक सुधारों के माध्यम से एक छोटी सी रियासत को विश्व-साम्राज्य में बदलने की नींव रखी [1]।\n*  Montgomery Watt) और माइकल कुक (Michael Cook) के हवाले से यह वर्णित है कि कुरआन में पाए जाने वाले वैचारिक ढांचे को ठोस नीतियों और संस्थानों के रूप में स्थापित किया गया था, और पैगंबर ﷺ ने अपने समय के अरबों के लिए एकेश्वरवाद और उनकी जनजातीय राजनीति के बीच एक मजबूत समन्वय स्थापित किया [1]।\n\n### सारांश\nاس کتاب میں حج کے تفصیلی فقہی احکام و مسائل کا ذکر نہیں ہے، البتہ اس میں حضور نبی اکرم ﷺ کی سیرت اور ریاست مدینہ کے سیاسی و سماجی پہلوؤں پر بحث کی گئی ہے۔ [1]"
+  },
+  {
+   "id": "oos-en-1",
+   "language": "English",
+   "expectation": "absent",
+   "question": "What is the current stock price of Apple?",
+   "answered": false,
+   "reason_code": "out_of_scope",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-flash-lite-latest",
+   "fallback": "",
+   "seconds": 3.4,
+   "words": 16,
+   "answer": "I could not find sufficient verified evidence in the available books. Please consult a qualified scholar."
+  },
+  {
+   "id": "oos-en-2",
+   "language": "English",
+   "expectation": "absent",
+   "question": "How do I build a spaceship engine?",
+   "answered": false,
+   "reason_code": "out_of_scope",
+   "coverage": "none",
+   "verification": "",
+   "cited_pages": [],
+   "expected_pages": [],
+   "page_hit": null,
+   "answering": "gemini/gemini-flash-lite-latest",
+   "fallback": "",
+   "seconds": 3.5,
+   "words": 16,
+   "answer": "I could not find sufficient verified evidence in the available books. Please consult a qualified scholar."
+  }
+ ]
+}

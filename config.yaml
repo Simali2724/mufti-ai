@@ -1,0 +1,51 @@
+models:
+  ollama: qwen3:1.7b
+  openai: gpt-4.1-mini
+  gemini: gemini-3.5-flash
+  anthropic: claude-sonnet-4-6
+# UI selections in model-settings.json override these defaults.
+reranker_model: BAAI/bge-reranker-v2-m3
+embedding_num_gpu: 99
+# How long bge-m3 stays on the GPU after a search (app/retrieval/vector_store.embedding_keep_alive).
+# Cloud answering: nothing else needs the GPU, keep it warm (cold load measured 10-19 s).
+# Local answering: bge-m3 + qwen3:1.7b do not both fit in 2 GB, so release it sooner.
+embedding_keep_alive_cloud: 30m
+embedding_keep_alive_local: 5m
+chunk_size: 2400
+chunk_overlap: 350
+provider_timeout: 180
+# Max silence (s) between chunks of a streamed CLOUD answer before trying the next model.
+# Measured 2026-11-17: gemini-3.5-flash stalled for the full 180 s on live questions. See providers.py.
+stream_read_timeout: 60
+# Local generation on this 2 GB GPU runs at about 3 tokens/s for the answer schema, so a
+# sectioned answer legitimately needs several minutes. See app/llm/providers.py.
+ollama_timeout: 900
+circuit_failures: 3
+circuit_cooldown: 60
+ollama_max_num_ctx: 8192
+# Tried in order when the selected Gemini model is overloaded (503), rate limited (429) or
+# retired (404), before falling through to the next provider. Same API key.
+# Free tier, measured 2026-11-16: about 20 requests/day PER MODEL, so spreading load across
+# models multiplies daily capacity. gemini-flash-latest removed: it timed out on every call.
+gemini_alternates: [gemini-2.5-flash, gemini-3-flash-preview, gemini-3.5-flash-lite, gemini-3.1-flash-lite, gemini-flash-lite-latest]
+# Models tried FIRST for a given task. The audit is a judging task on supplied text, so it runs
+# on a lighter model and leaves the main model's (small, per-model) free quota for answers.
+task_models:
+  # Strong first-pass fact-check (2026-11-18): measured on 6 final answers, gemini-2.5-flash still found
+  # 3/62 sentences (4.8%) that the lite audit had passed. Only this list is used (own quota); on
+  # failure or timeout the lite 'audit' chain below runs instead (app/agents/explain_agent.audit).
+  # 2026-11-18 later: gemini-2.5-flash's free daily quota ran out and the lite judge then let 2 real errors
+  # through (eval/residual-audit-after.json); gemini-3-flash-preview (low thinking) is the second strong judge.
+  audit_strong:
+    gemini: [gemini-2.5-flash, gemini-3-flash-preview]
+  audit:
+    gemini: [gemini-3.1-flash-lite, gemini-flash-lite-latest, gemini-3.5-flash-lite]
+  language:
+    gemini: [gemini-flash-lite-latest, gemini-3.5-flash-lite]
+  subtopics:
+    gemini: [gemini-flash-lite-latest, gemini-3.5-flash-lite]
+  router:
+    gemini: [gemini-flash-lite-latest, gemini-3.5-flash-lite]
+  # Quiz from an answer: on demand, a judging/rewriting task on supplied statements -> lite models.
+  quiz:
+    gemini: [gemini-3.1-flash-lite, gemini-flash-lite-latest, gemini-3.5-flash-lite]

@@ -1,0 +1,100 @@
+{
+ "summary": {
+  "model": "gemini-3-flash-preview",
+  "answers": 3,
+  "errors": 1,
+  "sentences": 58,
+  "flagged": 7,
+  "flag_rate": 0.121,
+  "uncited_sentences": 0,
+  "by_issue": {
+   "unsupported": 7,
+   "misattributed": 0,
+   "overstated": 0,
+   "contradicted": 0
+  },
+  "caveat": "judge sees only cited pages; a flag means \"needs human review\", not a proven error"
+ },
+ "results": [
+  {
+   "session": "dfc531e1-1616-44c4-8ea1-28e245b015e7",
+   "question": "Explain this passage in the light of my books:\n\n“Development of Human Bones, Tissues\n\nand Body Form”",
+   "language": "English",
+   "verification_at_answer": "audited",
+   "sentences": 4,
+   "uncited": 0,
+   "flagged": [
+    {
+     "id": 4,
+     "issue": "unsupported",
+     "sentence": "These stages include inorganic matter, water, clay, adsorbable clay, physically and chemically altered mud, dried or highly purified clay, and finally, the extract [5][4]",
+     "suggested_fix": "These stages include inorganic matter, water, clay, adsorbable clay, physically and chemically altered mud, dried or highly purified clay, and finally, the extract of purified clay [5, 4]."
+    }
+   ],
+   "seconds": 11.1
+  },
+  {
+   "session": "live-1db5778676",
+   "question": "Hijrat ke baad Madina mein Nabi ﷺ ne kya kya kaam kiye? Tafseel se samjhao",
+   "language": "Hinglish",
+   "verification_at_answer": "audited",
+   "sentences": 15,
+   "uncited": 0,
+   "flagged": [
+    {
+     "id": 12,
+     "issue": "unsupported",
+     "sentence": "Hajrat ke baad ke saalon ke andar andar Nabi-e-Akram ﷺ ne badwi qabaail ke sath ittehad qayam karne ki behtareen hikmat-e-amali apnayi [6].",
+     "suggested_fix": "Hajrat ke baad das saalon ke andar andar Nabi-e-Akram ﷺ ne badwi qabaail ke sath ittehad qayam karne ki behtareen hikmat-e-amali apnayi. [6]"
+    }
+   ],
+   "seconds": 2.5
+  },
+  {
+   "session": "live-623d72d8aa",
+   "question": "انسان کی تخلیق کے کیمیائی مراحل کیا ہیں؟",
+   "language": "Urdu",
+   "verification_at_answer": "audited",
+   "sentences": 39,
+   "uncited": 0,
+   "flagged": [
+    {
+     "id": 20,
+     "issue": "unsupported",
+     "sentence": "قرآن نے پانچ مرکبات کے مجموعے کو مٹی کا کیمیائی نچوڑ قرار دیا ہے، جن میں سے پانچ قابل ذکر ہیں [7].",
+     "suggested_fix": "قرآن نے پانچ مرکبات کے مجموعے کو مٹی کا کیمیائی نچوڑ قرار دیا ہے، جن میں سے پانچ قابل ذکر ہیں [7]۔"
+    },
+    {
+     "id": 21,
+     "issue": "unsupported",
+     "sentence": "فیٹی ایسڈز (Fatty Acids) [7]",
+     "suggested_fix": "گلیسرین (Glycerin)، فیٹی ایسڈز (Fatty Acids) [7]"
+    },
+    {
+     "id": 22,
+     "issue": "unsupported",
+     "sentence": "امائنو ایسڈز (Amino Acids) [7]",
+     "suggested_fix": "امائنو ایسڈز (Amino Acids) [7]"
+    },
+    {
+     "id": 23,
+     "issue": "unsupported",
+     "sentence": "نائٹروجن گیسز (Nitrogen Gases) [7]",
+     "suggested_fix": "نائٹروجن گیسز (Nitrogen Gases) [7]"
+    },
+    {
+     "id": 26,
+     "issue": "unsupported",
+     "sentence": "پولی سیکارائڈز (Poly Saccharides) [7].",
+     "suggested_fix": "پولی سیکارائڈز (Poly Saccharides) اور پروٹینز (Proteins) [7]"
+    }
+   ],
+   "seconds": 6.3
+  },
+  {
+   "session": "live-8ea332c258",
+   "question": "Hijrat ke baad Madina mein Nabi ﷺ ne kya kya kaam kiye? Tafseel se samjhao",
+   "error": "HTTPStatusError"
+  }
+ ]
+}

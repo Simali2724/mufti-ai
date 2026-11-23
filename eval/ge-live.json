@@ -1,0 +1,85 @@
+{
+ "answer": "The indexed book does not directly answer this question. Related passages are listed below so you can check the original pages yourself.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 260 — «System of State Devolution of Authority Balance of Powers Regional Autonomy Rule of Law Recognition of Local Customs & Laws) Economics Self Reliance Defence Pacts & Alliances Contemporary Distinctions Guarantee …»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 601 — «ophthalmology textbooks medical colleges E.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 207 — «این خلدون، مقدمہ، القرآن، النساء،»",
+ "language": "English",
+ "citations": [],
+ "related": [
+  {
+   "id": 1,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 260,
+   "printed_label": 259,
+   "chapter": "۳۔ نظام مللت ) (",
+   "excerpt": "System of State Devolution of Authority Balance of Powers Regional Autonomy Rule of Law Recognition of Local Customs & Laws) Economics Self Reliance Defence Pacts & Alliances Contemporary Distinctions Guarantee …",
+   "ocr": true,
+   "relation": "same_concept"
+  },
+  {
+   "id": 2,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 601,
+   "printed_label": 10,
+   "chapter": ")۱۰ مقرمہ سیرڈ الرسول میونم",
+   "excerpt": "ophthalmology textbooks medical colleges E.",
+   "ocr": true,
+   "relation": "same_concept"
+  },
+  {
+   "id": 3,
+   "book_id": "46a52585612a906c",
+   "book_title": "Muqaddima Seerat ur Rasool 1 1",
+   "page": 207,
+   "printed_label": 1,
+   "chapter": "۲۲۔ وَادا قیلْ لَھُم تعالوْا!ا مَاانوَلَ اللہواا الرَسُولِ رَایْتَ الّمُافْقینَ یَصدُرنَ",
+   "excerpt": "این خلدون، مقدمہ، القرآن، النساء،",
+   "ocr": true,
+   "relation": "same_concept"
+  }
+ ],
+ "provider_used": "ollama",
+ "model_used": "llama3.2:3b",
+ "fallback_used": false,
+ "execution": [
+  {
+   "task": "answer",
+   "provider": "ollama",
+   "model": "llama3.2:3b",
+   "fallback": false
+  },
+  {
+   "task": "verifier",
+   "provider": "ollama",
+   "model": "llama3.2:3b",
+   "fallback": false
+  },
+  {
+   "task": "answer",
+   "provider": "ollama",
+   "model": "llama3.2:3b",
+   "fallback": false
+  }
+ ],
+ "reason_code": "insufficient_coverage",
+ "retrieved_count": 60,
+ "evidence_pages": [
+  260,
+  601,
+  207,
+  621,
+  200,
+  411,
+  189,
+  435
+ ],
+ "grounded": false,
+ "coverage": "none",
+ "missing_aspects": [],
+ "selected_provider": "ollama",
+ "selected_model": "llama3.2:3b",
+ "answering_provider": "ollama",
+ "answering_model": "llama3.2:3b",
+ "fallback_reason": "",
+ "latency_ms": 866750,
+ "status": "complete"
+}

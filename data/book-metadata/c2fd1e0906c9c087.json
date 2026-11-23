@@ -1,0 +1,350 @@
+{
+ "book_id": "c2fd1e0906c9c087",
+ "pdf_sha256": "8a12023a653c00a6ff06f3844dcc66c29c700809efa2ea64694635f402cb906d",
+ "review_status": "visually_verified",
+ "review_date": "2026-11-16",
+ "review_method": "Title page 1 and copyright page 2 rendered and visually read; embedded text layer matches. Outline: chapter and section headings located in the page text and checked against the contents pages 3-5 (printed page + 5 for chapters one to three).",
+ "aliases": [
+  "Creation of Man",
+  "Creation of Man (A Review of the Quran & Modern Embryology)",
+  "creation man 1",
+  "Takhleeq-e-Insan"
+ ],
+ "facts": {
+  "title": {
+   "page": 1,
+   "quote": "Creation of Man (A Review of the Qur'an & Modern Embryology)",
+   "values": {
+    "English": "Creation of Man (A Review of the Qur'an & Modern Embryology)",
+    "Hinglish": "Creation of Man (Qur'an aur Modern Embryology ka jaiza)",
+    "Urdu": "تخلیقِ انسان (قرآن اور جدید علم الجنین کا جائزہ)",
+    "Hindi": "क्रिएशन ऑफ़ मैन (क़ुरआन और आधुनिक भ्रूणविज्ञान की समीक्षा)"
+   }
+  },
+  "author": {
+   "page": 1,
+   "quote": "Prof. Dr. Muhammad Tahir-ul-Qadri",
+   "values": {
+    "English": "Prof. Dr. Muhammad Tahir-ul-Qadri",
+    "Hinglish": "Prof. Dr. Muhammad Tahir-ul-Qadri",
+    "Urdu": "پروفیسر ڈاکٹر محمد طاہر القادری",
+    "Hindi": "प्रो. डॉ. मुहम्मद ताहिर-उल-क़ादरी"
+   }
+  },
+  "editor": {
+   "page": 1,
+   "quote": "EDITED BY: M. Asim Naveed",
+   "values": {
+    "English": "M. Asim Naveed",
+    "Urdu": "ایم عاصم نوید",
+    "Hindi": "एम. आसिम नवीद"
+   }
+  },
+  "publisher": {
+   "page": 2,
+   "quote": "Published by: Minhaj-ul-Qur'an Publications",
+   "values": {
+    "English": "Minhaj-ul-Qur'an Publications, Lahore",
+    "Urdu": "منہاج القرآن پبلیکیشنز، لاہور",
+    "Hindi": "मिन्हाज-उल-क़ुरआन पब्लिकेशन्स, लाहौर"
+   }
+  },
+  "first_published": {
+   "page": 2,
+   "quote": "Copyright © 2001 by Minhaj-ul-Qur'an Movement",
+   "values": {
+    "English": "2001 (copyright year)",
+    "Hinglish": "2001 (copyright saal)",
+    "Urdu": "2001ء (حقِ اشاعت)",
+    "Hindi": "2001 (कॉपीराइट वर्ष)"
+   }
+  }
+ },
+ "outline": [
+  {
+   "title": "Preface",
+   "page": 6,
+   "chapter": true
+  },
+  {
+   "title": "Chapter One: The Rationale behind the Scientific Study of the Qur'an",
+   "page": 10,
+   "chapter": true
+  },
+  {
+   "title": "Conflict between Religion and Science",
+   "page": 12,
+   "chapter": false
+  },
+  {
+   "title": "Qur'an and Invitation to Scientific Study",
+   "page": 13,
+   "chapter": false
+  },
+  {
+   "title": "The Qur'an – a Supreme source of Knowledge",
+   "page": 16,
+   "chapter": false
+  },
+  {
+   "title": "Biological and Physical facts of the Universe and the Qur'an",
+   "page": 16,
+   "chapter": false
+  },
+  {
+   "title": "Chapter Two: The Unscientific Myth of Darwinian Evolution and the Qur'an",
+   "page": 18,
+   "chapter": true
+  },
+  {
+   "title": "The Unscientific Myth of Darwinian Evolution",
+   "page": 18,
+   "chapter": false
+  },
+  {
+   "title": "The Most Progressive Evolutionists",
+   "page": 22,
+   "chapter": false
+  },
+  {
+   "title": "Qur'an on Evolution",
+   "page": 29,
+   "chapter": false
+  },
+  {
+   "title": "Emergence of Mankind from One Man",
+   "page": 32,
+   "chapter": false
+  },
+  {
+   "title": "Special Creation of Adam",
+   "page": 33,
+   "chapter": false
+  },
+  {
+   "title": "Summing up",
+   "page": 36,
+   "chapter": false
+  },
+  {
+   "title": "Chapter Three: Chemical Stages of Human Creation",
+   "page": 38,
+   "chapter": true
+  },
+  {
+   "title": "Sustenance system and chemical stages of human creation",
+   "page": 40,
+   "chapter": false
+  },
+  {
+   "title": "Inorganic matter",
+   "page": 41,
+   "chapter": false
+  },
+  {
+   "title": "Water",
+   "page": 42,
+   "chapter": false
+  },
+  {
+   "title": "Clay",
+   "page": 43,
+   "chapter": false
+  },
+  {
+   "title": "Adsorbable clay",
+   "page": 44,
+   "chapter": false
+  },
+  {
+   "title": "Physically and chemically altered old mud (Masnûn)",
+   "page": 46,
+   "chapter": false
+  },
+  {
+   "title": "Dried or high sounding purified clay",
+   "page": 47,
+   "chapter": false
+  },
+  {
+   "title": "Extract of purified clay",
+   "page": 49,
+   "chapter": false
+  },
+  {
+   "title": "Scientific interpretation of the above mentioned chemical stages",
+   "page": 50,
+   "chapter": false
+  },
+  {
+   "title": "Chapter Four: Biological Stages of Human Creation",
+   "page": 55,
+   "chapter": true
+  },
+  {
+   "title": "Biochemistry",
+   "page": 57,
+   "chapter": false
+  },
+  {
+   "title": "Nucleic Acids",
+   "page": 58,
+   "chapter": false
+  },
+  {
+   "title": "Proteins",
+   "page": 58,
+   "chapter": false
+  },
+  {
+   "title": "Carbohydrates",
+   "page": 58,
+   "chapter": false
+  },
+  {
+   "title": "Liquids",
+   "page": 59,
+   "chapter": false
+  },
+  {
+   "title": "The Beginning of Embryonic Development",
+   "page": 59,
+   "chapter": false
+  },
+  {
+   "title": "Seminal Fluid",
+   "page": 60,
+   "chapter": false
+  },
+  {
+   "title": "Motility",
+   "page": 62,
+   "chapter": false
+  },
+  {
+   "title": "Necessity of Gametes",
+   "page": 63,
+   "chapter": false
+  },
+  {
+   "title": "Fertilization",
+   "page": 64,
+   "chapter": false
+  },
+  {
+   "title": "Process of Cellular Division (Cleavage or Segmentation)",
+   "page": 67,
+   "chapter": false
+  },
+  {
+   "title": "Formation of the Embryo",
+   "page": 69,
+   "chapter": false
+  },
+  {
+   "title": "Structure of the Uterus",
+   "page": 69,
+   "chapter": false
+  },
+  {
+   "title": "Implantation of the Egg in the Uterus",
+   "page": 70,
+   "chapter": false
+  },
+  {
+   "title": "Formation of Germ Layers",
+   "page": 71,
+   "chapter": false
+  },
+  {
+   "title": "Development of Somites",
+   "page": 72,
+   "chapter": false
+  },
+  {
+   "title": "Development of Human Bones",
+   "page": 73,
+   "chapter": false
+  },
+  {
+   "title": "Tissues and Body Form",
+   "page": 73,
+   "chapter": false
+  },
+  {
+   "title": "Formation of Bones and Muscles",
+   "page": 73,
+   "chapter": false
+  },
+  {
+   "title": "Embryonic development: Weeks 4-6",
+   "page": 74,
+   "chapter": false
+  },
+  {
+   "title": "Embryonic development: Weeks 6-8",
+   "page": 75,
+   "chapter": false
+  },
+  {
+   "title": "Development of the Fetus and Birth",
+   "page": 77,
+   "chapter": false
+  },
+  {
+   "title": "Viability of the Fetus",
+   "page": 77,
+   "chapter": false
+  },
+  {
+   "title": "Parturition - Childbirth",
+   "page": 78,
+   "chapter": false
+  },
+  {
+   "title": "Miscellaneous aspects of Human Creation",
+   "page": 79,
+   "chapter": false
+  },
+  {
+   "title": "Divine Providence & Beautiful Order in Human Creation (Man's Formation)",
+   "page": 79,
+   "chapter": false
+  },
+  {
+   "title": "Takhlîq (creation) and Tasviah (arrangement)",
+   "page": 80,
+   "chapter": false
+  },
+  {
+   "title": "Taqdîr (determining measures)",
+   "page": 81,
+   "chapter": false
+  },
+  {
+   "title": "Manifestation of Providence during Pregnancy",
+   "page": 82,
+   "chapter": false
+  },
+  {
+   "title": "Conclusion",
+   "page": 83,
+   "chapter": true
+  },
+  {
+   "title": "Glossary",
+   "page": 86,
+   "chapter": true
+  },
+  {
+   "title": "Bibliography",
+   "page": 87,
+   "chapter": true
+  },
+  {
+   "title": "Indices",
+   "page": 89,
+   "chapter": true
+  }
+ ]
+}

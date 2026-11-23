@@ -1,0 +1,76 @@
+2026-11-16 10:06:58,552 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:07:03,262 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
+2026-11-16 10:07:03,288 WARNING mufti task=explain provider=gemini model=gemini-2.5-flash failure=429
+2026-11-16 10:07:04,302 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
+2026-11-16 10:07:04,314 WARNING mufti task=explain provider=gemini model=gemini-3.5-flash failure=429
+2026-11-16 10:07:10,873 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:07:12,889 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:07:16,000 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:07:16,017 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:07:26,939 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:07:34,306 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:07:37,323 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:07:40,350 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:07:40,366 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:07:51,457 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:07:57,204 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:07:59,889 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:08:03,278 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:08:03,291 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:08:16,210 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:08:16,223 INFO mufti task=language provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:08:20,383 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:08:27,575 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:08:31,073 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:08:34,899 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:08:34,912 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:08:46,420 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:08:53,361 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:08:56,721 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:08:59,630 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:08:59,645 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:09:11,267 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:09:11,282 INFO mufti task=language provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:09:13,784 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:09:19,924 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:09:21,173 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:09:24,567 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:09:24,590 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:09:36,798 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:09:36,811 INFO mufti task=language provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:09:39,760 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:09:46,040 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:09:47,980 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:09:51,255 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:09:51,271 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:10:02,638 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:10:02,651 INFO mufti task=language provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:10:05,967 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:10:14,919 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:10:14,946 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:10:18,073 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:10:18,085 INFO mufti task=subtopics provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:10:21,590 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:10:29,354 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:10:29,369 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:10:41,151 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:10:41,164 INFO mufti task=language provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:10:43,893 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:10:50,255 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-11-16 10:10:53,094 INFO mufti task=explain provider=gemini model=gemini-3-flash-preview
+2026-11-16 10:10:55,855 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-11-16 10:10:55,868 INFO mufti task=audit provider=gemini model=gemini-3.1-flash-lite
+2026-11-16 10:11:06,212 INFO httpx HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-11-16 10:11:06,238 WARNING mufti task=language provider=gemini model=gemini-3-flash-preview failure=429
+2026-11-16 10:14:07,985 WARNING mufti task=language provider=gemini model=gemini-flash-latest failure=ReadTimeout
+2026-11-16 10:17:10,275 WARNING mufti task=language provider=gemini model=gemini-flash-latest failure=ReadTimeout
+2026-11-16 10:17:11,458 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-16 10:17:37,716 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-16 10:17:37,741 INFO mufti task=language provider=ollama model=qwen3:1.7b
+2026-11-16 10:17:40,212 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-16 10:18:10,180 INFO httpx HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2026-11-16 10:21:11,967 WARNING mufti task=explain provider=gemini model=gemini-flash-latest failure=ReadTimeout
+2026-11-16 10:24:14,460 WARNING mufti task=explain provider=gemini model=gemini-flash-latest failure=ReadTimeout
+2026-11-16 10:24:15,884 INFO httpx HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-11-16 10:26:21,589 INFO httpx HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-16 10:28:48,456 INFO mufti task=explain provider=ollama model=qwen3:1.7b

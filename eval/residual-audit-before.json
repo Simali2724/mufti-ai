@@ -1,0 +1,100 @@
+{
+ "summary": {
+  "model": "gemini-2.5-flash",
+  "answers": 6,
+  "errors": 0,
+  "sentences": 62,
+  "flagged": 3,
+  "flag_rate": 0.048,
+  "uncited_sentences": 3,
+  "by_issue": {
+   "unsupported": 1,
+   "misattributed": 1,
+   "overstated": 1,
+   "contradicted": 0
+  },
+  "caveat": "judge sees only cited pages; a flag means \"needs human review\", not a proven error"
+ },
+ "results": [
+  {
+   "session": "8b6675a0-c5f4-40bf-b369-bab2d9313601",
+   "question": "Explain “سیرت الرسول ﷺ کا بطور رسولِ اِنسانیت مطالعہ” in detail",
+   "language": "Urdu",
+   "verification_at_answer": "audited",
+   "sentences": 10,
+   "uncited": 0,
+   "flagged": [
+    {
+     "id": 8,
+     "issue": "overstated",
+     "sentence": "مغربی علماء بھی اس بات کو تسلیم کرتے ہیں کہ حضور نبی اکرم ﷺ کا دین اور ریاست (سیاست) کو یکجا کرنا، مسلمانوں کے نزدیک آپ ﷺ کے خدا کے رسول ہونے کا منفرد ثبوت ہے [4]۔",
+     "suggested_fix": "این میری شمل کے مطابق، مسلمانوں کا یہ عقیدہ ہے کہ حضور نبی اکرم ﷺ کا دین اور ریاست (سیاست) کو یکجا کرنا، آپ ﷺ کے خدا کے رسول ہونے کا منفرد ثبوت ہے [4]."
+    },
+    {
+     "id": 9,
+     "issue": "misattributed",
+     "sentence": "یہ آپ ﷺ کی عظمت اور آپ ﷺ کے پیغام کی سچائی کو ظاہر کرتا ہے [4]۔",
+     "suggested_fix": "مسلمانوں کے نزدیک یہ آپ ﷺ کی عظمت اور آپ ﷺ کے پیغام کی سچائی کو ظاہر کرتا ہے [4]."
+    }
+   ],
+   "seconds": 19.0
+  },
+  {
+   "session": "live-6b7a09ad89",
+   "question": "Misaq-e-Madina kya tha?",
+   "language": "Hinglish",
+   "verification_at_answer": "audited",
+   "sentences": 6,
+   "uncited": 0,
+   "flagged": [],
+   "seconds": 8.5
+  },
+  {
+   "session": "live-4dc6e44da3",
+   "question": "Misaq-e-Madina kya tha?",
+   "language": "Hinglish",
+   "verification_at_answer": "audited",
+   "sentences": 6,
+   "uncited": 0,
+   "flagged": [],
+   "seconds": 13.3
+  },
+  {
+   "session": "live-d96d633445",
+   "question": "Give a summary of “Development of Human Bones”",
+   "language": "English",
+   "verification_at_answer": "audited",
+   "sentences": 15,
+   "uncited": 0,
+   "flagged": [],
+   "seconds": 8.9
+  },
+  {
+   "session": "live-36764a7b1c",
+   "question": "Misaq-e-Madina kya tha?",
+   "language": "Hinglish",
+   "verification_at_answer": "audited",
+   "sentences": 8,
+   "uncited": 1,
+   "flagged": [],
+   "seconds": 11.9
+  },
+  {
+   "session": "a15a1374-9dc3-4b2c-98eb-4fa3da7a3c18",
+   "question": "mujhe 5 islamic baat batao referance ke saath",
+   "language": "Hinglish",
+   "verification_at_answer": "audited",
+   "sentences": 17,
+   "uncited": 2,
+   "flagged": [
+    {
+     "id": 16,
+     "issue": "unsupported",
+     "sentence": "Jab unhon ne a'raaf kiya ke unhein mukhtalif suraten yaad hain, to Aap ﷺ ne Qur'an ki un suraton ki ta'leem hi ko mehar ke taur par qbool farmaya [4].",
+     "suggested_fix": ""
+    }
+   ],
+   "seconds": 25.0
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "summary": {
+  "model": "gemini-3-flash-preview",
+  "answers": 2,
+  "errors": 4,
+  "sentences": 27,
+  "flagged": 0,
+  "flag_rate": 0.0,
+  "uncited_sentences": 0,
+  "by_issue": {
+   "unsupported": 0,
+   "misattributed": 0,
+   "overstated": 0,
+   "contradicted": 0
+  },
+  "caveat": "judge sees only cited pages; a flag means \"needs human review\", not a proven error"
+ },
+ "results": [
+  {
+   "session": "live-2f30dfd656",
+   "question": "What did Western scholars write about the Prophet ﷺ?",
+   "error": "HTTPStatusError"
+  },
+  {
+   "session": "live-d0b65f5a8c",
+   "question": "انسان کی تخلیق کے کیمیائی مراحل کیا ہیں؟",
+   "error": "HTTPStatusError"
+  },
+  {
+   "session": "live-35a066a66a",
+   "question": "What did Western scholars write about the Prophet ﷺ?",
+   "language": "English",
+   "verification_at_answer": "citations_checked",
+   "sentences": 21,
+   "uncited": 0,
+   "flagged": [],
+   "seconds": 2.3
+  },
+  {
+   "session": "8b6675a0-c5f4-40bf-b369-bab2d9313601",
+   "question": "Explain “سیرت الرسول ﷺ کا بطور رسولِ اِنسانیت مطالعہ” in detail",
+   "error": "HTTPStatusError"
+  },
+  {
+   "session": "live-6b7a09ad89",
+   "question": "Misaq-e-Madina kya tha?",
+   "language": "Hinglish",
+   "verification_at_answer": "audited",
+   "sentences": 6,
+   "uncited": 0,
+   "flagged": [],
+   "seconds": 2.3
+  },
+  {
+   "session": "live-4dc6e44da3",
+   "question": "Misaq-e-Madina kya tha?",
+   "error": "HTTPStatusError"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "summary": {
+  "mode": "answers",
+  "cases": 3,
+  "in_progress": true
+ },
+ "rows": [
+  {
+   "id": "ge-en-1",
+   "question": "Explain Gender Equality in detail",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257
+   ],
+   "grounded": true,
+   "coverage": "partial",
+   "reason_code": "partial_coverage",
+   "cited_pages": [
+    257
+   ],
+   "evidence_pages": [
+    50,
+    257,
+    282,
+    286,
+    378,
+    374,
+    339,
+    280
+   ],
+   "citation_pages_expected": true,
+   "citations_verbatim": true,
+   "false_refusal": false,
+   "answered_absent_topic": false,
+   "answering_model": "gemini-2.5-flash",
+   "selected_model": "gemini-2.5-flash",
+   "fallback_reason": "gemini: 503",
+   "missing_aspects": [
+    "A detailed definition of gender equality.",
+    "Islamic principles or specific rulings on gender equality beyond adult franchise.",
+    "Historical context or examples of gender equality in Islamic societies.",
+    "The scope and limits of gender equality in Islamic jurisprudence."
+   ],
+   "latency_ms": 102282,
+   "answer": "The book covers part of this question:\n\nGender Equality in Franchise and Law\nThere should be no gender discrimination when it comes to adult franchise. [1]\n\nNot covered in this book\n· A detailed definition of gender equality.\n· Islamic principles or specific rulings on gender equality beyond adult franchise.\n· Historical context or examples of gender equality in Islamic societies.\n· The scope and limits of gender equality in Islamic jurisprudence.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 50 — «The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 282 — «میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 286 — «میثای مدینہ، آرٹیکل میثای مدینہ، آرٹیکل»\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 257 (printed page 16) — «(Adult Franchise) (No Gender Discrimination in Adult Franchise)»"
+  },
+  {
+   "id": "ge-en-2",
+   "question": "What does the book say about equality between men and women?",
+   "language": "English",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257,
+    286
+   ],
+   "grounded": true,
+   "coverage": "partial",
+   "reason_code": "partial_coverage",
+   "cited_pages": [
+    257,
+    50
+   ],
+   "evidence_pages": [
+    257,
+    50,
+    378,
+    350,
+    366,
+    260,
+    279,
+    374
+   ],
+   "citation_pages_expected": true,
+   "citations_verbatim": true,
+   "false_refusal": false,
+   "answered_absent_topic": false,
+   "answering_model": "gemini-2.5-flash",
+   "selected_model": "gemini-2.5-flash",
+   "fallback_reason": "",
+   "missing_aspects": [
+    "Specific Islamic teachings on gender equality.",
+    "Historical examples of gender equality in Islamic societies.",
+    "Detailed explanations of the scope of \"equal human rights\" or \"no gender discrimination\" in an Islamic context."
+   ],
+   "latency_ms": 77609,
+   "answer": "The book covers part of this question:\n\nConstitutional Principles of Equality\nThere is no gender discrimination in adult franchise. [1]\n\nGender Equality in Comparative Context\nAs quoted from Ronald Inglehart and Pippa Norris: Ronald Inglehart and Pippa Norris state that gender equality is a primary cultural difference between the West and Islam. [2]\nAs quoted from Ronald Inglehart and Pippa Norris: Ronald Inglehart and Pippa Norris suggest that gender equality could be a core issue in any conflict between Islam and the West. [2]\nAs quoted from Ronald Inglehart and Pippa Norris: Ronald Inglehart and Pippa Norris highlight a significant gap between Islam and the West regarding gender equality. [2]\n\nNot covered in this book\n· Specific Islamic teachings on gender equality.\n· Historical examples of gender equality in Islamic societies.\n· Detailed explanations of the scope of \"equal human rights\" or \"no gender discrimination\" in an Islamic context.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 378 — «Constitutional Convention No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person …»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 350 — «(Minorities' Rights in Constitution of Madina) i (Right of Life for Minorities) ii (Guarantee of constitutional & legal equality) M]¢ v iii (Protection of the Rights of Minorities) V L …»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 366 — «Constitution constitution constitutio Politics Aristotle Nicomachean Ethics Constitution of Athens A Constitution may be said to be a collection of principles according to which the powers of the government, the …»\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 257 (printed page 16) — «(Adult Franchise) (No Gender Discrimination in Adult Franchise)»\n[2] Muqaddima Seerat ur Rasool 1 1 · PDF page 50 (printed page 49) — «The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.»"
+  },
+  {
+   "id": "ge-ur-1",
+   "question": "صنفی مساوات کے بارے میں کتاب میں کیا لکھا ہے؟",
+   "language": "Urdu",
+   "expectation": "answerable_partial",
+   "expected_pages": [
+    50,
+    257
+   ],
+   "grounded": false,
+   "coverage": "none",
+   "reason_code": "explanation_unverified",
+   "cited_pages": [],
+   "evidence_pages": [
+    50,
+    257,
+    378,
+    282,
+    378,
+    339,
+    374,
+    589
+   ],
+   "citation_pages_expected": false,
+   "citations_verbatim": true,
+   "false_refusal": true,
+   "answered_absent_topic": false,
+   "answering_model": "gemini-2.5-flash",
+   "selected_model": "gemini-2.5-flash",
+   "fallback_reason": "gemini: quota or rate limit reached; anthropic: no API key configured; openai: no API key configured",
+   "missing_aspects": [],
+   "latency_ms": 123906,
+   "answer": "تیار کردہ وضاحت کتاب سے تصدیق نہ ہو سکی، اس لیے متعلقہ اقتباسات کتاب کے اپنے الفاظ میں ذیل میں دیے گئے ہیں۔ یہ ماخذ کے اقتباسات ہیں، وضاحت نہیں۔\n\nحوالہ جات\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 50 (printed 49) — «The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.»\n[2] Muqaddima Seerat ur Rasool 1 1 · PDF page 257 (printed 16) — «(Adult Franchise) (No Gender Discrimination in Adult Franchise)»\n[3] Muqaddima Seerat ur Rasool 1 1 · PDF page 378 (printed 31) — «Constitutional Convention No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.»"
+  }
+ ]
+}

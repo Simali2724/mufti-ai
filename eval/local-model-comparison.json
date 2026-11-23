@@ -1,0 +1,29 @@
+[
+ {
+  "model": "qwen3:1.7b",
+  "id": "ge-en-1",
+  "question": "Explain Gender Equality in detail",
+  "expectation": "answerable_partial",
+  "expected_pages": [
+   50,
+   257
+  ],
+  "grounded": false,
+  "coverage": "none",
+  "reason_code": "unsupported_claims",
+  "cited_pages": [],
+  "evidence_pages": [
+   50,
+   257,
+   282,
+   286,
+   14,
+   280
+  ],
+  "cited_expected_page": false,
+  "claims": 0,
+  "missing_aspects": [],
+  "seconds": 549.2,
+  "answer": "The indexed book does not directly answer this question. Related passages are listed below so you can check the original pages yourself.\n\nRelated passages (these do not directly answer the question)\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 50 — «The most basic cultural fault line between the west and Islam does not concern democracy-it involves issues of gender equality and sexual liberalization.»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 257 — «(Conditional Superordination of State) (Adult Franchise) (No Gender Discrimination in Adult Franchise) (Difference of Opinion as Fundamental Right) (Respect of Majority Opinion) (Elected and Representative Govt) (Structure of Govt System) …»\n· Muqaddima Seerat ur Rasool 1 1 · PDF page 282 — «میثاق مدینہ، آرٹیکل میثاق مدینہ، آرٹیکل»"
+ }
+]

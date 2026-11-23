@@ -1,0 +1,109 @@
+[
+ {
+  "id": "gender_equality",
+  "note": "Surface forms of one concept across scripts. Reviewed against this book's wording on PDF pages 50 and 257.",
+  "forms": {
+   "English": ["gender equality", "equality between men and women", "equality of men and women", "gender discrimination"],
+   "Urdu": ["صنفی مساوات", "نوعی مساوات", "عورت اور مرد کی برابری", "جنسی امتیاز"],
+   "Hindi": ["लैंगिक समानता", "स्त्री पुरुष समानता"],
+   "Hinglish": ["mard aur aurat ki barabari", "sinfi musawat"]
+  },
+  "related": [
+   {"text": "خواتین کے حقوق کا تحفظ", "language": "Urdu", "note": "Protection of women's rights — adjacent, not the same as equality."},
+   {"text": "Right of Protection for Women", "language": "English", "note": "Protection right, not an equality claim."},
+   {"text": "حق رائے دہی", "language": "Urdu", "note": "Adult franchise; the book links it to gender non-discrimination."},
+   {"text": "Adult Franchise", "language": "English", "note": "Voting right context for the gender clause."}
+  ]
+ },
+ {
+  "id": "constitutional_equality",
+  "note": "General equality before the law, distinct from gender equality.",
+  "forms": {
+   "English": ["constitutional equality", "equality in rights", "equal human rights", "equality before law"],
+   "Urdu": ["آئینی مساوات", "حقوق میں برابری", "مساوات کا حق"],
+   "Hindi": ["संवैधानिक समानता", "अधिकारों में समानता"],
+   "Hinglish": ["aaini musawat", "huqooq mein barabari"]
+  },
+  "related": []
+ },
+ {
+  "id": "study_of_seerah",
+  "forms": {
+   "English": ["study of seerah", "importance of seerah", "methodology of seerah"],
+   "Urdu": ["مطالعہ سیرت", "سیرت کی اہمیت", "مطالعہ سیرت کا منہاج"],
+   "Hindi": ["सीरत का अध्ययन", "सीरत का महत्व"],
+   "Hinglish": ["seerat ka mutala", "seerat ki ahmiyat"]
+  },
+  "related": []
+ },
+ {
+  "id": "sources_of_seerah",
+  "forms": {
+   "English": ["sources of seerah", "historical sources", "sources of biography"],
+   "Urdu": ["سیرت کے ماخذ", "تاریخی مآخذ", "ماخذ"],
+   "Hindi": ["सीरत के स्रोत", "ऐतिहासिक स्रोत"],
+   "Hinglish": ["seerat ke makhaz", "tareekhi makhaz"]
+  },
+  "related": []
+ },
+ {
+  "id": "constitution_of_madinah",
+  "forms": {
+   "English": ["constitution of madinah", "charter of madinah", "madina charter"],
+   "Urdu": ["میثاق مدینہ", "آئین مدینہ", "دستور مدینہ"],
+   "Hindi": ["मदीना का संविधान", "मीसाक़ ए मदीना"],
+   "Hinglish": ["meesaq e madina", "aaina e madina"]
+  },
+  "related": []
+ },
+ {
+  "id": "minority_rights",
+  "forms": {
+   "English": ["minority rights", "rights of minorities", "protection of minorities"],
+   "Urdu": ["اقلیتوں کے حقوق", "اقلیتوں کا تحفظ"],
+   "Hindi": ["अल्पसंख्यक अधिकार"],
+   "Hinglish": ["aqliyaton ke huqooq"]
+  },
+  "related": []
+ },
+ {
+  "id": "religious_freedom",
+  "forms": {
+   "English": ["religious freedom", "freedom of religion"],
+   "Urdu": ["مذہبی آزادی", "آزادی مذہب"],
+   "Hindi": ["धार्मिक स्वतंत्रता"],
+   "Hinglish": ["mazhabi azadi"]
+  },
+  "related": []
+ },
+ {
+  "id": "personal_piety",
+  "forms": {
+   "English": ["personal piety", "worship of God", "pietism"],
+   "Urdu": ["انفرادی پاکبازی", "اللہ کی بندگی"],
+   "Hindi": ["व्यक्तिगत पवित्रता"],
+   "Hinglish": ["infiradi pakbazi"]
+  },
+  "related": []
+ },
+ {
+  "id": "western_orientalism",
+  "forms": {
+   "English": ["western writers", "orientalists", "prejudice against islam", "western propaganda"],
+   "Urdu": ["مغربی مصنفین", "مستشرقین", "اسلام کے خلاف پروپیگنڈہ", "تعصب"],
+   "Hindi": ["पश्चिमी लेखक", "पूर्वाग्रह"],
+   "Hinglish": ["maghribi musannifeen", "taassub"]
+  },
+  "related": []
+ },
+ {
+  "id": "human_rights",
+  "forms": {
+   "English": ["human rights", "fundamental rights", "basic human rights"],
+   "Urdu": ["انسانی حقوق", "بنیادی حقوق", "بنیادی انسانی حقوق"],
+   "Hindi": ["मानव अधिकार", "मौलिक अधिकार"],
+   "Hinglish": ["insani huqooq", "bunyadi huqooq"]
+  },
+  "related": []
+ }
+]

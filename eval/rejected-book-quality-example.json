@@ -1,0 +1,65 @@
+{
+  "question": "What does the book say about personal piety and worship of God?",
+  "result": {
+    "answer": "The Quran emphasizes personal piety and worship of God as the foundation of ethical principles. [1]\n\nThe Quran declares 'your esteemed self' as the center of faith, which includes personal piety and worship of God. [1]\n\nSources\n[1] Muqaddima Seerat ur Rasool 1 1 · PDF page 235 — «قرآن آپ کی ذات گرامی کو ہی ایمان بللہ پورے دین کا مرکز ومحور قراردے رہا ہے اور کوئی»",
+    "language": "English",
+    "citations": [
+      {
+        "id": 1,
+        "book_id": "46a52585612a906c",
+        "book_title": "Muqaddima Seerat ur Rasool 1 1",
+        "page": 235,
+        "chapter": "",
+        "excerpt": "قرآن آپ کی ذات گرامی کو ہی ایمان بللہ پورے دین کا مرکز ومحور قراردے رہا ہے اور کوئی",
+        "ocr": true,
+        "transcription_reviewed": false
+      }
+    ],
+    "provider_used": "ollama",
+    "model_used": "qwen3:1.7b",
+    "fallback_used": true,
+    "execution": [
+      {
+        "task": "language",
+        "provider": "ollama",
+        "model": "qwen3:1.7b",
+        "fallback": true
+      },
+      {
+        "task": "router",
+        "provider": "ollama",
+        "model": "qwen3:1.7b",
+        "fallback": true
+      },
+      {
+        "task": "answer",
+        "provider": "ollama",
+        "model": "qwen3:1.7b",
+        "fallback": true
+      },
+      {
+        "task": "verifier",
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "fallback": false
+      },
+      {
+        "task": "answer",
+        "provider": "ollama",
+        "model": "qwen3:1.7b",
+        "fallback": true
+      },
+      {
+        "task": "verifier",
+        "provider": "ollama",
+        "model": "qwen3:1.7b",
+        "fallback": true
+      }
+    ],
+    "reason_code": "",
+    "retrieved_count": 18,
+    "grounded": true,
+    "latency_ms": 270453,
+    "status": "complete"
+  }
+}
